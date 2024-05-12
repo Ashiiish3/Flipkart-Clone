@@ -1,0 +1,59 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(236, 236, 236, 0.658);
+}
+.header, .header .container{
+    height: 65px;
+}
+.header .flipkart-logo{
+    width: 100px;
+}
+.header .flipkart-logo img{
+    width: 100%;
+}
+.header .flipkart-search{
+    width: 60%;
+    background-color: #f0f5ff;
+    border-radius: 8px;
+}
+.header .flipkart-search .ri-search-line{
+    padding: 0px 10px;
+    margin-top: 3px;
+    font-size: 18px;
+    color: gray;
+}
+.header .flipkart-search input{
+    width: 100%;
+    border: none;
+    outline: none;
+    height: 40px;
+    font-size: 17px;
+    background-color: transparent;
+}
+.header button{
+    display: flex;
+    align-items: center;
+    padding: 6px 10px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+    font-family: 'poppins';
+    & i{
+        color: black;
+    }
+    & a{
+        text-decoration: none;
+        color: black;
+    }
+}
+.header .login-button button:hover a{
+    color: white;
+}
+.header .login-button button:hover .user{
+    color: white;
+}
