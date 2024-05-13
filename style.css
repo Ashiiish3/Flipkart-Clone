@@ -2,6 +2,7 @@
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
+    list-style: none;
 }
 body{
     background-color: rgba(236, 236, 236, 0.658);
@@ -56,4 +57,65 @@ body{
 }
 .header .login-button button:hover .user{
     color: white;
+}
+.category{
+    width: 84%;
+    background-color: white;
+    margin: 8px auto;
+    padding: 10px 0px;
+}
+.category .item{
+    width: 70%;
+    margin: auto;
+    padding: 0%;
+    & a{
+        text-decoration: none;
+        color: black;
+        & h6{
+            margin-top: 8px;
+            margin-bottom: 0px;
+        }
+    }
+}
+.category .item a:hover{
+    color: rgba(0, 0, 255, 0.842);
+}
+.slider{
+    width: 84%;
+    margin: 16px auto;
+    position: relative;
+}
+.slider .image-slider button{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0px 14px;
+    height: 80px;
+    background-color: white;
+    color: gray;
+    border: none;
+    z-index: 1;
+}
+.slider .image-slider .prev{
+    left: 0px;
+    border-radius: 0px 5px 5px 0px;
+}
+.slider .image-slider .next{
+    right: 0px;
+    border-radius: 5px 0px 0px 5px;
+}
+.slider .image-slider .dots-container{
+    position: absolute;
+    bottom: 5px;
+    z-index: 3;
+    left: 50%;
+    transform: translateX(-50%);
+    & .dots{
+        display: inline-block;
+        height: 9px;
+        width: 9px;
+        background-color: gray;
+        margin: 1px;
+        border-radius: 50%;
+    }
 }
