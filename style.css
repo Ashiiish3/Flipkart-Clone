@@ -59,7 +59,7 @@ body{
     color: white;
 }
 .category{
-    width: 84%;
+    width: 83%;
     background-color: white;
     margin: 8px auto;
     padding: 10px 0px;
@@ -81,7 +81,7 @@ body{
     color: rgba(0, 0, 255, 0.842);
 }
 .slider{
-    width: 84%;
+    width: 83%;
     margin: 16px auto;
     position: relative;
 }
@@ -118,4 +118,16 @@ body{
         margin: 1px;
         border-radius: 50%;
     }
+}
+.slider .image-slider .dots-container .dots.active{
+    background-color: white;
+    transition: all 0.5s;
+}
+.slider .image-slider .slides{
+    display: flex;
+    overflow: hidden;
+}
+.slider .image-slider .slides img{
+    transition: 1s all;
+    background-color: red;
 }
