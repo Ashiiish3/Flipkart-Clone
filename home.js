@@ -1,3 +1,4 @@
+// Auto slider
 let images = document.querySelectorAll(".slides > img");
 let prevButton = document.querySelector(".prev")
 let nextButton = document.querySelector(".next")
@@ -50,4 +51,24 @@ function slidePoint(){
         dots[i].className = dots[i].className.replace(" active","")
     }
     dots[counter].className += " active"
+}
+// phone data fetch
+let phoneSlider = document.querySelector("#phone-slider-container")
+function getPhoneData(){
+    fetch("http://localhost:3000/phones").then((res)=>res.json()).then((phoneData)=>multiplePhoneCards(phoneData)).catch((err)=>console.log(err))
+}
+getPhoneData()
+function phoneCard(image, title, price){
+    let div = `
+        <div id="phoneCard" class="border">
+            <img src=${image} alt="">
+            <p class="title">${title}</p>
+            <p class="price">₹${price}</p>
+        </div>
+    `
+    return div
+}
+function multiplePhoneCards(data){
+    let storePhoneData = data.map((el)=>phoneCard(el.image, el.title, el.price))
+    phoneSlider.innerHTML = storePhoneData.join("")
 }

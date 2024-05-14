@@ -80,10 +80,14 @@ body{
 .category .item a:hover{
     color: rgba(0, 0, 255, 0.842);
 }
-.slider{
+.slider, .slider-container{
     width: 83%;
     margin: 16px auto;
     position: relative;
+}
+.slider-container .phone-slider{
+    padding: 20px 15px;
+    background-color: white;
 }
 .slider .image-slider button{
     position: absolute;
@@ -130,4 +134,18 @@ body{
 .slider .image-slider .slides img{
     transition: 1s all;
     background-color: red;
+}
+.slider-container picture img{
+    width: 17em;
+}
+.slider-container .phone-title i{
+    background-color: #2a55e5;
+    color: white;
+    text-align: center;
+    padding: 4px 7px;
+    border-radius: 50%;
+}
+.slider-container #phone-slider-container{
+    /* background-color: red; */
+    gap: 15px;
 }

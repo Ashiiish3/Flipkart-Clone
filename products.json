@@ -1,7 +1,304 @@
 {
     "phones": [
         {
-            
+          "id": "p1",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/c/r/-original-imagx24ftn9fyuam.jpeg?q=70",
+          "title": "moto edge 40 neo",
+          "price": "22,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p2",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70",
+          "title": "vivo t2 pro 5g",
+          "price": "21,499",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p3",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/s/9/i/m6-pro-5g-mzb0eqjin-poco-original-imags3e7dazavyje.jpeg?q=70",
+          "title": "poco m6 pro",
+          "price": "9,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p4",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/x/0/4/-original-imagxaqu3samghjd.jpeg?q=70",
+          "title": "redmi 12 5G",
+          "price": "12,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p5",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/p/r/q/x6-neo-5g-mzb0ggrin-poco-original-imagyxngnrhzx96z.jpeg?q=70",
+          "title": "POCO X6 Neo 5G",
+          "price": "14,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p6",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/d/3/g/-original-imagy2v5ggthbvfe.jpeg?q=70",
+          "title": "poco m6 5g",
+          "price": "9,499",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p7",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/w/i/d/-original-imagwzrguaee4pz6.jpeg?q=70",
+          "title": "poco x6 pro",
+          "price": "24,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p8",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/9/x/f/-original-imagxtnehfg5pcwt.jpeg?q=70",
+          "title": "infinix hot 40i",
+          "price": "6,499",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p9",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/x/c/t/-original-imagxsc4ufzm64uz.jpeg?q=70",
+          "title": "infinix smart 8",
+          "price": "5,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p10",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=70",
+          "title": "iPhone 15",
+          "price": "63,499",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p11",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/h/h/d/-original-imags487gaqqhcea.jpeg?q=70",
+          "title": "realme c53",
+          "price": "8,499",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p12",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/a/y/g/-original-imagtnqkutcyzhgq.jpeg?q=70",
+          "title": "samsung s21 FE",
+          "price": "28,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p13",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/m/o/y/g34-5g-pb1v0000in-motorola-original-imagwu4s8naevwyq.jpeg?q=70",
+          "title": "moto g34",
+          "price": "9,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p14",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/8/r/s/g54-5g-payw0004in-motorola-original-imagt3mdv89dgxby.jpeg?q=70",
+          "title": "moto g54",
+          "price": "15,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p15",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/m/p/y/12-pro-5g-rmx3842-realme-original-imagxgnhafyjz8rb.jpeg?q=70",
+          "title": "realme 12 pro",
+          "price": "22,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p16",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/h/f/w/-original-imags37hy7uz2usv.jpeg?q=70",
+          "title": "redmi 12",
+          "price": "8,488",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+          "id": "p17",
+          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/m/c/s/-original-imagztn7sycc4h84.jpeg?q=70",
+          "title": "samsung S23 FE",
+          "price": "39,999",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "128 GB",
+            "Display": "16.64 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 13MP | 32MP Front Camera",
+            "Battery": "5000 mAh",
+            "Processor": "Dimensity 7030",
+            "Warranty": "1 Year on Handset and 6 Months on Accessories"
+          }
+        },
+        {
+            "id": "p18",
+            "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/r/k/o/-original-imaghx9qtwbnhwvy.jpeg?q=70",
+            "title": "iphone 14",
+            "price": "55,999",
+            "description": {
+              "RAM": "8 GB",
+              "ROM": "128 GB",
+              "Display": "Not Available",
+              "Camera": "Not Available",
+              "Battery": "Not Available",
+              "Processor": "Not Available",
+              "Warranty": "Not Available"
+            }
+        },
+        {
+            "id": "p19",
+            "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/b/v/c/12-pro-5g-rmx3840-realme-original-imagxgnkafjjhpmk.jpeg?q=70",
+            "title": "realme 12 pro plus",
+            "price": "26,999",
+            "description": {
+              "RAM": "Not Available",
+              "ROM": "Not Available",
+              "Display": "Not Available",
+              "Camera": "Not Available",
+              "Battery": "Not Available",
+              "Processor": "Not Available",
+              "Warranty": "Not Available"
+            }
+        },
+        {
+            "id": "p20",
+            "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70",
+            "title": "vivo t2 pro",
+            "price": "21,999",
+            "description": {
+              "RAM": "Not Available",
+              "ROM": "Not Available",
+              "Display": "Not Available",
+              "Camera": "Not Available",
+              "Battery": "Not Available",
+              "Processor": "Not Available",
+              "Warranty": "Not Available"
+            }
         }
     ]
 }
