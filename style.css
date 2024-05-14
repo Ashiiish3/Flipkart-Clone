@@ -9,6 +9,7 @@ body{
 }
 .header, .header .container{
     height: 65px;
+    z-index: 100;
 }
 .header .flipkart-logo{
     width: 100px;
@@ -80,7 +81,7 @@ body{
 .category .item a:hover{
     color: rgba(0, 0, 255, 0.842);
 }
-.slider, .slider-container{
+.slider, .slider-container, .live-deal{
     width: 83%;
     margin: 16px auto;
     position: relative;
@@ -88,6 +89,8 @@ body{
 .slider-container .phone-slider{
     padding: 20px 15px;
     background-color: white;
+    overflow: hidden;
+    position: relative;
 }
 .slider .image-slider button{
     position: absolute;
@@ -136,7 +139,7 @@ body{
     background-color: red;
 }
 .slider-container picture img{
-    width: 17em;
+    width: 16em;
 }
 .slider-container .phone-title i{
     background-color: #2a55e5;
@@ -146,6 +149,45 @@ body{
     border-radius: 50%;
 }
 .slider-container #phone-slider-container{
-    /* background-color: red; */
     gap: 15px;
+    margin-top: 20px;
+    overflow: hidden;
+    text-align: center;
+}
+.slider-container #phone-slider-container #phoneCard{
+    padding: 5px;
+}
+.slider-container #phone-slider-container #phoneCard #image{
+    width: 180px;
+    & img{
+        &:hover{
+            transform: scale(1.02);
+        }
+    }
+}
+.slider-container #phone-slider-container #phoneCard #image img{
+    margin: auto;
+    display: block;
+}
+.slider-container .phone-slider button{
+    position: absolute;
+    background-color: white;
+    border: none;
+    padding: 0px 14px;
+    height: 80px;
+    top: 50%;
+    z-index: 4;
+}
+.slider-container .phone-slider #prev{
+    left: 0%;
+    border-radius: 0px 5px 5px 0px;
+    box-shadow: 0px 0px 3px 0px rgb(204, 204, 204);
+}
+.slider-container .phone-slider #next{
+    right: 0%;
+    border-radius: 5px 0px 0px 5px;
+    box-shadow: 0px 0px 3px 0px rgb(204, 204, 204);
+}
+.live-deal{
+    grid-template-columns: repeat(3, 1fr);
 }

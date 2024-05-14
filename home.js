@@ -61,9 +61,9 @@ getPhoneData()
 function phoneCard(image, title, price){
     let div = `
         <div id="phoneCard" class="border">
-            <img src=${image} alt="">
-            <p class="title">${title}</p>
-            <p class="price">₹${price}</p>
+            <div id="image"><a href=""><img src=${image} alt=""></a></div>
+            <p class="title mb-1 mt-3">${title}</p>
+            <p class="price mb-1">₹${price}</p>
         </div>
     `
     return div
@@ -72,3 +72,28 @@ function multiplePhoneCards(data){
     let storePhoneData = data.map((el)=>phoneCard(el.image, el.title, el.price))
     phoneSlider.innerHTML = storePhoneData.join("")
 }
+// slider phone data
+let phoneNextButton = document.querySelector("#next")
+let phonePrevButton = document.querySelector("#prev")
+function calculateScrollDistance() {
+    const screenWidth = window.innerWidth;
+    if(screenWidth <= 480){
+        return 255
+    }
+    else if(screenWidth <= 768){
+        return 377
+    }
+    else{
+        return 410
+    }
+}
+phoneNextButton.addEventListener("click", ()=>{
+    const scrollDistance = calculateScrollDistance();
+    phoneSlider.style.scrollBehavior = "smooth"
+    phoneSlider.scrollLeft += scrollDistance
+})
+phonePrevButton.addEventListener("click", ()=>{
+    const scrollDistance = calculateScrollDistance();
+    phoneSlider.style.scrollBehavior = "smooth"
+    phoneSlider.scrollLeft -= scrollDistance
+})
