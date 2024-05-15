@@ -81,7 +81,7 @@ body{
 #category .item a:hover{
     color: rgba(0, 0, 255, 0.842);
 }
-.slider, .slider-container, .live-deal, .live-deal-2, .deal-slider, .fashion-slider, .cricket-container{
+.slider, .slider-container, .live-deal, .live-deal-2, .deal-slider, .fashion-slider, .cricket-container, .furniture-container, .electro-container{
     width: 83%;
     margin: 16px auto;
     position: relative;
@@ -89,7 +89,9 @@ body{
 .slider-container .phone-slider,
 .deal-slider .topDeal-slider,
 .fashion-slider .fashionSeller-slider,
-.cricket-container .cricket-slider{
+.cricket-container .cricket-slider,
+.furniture-container .furniture-slider,
+.electro-container .electro-slider{
     padding: 20px 15px;
     background-color: white;
     overflow: hidden;
@@ -147,7 +149,9 @@ body{
 .slider-container .phone-title i,
 .deal-slider .topDeal-title i,
 .fashion-slider .fashion-title i,
-.cricket-container .cricket-title i{
+.cricket-container .cricket-title i,
+.furniture-container .furniture-title i,
+.electro-container .electro-title i{
     background-color: #2a55e5;
     color: white;
     text-align: center;
@@ -157,7 +161,9 @@ body{
 .slider-container #phone-slider-container,
 .deal-slider #topDeal-slider-container,
 .fashion-slider #fashionSeller-slider-container,
-.cricket-container #cricket-data-container{
+.cricket-container #cricket-data-container,
+.furniture-container #furniture-slider-container,
+.electro-container #electro-slider-container{
     gap: 15px;
     margin-top: 20px;
     overflow: hidden;
@@ -166,12 +172,16 @@ body{
 .slider-container #phone-slider-container #phoneCard,
 .deal-slider #topDeal-slider-container #tdCard,
 .fashion-slider #fashionSeller-slider-container #fashionCard,
-.cricket-container #cricket-data-container #cricketCard{
+.cricket-container #cricket-data-container #cricketCard,
+.furniture-container #furniture-slider-container #furnitureCard,
+.electro-container #electro-slider-container #eletronicsCard{
     padding: 5px;
 }
 .slider-container #phone-slider-container #phoneCard #image,
 .deal-slider #topDeal-slider-container #tdCard #image,
-.fashion-slider #fashionSeller-slider-container #fashionCard #image{
+.fashion-slider #fashionSeller-slider-container #fashionCard #image,
+.furniture-container #furniture-slider-container #furnitureCard #image,
+.electro-container #electro-slider-container #eletronicsCard #image{
     width: 180px;
     overflow: hidden;
     & img{
@@ -183,13 +193,17 @@ body{
 .slider-container #phone-slider-container #phoneCard #image img,
 .deal-slider #topDeal-slider-container #tdCard #image img,
 .fashion-slider #fashionSeller-slider-container #fashionCard #image img,
-.cricket-container #cricket-data-container #cricketCard #image img{
+.cricket-container #cricket-data-container #cricketCard #image img,
+.furniture-container #furniture-slider-container #furnitureCard #image img,
+.electro-container #electro-slider-container #eletronicsCard #image img{
     margin: auto;
     display: block;
 }
 .slider-container .phone-slider button,
 .deal-slider .topDeal-slider button,
-.fashion-slider .fashionSeller-slider button{
+.fashion-slider .fashionSeller-slider button,
+.furniture-container .furniture-slider button,
+.electro-container .electro-slider button{
     position: absolute;
     background-color: white;
     border: none;
@@ -200,14 +214,18 @@ body{
 }
 .slider-container .phone-slider #prev,
 .deal-slider .topDeal-slider #tdPrev,
-.fashion-slider .fashionSeller-slider #FashionPrev{
+.fashion-slider .fashionSeller-slider #FashionPrev,
+.furniture-container .furniture-slider #furniturePrev,
+.electro-container .electro-slider #electroPrev{
     left: 0%;
     border-radius: 0px 5px 5px 0px;
     box-shadow: 0px 0px 3px 0px rgb(204, 204, 204);
 }
 .slider-container .phone-slider #next,
 .deal-slider .topDeal-slider #tdNext,
-.fashion-slider .fashionSeller-slider #FashionNext{
+.fashion-slider .fashionSeller-slider #FashionNext,
+.furniture-container .furniture-slider #furnitureNext,
+.electro-container .electro-slider #electroNext{
     right: 0%;
     border-radius: 5px 0px 0px 5px;
     box-shadow: 0px 0px 3px 0px rgb(204, 204, 204);
@@ -237,4 +255,31 @@ body{
 }
 .cricket-container picture img{
     width: 125%;
+}
+footer{
+    padding: 50px 40px 40px;
+}
+footer .footer{
+    grid-template-columns: repeat(6, 1fr);
+}
+footer .footer h6{
+    color: #878787;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+footer .footer ul li{
+    & a{
+        color: white;
+        font-size: 13px;
+        font-weight: 600;
+        text-decoration: none;
+        &:hover{
+            text-decoration: underline;
+        }
+    }
+}
+footer .footer .contact-info p{
+    color: white;
+    font-size: 14px;
 }

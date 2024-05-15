@@ -207,3 +207,93 @@ function multipleCricketCards(cricketData){
     let storeCricketData = cricketData.map((el)=>singleCricketCard(el.image, el.category, el.discount))
     cricketDataContainer.innerHTML = storeCricketData.join("")
 }
+// fetch furniture data
+let furnitureDataContainer = document.querySelector("#furniture-slider-container")
+function getFurnitureData(){
+    fetch("http://localhost:3000/furniture-data").then((res)=>res.json()).then((furnData)=>multipleFurnCards(furnData)).catch((err)=>console.log(err))
+}
+getFurnitureData()
+function singleFurnCard(image, title, price){
+    let div =`
+        <div id="furnitureCard" class="border">
+            <div id="image"><a href=""><img src=${image} alt=""></a></div>
+            <p class="title mb-1 mt-3">${title}</p>
+            <p class="price mb-1">${price}</p>
+        </div>
+    `
+    return div
+}
+function multipleFurnCards(furnData){
+    let storeFurnData = furnData.map((el)=>singleFurnCard(el.image, el.title, el.price))
+    furnitureDataContainer.innerHTML = storeFurnData.join("")
+}
+// furniture data slider
+let furnitureNextButton = document.querySelector("#furnitureNext")
+let furniturePrevButton = document.querySelector("#furniturePrev")
+function calculateScrollDistance() {
+    const screenWidth = window.innerWidth;
+    if(screenWidth <= 480){
+        return 255
+    }
+    else if(screenWidth <= 768){
+        return 377
+    }
+    else{
+        return 410
+    }
+}
+furnitureNextButton.addEventListener("click", ()=>{
+    const scrollDistance = calculateScrollDistance();
+    furnitureDataContainer.style.scrollBehavior = "smooth"
+    furnitureDataContainer.scrollLeft += scrollDistance
+})
+furniturePrevButton.addEventListener("click", ()=>{
+    const scrollDistance = calculateScrollDistance();
+    furnitureDataContainer.style.scrollBehavior = "smooth"
+    furnitureDataContainer.scrollLeft -= scrollDistance
+})
+// fetch electronics data
+let electronicsDataContainer = document.querySelector("#electro-slider-container")
+function getEleData(){
+    fetch("http://localhost:3000/electronic-data").then((res)=>res.json()).then((electroData)=>multipleEleCards(electroData)).catch((err)=>console.log(err))
+}
+getEleData()
+function singleElectroCard(image, title, price){
+    let div =`
+        <div id="eletronicsCard" class="border">
+            <div id="image"><a href=""><img src=${image} alt=""></a></div>
+            <p class="title mb-1 mt-3">${title}</p>
+            <p class="price mb-1">${price}</p>
+        </div>
+    `
+    return div
+}
+function multipleEleCards(eletroData){
+    let storeEletroData = eletroData.map((el)=>singleElectroCard(el.image, el.title, el.price))
+    electronicsDataContainer.innerHTML = storeEletroData.join("")
+}
+// electronics data slider
+let electroNextButton = document.querySelector("#electroNext")
+let electroPrevButton = document.querySelector("#electroPrev")
+function calculateScrollDistance() {
+    const screenWidth = window.innerWidth;
+    if(screenWidth <= 480){
+        return 255
+    }
+    else if(screenWidth <= 768){
+        return 377
+    }
+    else{
+        return 410
+    }
+}
+electroNextButton.addEventListener("click", ()=>{
+    const scrollDistance = calculateScrollDistance();
+    electronicsDataContainer.style.scrollBehavior = "smooth"
+    electronicsDataContainer.scrollLeft += scrollDistance
+})
+electroPrevButton.addEventListener("click", ()=>{
+    const scrollDistance = calculateScrollDistance();
+    electronicsDataContainer.style.scrollBehavior = "smooth"
+    electronicsDataContainer.scrollLeft -= scrollDistance
+})

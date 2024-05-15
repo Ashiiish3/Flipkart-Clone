@@ -574,9 +574,9 @@
     },
     {
       "id": "furd5",
-      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe-rack/q/1/u/plastic-cubort-12-shelf-6-door-black-for-home-and-kids-shoe-original-imagqbwczt7gmtqe.jpeg?q=70",
-      "title": "Shoe Racks",
-      "price": "From ₹199"
+      "image": "https://rukminim2.flixcart.com/image/200/200/kd4uj680/coffee-table/z/x/5/rosewood-sheesham-mc-jk42-mooncraft-honey-finish-original-imafu3cww7m2nrcb.jpeg?q=70",
+      "title": "Coffee Tables",
+      "price": "From ₹2,149"
     },
     {
       "id": "furd6",
@@ -586,9 +586,9 @@
     },
     {
       "id": "furd7",
-      "image": "https://rukminim2.flixcart.com/image/200/200/j5ihlzk0/bed-mattress/2/y/c/6-48-75-skbnnldb75x48x06-bonnell-spring-peps-original-imaevnpjqz2mwyrz.jpeg?q=70",
-      "title": "Mattresses",
-      "price": "From ₹2,990"
+      "image": "https://rukminim2.flixcart.com/image/200/200/l4d2ljk0/sofa-sectional/x/j/l/left-facing-180-34-aqua-blue-241-3-polyester-80-steffan-l-sheped-original-imagf9zer8ptqhrh.jpeg?q=70",
+      "title": "Sofa & Sectional",
+      "price": "From ₹7,999"
     },
     {
       "id": "furd8",
@@ -640,9 +640,10 @@
     },
     {
       "id": "furd16",
-      "image": "https://rukminim2.flixcart.com/image/200/200/kd4uj680/coffee-table/z/x/5/rosewood-sheesham-mc-jk42-mooncraft-honey-finish-original-imafn3cuwzgujhfh.jpeg?q=70",
-      "title": "Coffee Tables",
-      "price": "From ₹2,149"
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/outdoor-set/i/j/d/110-brown-4-1-rattan-760-apple-brown-alisha-craft-550-brown-original-imagb5ffcq82hcxz.jpeg?q=70",
+      "title": "Outdoor Chairs",
+      "price": "From ₹990",
+      "brands": "Nilkamal, Avro"
     },
     {
       "id": "furd17",
@@ -667,6 +668,92 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/l4ln8nk0/recliner/c/n/9/1-seater-maroon-suede-leather-ph0201-flipkart-perfect-homes-original-imagfgkyswtemcqw.jpeg?q=70",
       "category": "Recliner",
       "price": "From ₹11,999"
+    }
+  ],
+  "electronic-data": [
+    {
+      "id": "eled1",
+      "image": "https://rukminim2.flixcart.com/image/200/200/l0sgyvk0/headphone/e/w/c/buds-z2-oneplus-original-imagcg5gfpcg5ndv.jpeg?q=70",
+      "title": "Bluetooth Headphones",
+      "price": "From ₹699",
+      "brands": "boAt, realme , Mivi & More"
+    },
+    {
+      "id": "eled2",
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/200/200/image/02eba4d97ecc5ef8.jpg?q=70",
+      "title": "Calling Smartwatches",
+      "price": "From ₹799",
+      "brands": "Noise, Fire-Boltt & more"
+    },
+    {
+      "id": "eled3",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/gamingconsole/5/n/u/-original-imaghyykrhvewh4y.jpeg?q=70",
+      "title": "Gaming Consoles",
+      "price": "From ₹17,990*",
+      "brands": "Grab or Gone Deals"
+    },
+    {
+      "id": "eled4",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/power-bank/v/x/0/-original-imagtfmfrp97gsg8.jpeg?q=70",
+      "title": "Top Deals on Powerbanks",
+      "price": "From ₹459",
+      "brands": "Ambrane, Mi & more"
+    },
+    {
+      "id": "eled5",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kgqvlow0/battery-charger/d/a/7/apple-mhjd3hn-a-original-imafwwwfg5xgcctm.jpeg?q=70",
+      "title": "Mobile Chargers are here",
+      "price": "From ₹99",
+      "brands": "Grab Now"
+    },
+    {
+      "id": "eled6",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/smart-lighting/w/k/f/12-ns1210-led-wipro-original-imagu5z6f7tzvzsu.jpeg?q=70",
+      "title": "Smart Lighting Solutions",
+      "price": "From ₹399",
+      "brands": "TP-Link, Philips & more"
+    },
+    {
+      "id": "eled7",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kj1r53k0-0/data-cable/usb-type-c-cable/8/8/u/deuce-330-2-in-1-boat-original-imafyphgz6hcnhfm.jpeg?q=70",
+      "title": "Mobile Cables",
+      "price": "From ₹49",
+      "brands": "Buy Now"
+    },
+    {
+      "id": "eled8",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/cases-covers/back-cover/b/7/n/6576mm-mmc-peeperly-original-imagr2b4uhjjzdcg.jpeg?q=70",
+      "title": "Designer Covers",
+      "price": "Just ₹199",
+      "brands": "Trendy,Glitters & more"
+    },
+    {
+      "id": "eled9",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/headphone/a/v/z/-original-imagwmkfnyabtwhb.jpeg?q=70",
+      "title": "boAt Headphones & Speakers",
+      "price": "From ₹349",
+      "brands": "Valantine's day Offer!"
+    },
+    {
+      "id": "eled10",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kcf4lu80/speaker/mobile-tablet-speaker/h/u/f/srs-xb23-sony-original-imaftk66vjxp86h5.jpeg?q=70",
+      "title": "Best Selling Mobile Speakers",
+      "price": "From ₹499*",
+      "brands": "Sony, boAt & more"
+    },
+    {
+      "id": "eled11",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kxc5nrk0/smart-watch-band-strap/u/i/f/premium-metal-chain-22mm-strap-compatible-with-samsung-galaxy-original-imag9teqzg6hazav.jpeg?q=70",
+      "title": "Smart Watch Straps",
+      "price": "From ₹189",
+      "brands": "Must Have Deal"
+    },
+    {
+      "id": "eled12",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kbtp0280/speaker/soundbar/6/e/h/hw-t42e-xl-samsung-original-imaft2x2auj69ah6.jpeg?q=70",
+      "title": "Best Of  Soundbars",
+      "price": "Shop Now",
+      "brands": "Samsung, boAt & more"
     }
   ]
 }
