@@ -300,5 +300,91 @@
               "Warranty": "Not Available"
             }
         }
+    ],
+    "top-deals": [
+      {
+        "id": "td1",
+        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/h/1/4/-original-imagtbtd2ggn4mdb.jpeg?q=70",
+        "brand": "PUMA, New Balance & more",
+        "discount": "Min. 60-80% Off",
+        "category": "Men's Footwear"
+      },
+      {
+        "id": "td2",
+        "image": "https://rukminim2.flixcart.com/image/200/200/ksru0sw0/watch/d/c/7/1-ax1723-armani-exchange-men-original-imag69rdhm6qnexj.jpeg?q=70",
+        "brand": "Armani Exchange, Guess & more",
+        "discount": "Up to 80% off",
+        "category": "Grand Offer On Watches!"
+      },
+      {
+        "id": "td3",
+        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/7/i/x/-original-imagmh3muw48qn62.jpeg?q=70",
+        "brand": "HRX, FILA  & More",
+        "discount": "Under ₹899",
+        "category": "Men's Shoes"
+      },
+      {
+        "id": "td4",
+        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/1/o/b/7-if7252-7-adidas-crywht-arcngt-luclem-original-imagr5vh9bgfq2by.jpeg?q=70",
+        "brand": "ADIDAS, Skechers & more",
+        "discount": "Min. 50-80% Off",
+        "category": "Men's Shoes & more"
+      },
+      {
+        "id": "td5",
+        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shirt/y/z/s/-original-imagqfnghk5gddtv.jpeg?q=70",
+        "brand": "Jack & Jones, UCB, Wrogn...",
+        "discount": "60-85% Off",
+        "category": "Casual Shirts, T-shirts"
+      },
+      {
+        "id": "td6",
+        "image": "https://rukminim2.flixcart.com/image/200/200/krwec280/sweatshirt/k/e/e/8-9-years-itbss00067ochrels-indian-terrain-original-imag5kxsztkezqja.jpeg?q=70",
+        "category": "Kids' Winter Wear",
+        "discount": "Min 60% Off",
+        "brand": "Allen Solly, PROVOGUE & more"
+      },
+      {
+        "id": "td7",
+        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/9/y/8/9-rsl027-red-tape-white-blue-original-imagszhhyk7nndwg.jpeg?q=70",
+        "brand": "Red Tape, Wildcraft..",
+        "discount": "Min. 60% Off",
+        "category": "Big Brands on Discounts"
+      },
+      {
+        "id": "td8",
+        "image": "https://rukminim2.flixcart.com/image/200/200/l2arp8w0/sandal/i/w/h/7-el-ci-w-01-sky-blue-40-elle-blue-original-imagdzc4yavshcvm.jpeg?q=70",
+        "brand": "Carlton London & Elle",
+        "discount": "Min. 60% Off",
+        "category": "Women's Sandals"
+      },
+      {
+        "id": "td9",
+        "image": "https://rukminim2.flixcart.com/image/200/200/l13whow0/jewellery-set/m/z/x/na-na-ae14nsa420-anouk-original-imagcryktezuxcvt.jpeg?q=70",
+        "brand": "Earrings, Jewellery Sets...",
+        "discount": "Flat 70% Off",
+        "category": "Hurry Now! Limited Time Offer"
+      },
+      {
+        "id": "td10",
+        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/sweater/9/z/4/s-mwaw22swtr012c-metronaut-original-imagg9wtgjnfjjg6.jpeg?q=70",
+        "brand": "Street9, High Star...",
+        "discount": "Flat 70% Off",
+        "category": "Shop Hot Selling Styles"
+      },
+      {
+        "id": "td11",
+        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/2/q/c/-original-imagtbtee86d2dhz.jpeg?q=70",
+        "brand": "New Balance, Skechers & More",
+        "discount": "Min.50-80%  Off",
+        "category": "Men's Shoes & more"
+      },
+      {
+        "id": "td12",
+        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/t-shirt/3/n/q/xxl-tbh-sara-bl-the-bear-house-original-imagrk8kpe7cbhbd.jpeg?q=70",
+        "brand": "Veirdo, Snitch, Dennis Lingo...",
+        "discount": "Under ₹699",
+        "category": "Casual Shirts, T-shirts, Jeans.."
+      }
     ]
 }

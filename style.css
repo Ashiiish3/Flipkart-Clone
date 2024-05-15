@@ -81,12 +81,13 @@ body{
 .category .item a:hover{
     color: rgba(0, 0, 255, 0.842);
 }
-.slider, .slider-container, .live-deal{
+.slider, .slider-container, .live-deal, .live-deal-2, .deal-slider{
     width: 83%;
     margin: 16px auto;
     position: relative;
 }
-.slider-container .phone-slider{
+.slider-container .phone-slider,
+.deal-slider .topDeal-slider{
     padding: 20px 15px;
     background-color: white;
     overflow: hidden;
@@ -141,35 +142,42 @@ body{
 .slider-container picture img{
     width: 16em;
 }
-.slider-container .phone-title i{
+.slider-container .phone-title i,
+.deal-slider .topDeal-title i{
     background-color: #2a55e5;
     color: white;
     text-align: center;
     padding: 4px 7px;
     border-radius: 50%;
 }
-.slider-container #phone-slider-container{
+.slider-container #phone-slider-container,
+.deal-slider #topDeal-slider-container{
     gap: 15px;
     margin-top: 20px;
     overflow: hidden;
     text-align: center;
 }
-.slider-container #phone-slider-container #phoneCard{
+.slider-container #phone-slider-container #phoneCard,
+.deal-slider #topDeal-slider-container #tdCard{
     padding: 5px;
 }
-.slider-container #phone-slider-container #phoneCard #image{
+.slider-container #phone-slider-container #phoneCard #image,
+.deal-slider #topDeal-slider-container #tdCard #image{
     width: 180px;
+    overflow: hidden;
     & img{
         &:hover{
             transform: scale(1.02);
         }
     }
 }
-.slider-container #phone-slider-container #phoneCard #image img{
+.slider-container #phone-slider-container #phoneCard #image img,
+.deal-slider #topDeal-slider-container #tdCard #image img{
     margin: auto;
     display: block;
 }
-.slider-container .phone-slider button{
+.slider-container .phone-slider button,
+.deal-slider .topDeal-slider button{
     position: absolute;
     background-color: white;
     border: none;
@@ -178,16 +186,20 @@ body{
     top: 50%;
     z-index: 4;
 }
-.slider-container .phone-slider #prev{
+.slider-container .phone-slider #prev,
+.deal-slider .topDeal-slider #tdPrev{
     left: 0%;
     border-radius: 0px 5px 5px 0px;
     box-shadow: 0px 0px 3px 0px rgb(204, 204, 204);
 }
-.slider-container .phone-slider #next{
+.slider-container .phone-slider #next,
+.deal-slider .topDeal-slider #tdNext{
     right: 0%;
     border-radius: 5px 0px 0px 5px;
     box-shadow: 0px 0px 3px 0px rgb(204, 204, 204);
 }
-.live-deal{
+.live-deal, .live-deal-2{
+    row-gap: 20px;
+    column-gap: 5px;
     grid-template-columns: repeat(3, 1fr);
 }

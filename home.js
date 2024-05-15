@@ -97,3 +97,48 @@ phonePrevButton.addEventListener("click", ()=>{
     phoneSlider.style.scrollBehavior = "smooth"
     phoneSlider.scrollLeft -= scrollDistance
 })
+// top deal data fetch
+let topDealData = document.querySelector("#topDeal-slider-container")
+function getTdData(){
+    fetch("http://localhost:3000/top-deals").then((res)=>res.json()).then((tdData)=>multipleTdCards(tdData)).catch((err)=>console.log(err))
+}
+getTdData()
+function singletdCard(image, brand, discount){
+    let div = `
+        <div id="tdCard" class="border">
+            <div id="image"><a href=""><img src=${image} alt=""></a></div>
+            <p class="brand mb-1 mt-3">${brand}</p>
+            <p class="discount mb-1">${discount}</p>
+        </div>
+    `
+    return div
+}
+function multipleTdCards(tdData){
+    let storeTdData = tdData.map((el)=>singletdCard(el.image, el.brand, el.discount))
+    topDealData.innerHTML = storeTdData.join("")
+}
+// top deal data slider
+let topDealNextButton = document.querySelector("#tdNext")
+let topDealPrevButton = document.querySelector("#tdPrev")
+function calculateScrollDistance() {
+    const screenWidth = window.innerWidth;
+    if(screenWidth <= 480){
+        return 255
+    }
+    else if(screenWidth <= 768){
+        return 377
+    }
+    else{
+        return 410
+    }
+}
+topDealNextButton.addEventListener("click", ()=>{
+    const scrollDistance = calculateScrollDistance();
+    topDealData.style.scrollBehavior = "smooth"
+    topDealData.scrollLeft += scrollDistance
+})
+topDealPrevButton.addEventListener("click", ()=>{
+    const scrollDistance = calculateScrollDistance();
+    topDealData.style.scrollBehavior = "smooth"
+    topDealData.scrollLeft -= scrollDistance
+})
