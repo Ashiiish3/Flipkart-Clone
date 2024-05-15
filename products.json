@@ -1,390 +1,672 @@
 {
-    "phones": [
-        {
-          "id": "p1",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/c/r/-original-imagx24ftn9fyuam.jpeg?q=70",
-          "title": "moto edge 40 neo",
-          "price": "22,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p2",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70",
-          "title": "vivo t2 pro 5g",
-          "price": "21,499",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p3",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/s/9/i/m6-pro-5g-mzb0eqjin-poco-original-imags3e7dazavyje.jpeg?q=70",
-          "title": "poco m6 pro",
-          "price": "9,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p4",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/x/0/4/-original-imagxaqu3samghjd.jpeg?q=70",
-          "title": "redmi 12 5G",
-          "price": "12,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p5",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/p/r/q/x6-neo-5g-mzb0ggrin-poco-original-imagyxngnrhzx96z.jpeg?q=70",
-          "title": "POCO X6 Neo 5G",
-          "price": "14,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p6",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/d/3/g/-original-imagy2v5ggthbvfe.jpeg?q=70",
-          "title": "poco m6 5g",
-          "price": "9,499",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p7",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/w/i/d/-original-imagwzrguaee4pz6.jpeg?q=70",
-          "title": "poco x6 pro",
-          "price": "24,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p8",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/9/x/f/-original-imagxtnehfg5pcwt.jpeg?q=70",
-          "title": "infinix hot 40i",
-          "price": "6,499",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p9",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/x/c/t/-original-imagxsc4ufzm64uz.jpeg?q=70",
-          "title": "infinix smart 8",
-          "price": "5,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p10",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=70",
-          "title": "iPhone 15",
-          "price": "63,499",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p11",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/h/h/d/-original-imags487gaqqhcea.jpeg?q=70",
-          "title": "realme c53",
-          "price": "8,499",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p12",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/a/y/g/-original-imagtnqkutcyzhgq.jpeg?q=70",
-          "title": "samsung s21 FE",
-          "price": "28,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p13",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/m/o/y/g34-5g-pb1v0000in-motorola-original-imagwu4s8naevwyq.jpeg?q=70",
-          "title": "moto g34",
-          "price": "9,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p14",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/8/r/s/g54-5g-payw0004in-motorola-original-imagt3mdv89dgxby.jpeg?q=70",
-          "title": "moto g54",
-          "price": "15,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p15",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/m/p/y/12-pro-5g-rmx3842-realme-original-imagxgnhafyjz8rb.jpeg?q=70",
-          "title": "realme 12 pro",
-          "price": "22,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p16",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/h/f/w/-original-imags37hy7uz2usv.jpeg?q=70",
-          "title": "redmi 12",
-          "price": "8,488",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-          "id": "p17",
-          "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/m/c/s/-original-imagztn7sycc4h84.jpeg?q=70",
-          "title": "samsung S23 FE",
-          "price": "39,999",
-          "description": {
-            "RAM": "8 GB",
-            "ROM": "128 GB",
-            "Display": "16.64 cm (6.55 inch) Full HD+",
-            "Camera": "50MP + 13MP | 32MP Front Camera",
-            "Battery": "5000 mAh",
-            "Processor": "Dimensity 7030",
-            "Warranty": "1 Year on Handset and 6 Months on Accessories"
-          }
-        },
-        {
-            "id": "p18",
-            "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/r/k/o/-original-imaghx9qtwbnhwvy.jpeg?q=70",
-            "title": "iphone 14",
-            "price": "55,999",
-            "description": {
-              "RAM": "8 GB",
-              "ROM": "128 GB",
-              "Display": "Not Available",
-              "Camera": "Not Available",
-              "Battery": "Not Available",
-              "Processor": "Not Available",
-              "Warranty": "Not Available"
-            }
-        },
-        {
-            "id": "p19",
-            "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/b/v/c/12-pro-5g-rmx3840-realme-original-imagxgnkafjjhpmk.jpeg?q=70",
-            "title": "realme 12 pro plus",
-            "price": "26,999",
-            "description": {
-              "RAM": "Not Available",
-              "ROM": "Not Available",
-              "Display": "Not Available",
-              "Camera": "Not Available",
-              "Battery": "Not Available",
-              "Processor": "Not Available",
-              "Warranty": "Not Available"
-            }
-        },
-        {
-            "id": "p20",
-            "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70",
-            "title": "vivo t2 pro",
-            "price": "21,999",
-            "description": {
-              "RAM": "Not Available",
-              "ROM": "Not Available",
-              "Display": "Not Available",
-              "Camera": "Not Available",
-              "Battery": "Not Available",
-              "Processor": "Not Available",
-              "Warranty": "Not Available"
-            }
-        }
-    ],
-    "top-deals": [
-      {
-        "id": "td1",
-        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/h/1/4/-original-imagtbtd2ggn4mdb.jpeg?q=70",
-        "brand": "PUMA, New Balance & more",
-        "discount": "Min. 60-80% Off",
-        "category": "Men's Footwear"
-      },
-      {
-        "id": "td2",
-        "image": "https://rukminim2.flixcart.com/image/200/200/ksru0sw0/watch/d/c/7/1-ax1723-armani-exchange-men-original-imag69rdhm6qnexj.jpeg?q=70",
-        "brand": "Armani Exchange, Guess & more",
-        "discount": "Up to 80% off",
-        "category": "Grand Offer On Watches!"
-      },
-      {
-        "id": "td3",
-        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/7/i/x/-original-imagmh3muw48qn62.jpeg?q=70",
-        "brand": "HRX, FILA  & More",
-        "discount": "Under ₹899",
-        "category": "Men's Shoes"
-      },
-      {
-        "id": "td4",
-        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/1/o/b/7-if7252-7-adidas-crywht-arcngt-luclem-original-imagr5vh9bgfq2by.jpeg?q=70",
-        "brand": "ADIDAS, Skechers & more",
-        "discount": "Min. 50-80% Off",
-        "category": "Men's Shoes & more"
-      },
-      {
-        "id": "td5",
-        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shirt/y/z/s/-original-imagqfnghk5gddtv.jpeg?q=70",
-        "brand": "Jack & Jones, UCB, Wrogn...",
-        "discount": "60-85% Off",
-        "category": "Casual Shirts, T-shirts"
-      },
-      {
-        "id": "td6",
-        "image": "https://rukminim2.flixcart.com/image/200/200/krwec280/sweatshirt/k/e/e/8-9-years-itbss00067ochrels-indian-terrain-original-imag5kxsztkezqja.jpeg?q=70",
-        "category": "Kids' Winter Wear",
-        "discount": "Min 60% Off",
-        "brand": "Allen Solly, PROVOGUE & more"
-      },
-      {
-        "id": "td7",
-        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/9/y/8/9-rsl027-red-tape-white-blue-original-imagszhhyk7nndwg.jpeg?q=70",
-        "brand": "Red Tape, Wildcraft..",
-        "discount": "Min. 60% Off",
-        "category": "Big Brands on Discounts"
-      },
-      {
-        "id": "td8",
-        "image": "https://rukminim2.flixcart.com/image/200/200/l2arp8w0/sandal/i/w/h/7-el-ci-w-01-sky-blue-40-elle-blue-original-imagdzc4yavshcvm.jpeg?q=70",
-        "brand": "Carlton London & Elle",
-        "discount": "Min. 60% Off",
-        "category": "Women's Sandals"
-      },
-      {
-        "id": "td9",
-        "image": "https://rukminim2.flixcart.com/image/200/200/l13whow0/jewellery-set/m/z/x/na-na-ae14nsa420-anouk-original-imagcryktezuxcvt.jpeg?q=70",
-        "brand": "Earrings, Jewellery Sets...",
-        "discount": "Flat 70% Off",
-        "category": "Hurry Now! Limited Time Offer"
-      },
-      {
-        "id": "td10",
-        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/sweater/9/z/4/s-mwaw22swtr012c-metronaut-original-imagg9wtgjnfjjg6.jpeg?q=70",
-        "brand": "Street9, High Star...",
-        "discount": "Flat 70% Off",
-        "category": "Shop Hot Selling Styles"
-      },
-      {
-        "id": "td11",
-        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/2/q/c/-original-imagtbtee86d2dhz.jpeg?q=70",
-        "brand": "New Balance, Skechers & More",
-        "discount": "Min.50-80%  Off",
-        "category": "Men's Shoes & more"
-      },
-      {
-        "id": "td12",
-        "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/t-shirt/3/n/q/xxl-tbh-sara-bl-the-bear-house-original-imagrk8kpe7cbhbd.jpeg?q=70",
-        "brand": "Veirdo, Snitch, Dennis Lingo...",
-        "discount": "Under ₹699",
-        "category": "Casual Shirts, T-shirts, Jeans.."
+  "phones": [
+    {
+      "id": "p1",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/c/r/-original-imagx24ftn9fyuam.jpeg?q=70",
+      "title": "moto edge 40 neo",
+      "price": "22,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
       }
-    ]
+    },
+    {
+      "id": "p2",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70",
+      "title": "vivo t2 pro 5g",
+      "price": "21,499",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p3",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/s/9/i/m6-pro-5g-mzb0eqjin-poco-original-imags3e7dazavyje.jpeg?q=70",
+      "title": "poco m6 pro",
+      "price": "9,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p4",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/x/0/4/-original-imagxaqu3samghjd.jpeg?q=70",
+      "title": "redmi 12 5G",
+      "price": "12,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p5",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/p/r/q/x6-neo-5g-mzb0ggrin-poco-original-imagyxngnrhzx96z.jpeg?q=70",
+      "title": "POCO X6 Neo 5G",
+      "price": "14,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p6",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/d/3/g/-original-imagy2v5ggthbvfe.jpeg?q=70",
+      "title": "poco m6 5g",
+      "price": "9,499",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p7",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/w/i/d/-original-imagwzrguaee4pz6.jpeg?q=70",
+      "title": "poco x6 pro",
+      "price": "24,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p8",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/9/x/f/-original-imagxtnehfg5pcwt.jpeg?q=70",
+      "title": "infinix hot 40i",
+      "price": "6,499",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p9",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/x/c/t/-original-imagxsc4ufzm64uz.jpeg?q=70",
+      "title": "infinix smart 8",
+      "price": "5,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p10",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=70",
+      "title": "iPhone 15",
+      "price": "63,499",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p11",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/h/h/d/-original-imags487gaqqhcea.jpeg?q=70",
+      "title": "realme c53",
+      "price": "8,499",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p12",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/a/y/g/-original-imagtnqkutcyzhgq.jpeg?q=70",
+      "title": "samsung s21 FE",
+      "price": "28,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p13",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/m/o/y/g34-5g-pb1v0000in-motorola-original-imagwu4s8naevwyq.jpeg?q=70",
+      "title": "moto g34",
+      "price": "9,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p14",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/8/r/s/g54-5g-payw0004in-motorola-original-imagt3mdv89dgxby.jpeg?q=70",
+      "title": "moto g54",
+      "price": "15,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p15",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/m/p/y/12-pro-5g-rmx3842-realme-original-imagxgnhafyjz8rb.jpeg?q=70",
+      "title": "realme 12 pro",
+      "price": "22,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p16",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/h/f/w/-original-imags37hy7uz2usv.jpeg?q=70",
+      "title": "redmi 12",
+      "price": "8,488",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p17",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/m/c/s/-original-imagztn7sycc4h84.jpeg?q=70",
+      "title": "samsung S23 FE",
+      "price": "39,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "16.64 cm (6.55 inch) Full HD+",
+        "Camera": "50MP + 13MP | 32MP Front Camera",
+        "Battery": "5000 mAh",
+        "Processor": "Dimensity 7030",
+        "Warranty": "1 Year on Handset and 6 Months on Accessories"
+      }
+    },
+    {
+      "id": "p18",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/r/k/o/-original-imaghx9qtwbnhwvy.jpeg?q=70",
+      "title": "iphone 14",
+      "price": "55,999",
+      "description": {
+        "RAM": "8 GB",
+        "ROM": "128 GB",
+        "Display": "Not Available",
+        "Camera": "Not Available",
+        "Battery": "Not Available",
+        "Processor": "Not Available",
+        "Warranty": "Not Available"
+      }
+    },
+    {
+      "id": "p19",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/b/v/c/12-pro-5g-rmx3840-realme-original-imagxgnkafjjhpmk.jpeg?q=70",
+      "title": "realme 12 pro plus",
+      "price": "26,999",
+      "description": {
+        "RAM": "Not Available",
+        "ROM": "Not Available",
+        "Display": "Not Available",
+        "Camera": "Not Available",
+        "Battery": "Not Available",
+        "Processor": "Not Available",
+        "Warranty": "Not Available"
+      }
+    },
+    {
+      "id": "p20",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70",
+      "title": "vivo t2 pro",
+      "price": "21,999",
+      "description": {
+        "RAM": "Not Available",
+        "ROM": "Not Available",
+        "Display": "Not Available",
+        "Camera": "Not Available",
+        "Battery": "Not Available",
+        "Processor": "Not Available",
+        "Warranty": "Not Available"
+      }
+    }
+  ],
+  "top-deals": [
+    {
+      "id": "td1",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/h/1/4/-original-imagtbtd2ggn4mdb.jpeg?q=70",
+      "brand": "PUMA, New Balance & more",
+      "discount": "Min. 60-80% Off",
+      "category": "Men's Footwear"
+    },
+    {
+      "id": "td2",
+      "image": "https://rukminim2.flixcart.com/image/200/200/ksru0sw0/watch/d/c/7/1-ax1723-armani-exchange-men-original-imag69rdhm6qnexj.jpeg?q=70",
+      "brand": "Armani Exchange, Guess & more",
+      "discount": "Up to 80% off",
+      "category": "Grand Offer On Watches!"
+    },
+    {
+      "id": "td3",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/7/i/x/-original-imagmh3muw48qn62.jpeg?q=70",
+      "brand": "HRX, FILA  & More",
+      "discount": "Under ₹899",
+      "category": "Men's Shoes"
+    },
+    {
+      "id": "td4",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/1/o/b/7-if7252-7-adidas-crywht-arcngt-luclem-original-imagr5vh9bgfq2by.jpeg?q=70",
+      "brand": "ADIDAS, Skechers & more",
+      "discount": "Min. 50-80% Off",
+      "category": "Men's Shoes & more"
+    },
+    {
+      "id": "td5",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shirt/y/z/s/-original-imagqfnghk5gddtv.jpeg?q=70",
+      "brand": "Jack & Jones, UCB, Wrogn...",
+      "discount": "60-85% Off",
+      "category": "Casual Shirts, T-shirts"
+    },
+    {
+      "id": "td6",
+      "image": "https://rukminim2.flixcart.com/image/200/200/krwec280/sweatshirt/k/e/e/8-9-years-itbss00067ochrels-indian-terrain-original-imag5kxsztkezqja.jpeg?q=70",
+      "category": "Kids' Winter Wear",
+      "discount": "Min 60% Off",
+      "brand": "Allen Solly, PROVOGUE & more"
+    },
+    {
+      "id": "td7",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/9/y/8/9-rsl027-red-tape-white-blue-original-imagszhhyk7nndwg.jpeg?q=70",
+      "brand": "Red Tape, Wildcraft..",
+      "discount": "Min. 60% Off",
+      "category": "Big Brands on Discounts"
+    },
+    {
+      "id": "td8",
+      "image": "https://rukminim2.flixcart.com/image/200/200/l2arp8w0/sandal/i/w/h/7-el-ci-w-01-sky-blue-40-elle-blue-original-imagdzc4yavshcvm.jpeg?q=70",
+      "brand": "Carlton London & Elle",
+      "discount": "Min. 60% Off",
+      "category": "Women's Sandals"
+    },
+    {
+      "id": "td9",
+      "image": "https://rukminim2.flixcart.com/image/200/200/l13whow0/jewellery-set/m/z/x/na-na-ae14nsa420-anouk-original-imagcryktezuxcvt.jpeg?q=70",
+      "brand": "Earrings, Jewellery Sets...",
+      "discount": "Flat 70% Off",
+      "category": "Hurry Now! Limited Time Offer"
+    },
+    {
+      "id": "td10",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/sweater/9/z/4/s-mwaw22swtr012c-metronaut-original-imagg9wtgjnfjjg6.jpeg?q=70",
+      "brand": "Street9, High Star...",
+      "discount": "Flat 70% Off",
+      "category": "Shop Hot Selling Styles"
+    },
+    {
+      "id": "td11",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/2/q/c/-original-imagtbtee86d2dhz.jpeg?q=70",
+      "brand": "New Balance, Skechers & More",
+      "discount": "Min.50-80%  Off",
+      "category": "Men's Shoes & more"
+    },
+    {
+      "id": "td12",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/t-shirt/3/n/q/xxl-tbh-sara-bl-the-bear-house-original-imagrk8kpe7cbhbd.jpeg?q=70",
+      "brand": "Veirdo, Snitch, Dennis Lingo...",
+      "discount": "Under ₹699",
+      "category": "Casual Shirts, T-shirts, Jeans.."
+    }
+  ],
+  "fashion-data": [
+    {
+      "id": "fd1",
+      "image": "https://rukminim2.flixcart.com/image/200/200/l30hmkw0/kids-dress/z/w/i/4-5-years-dezine-pink-black-flower-gown-kidotsav-original-image878zaaggwn7.jpeg?q=70",
+      "category": "Girls' Dress",
+      "discount": "Under ₹199",
+      "brand": "Don't Miss out!"
+    },
+    {
+      "id": "fd2",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/7/i/x/-original-imagmh3muw48qn62.jpeg?q=70",
+      "category": "Men's Shoes",
+      "discount": "Under ₹899",
+      "brand": "HRX, FILA  & More"
+    },
+    {
+      "id": "fd3",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/1/o/b/7-if7252-7-adidas-crywht-arcngt-luclem-original-imagr5vh9bgfq2by.jpeg?q=70",
+      "category": "Men's Shoes & more",
+      "discount": "Min. 50-80% Off",
+      "brand": "ADIDAS, Skechers & more"
+    },
+    {
+      "id": "fd4",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/7/i/x/-original-imagmh3muw48qn62.jpeg?q=70",
+      "category": "Men's Shoes",
+      "discount": "Under ₹899",
+      "brand": "HRX, FILA  & More"
+    },
+    {
+      "id": "fd5",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/ethnic-set/1/j/m/xl-426k5065i-412tk365i-skylee-original-imagt3mzwvkjuxgc.jpeg?q=70",
+      "category": "Kurtas, Sets & more",
+      "discount": "60-80% Off",
+      "brand": "W, Aurelia , Go Colors"
+    },
+    {
+      "id": "fd6",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kybvo280/sandal/u/7/h/6-sl836fashionflats-39-shoestail-peach-original-imagah2hjqk7tqdg.jpeg?q=70",
+      "category": "Women's Flats",
+      "discount": "Under ₹299",
+      "brand": "Shoestail, Zapatoz ..."
+    },
+    {
+      "id": "fd7",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/y/4/v/-original-imagsn6qybenjtts.jpeg?q=70",
+      "category": "Men's Shoes & more",
+      "discount": "Min. 70% Off",
+      "brand": "Reebok, Hrx & more"
+    },
+    {
+      "id": "fd8",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/y/o/a/-original-imagqsu2hxwbypna.jpeg?q=70",
+      "category": "Men's Shoes, Sneakers..",
+      "discount": "50-80% Off",
+      "brand": "Woodland, Red Tape.."
+    },
+    {
+      "id": "fd9",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/top/u/n/c/xl-tttp009014-tokyo-talkies-original-imagwk5ehteakhbj.jpeg?q=70",
+      "category": "Tops, Dresses & More",
+      "discount": "Under ₹299",
+      "brand": "Tokyo Talkies, Harpa..."
+    },
+    {
+      "id": "fd10",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/dress/g/z/z/m-179372201-vero-moda-original-imagrhvgqqmqfmgr.jpeg?q=70",
+      "category": "Deals like Nowhere Else!",
+      "discount": "60-90% Off",
+      "brand": "FOREVER 21, ADIDAS..."
+    },
+    {
+      "id": "fd11",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/l/t/u/-original-imagzs75wgnccuck.jpeg?q=70",
+      "category": "Men's Shoes & more",
+      "discount": "Min. 50-70% Off",
+      "brand": "Reebok, Hrx & more"
+    },
+    {
+      "id": "fd12",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/sari/i/y/8/free-krgr043-bhagyashree-peach-karagiri-unstitched-original-imagqxf2zfnhejrg.jpeg?q=70",
+      "category": "Hot Collection",
+      "discount": "Under ₹499",
+      "brand": "Stylish Sarees"
+    }
+  ],
+  "cricket-data": [
+    {
+      "id": "crid1",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/headphone/t/j/u/-original-imagqre8hcncxaxk.jpeg?q=70",
+      "category": "Headset",
+      "discount": "Min. 50% Off"
+    },
+    {
+      "id": "crid2",
+      "image": "https://rukminim2.flixcart.com/image/200/200/l16rde80/cap/r/y/3/free-new-stylish-baseball-combo-cap-pack-of-2-blutech-original-imagct73tz7myfnh.jpeg?q=70",
+      "category": "Men's Caps",
+      "discount": "Special offer"
+    },
+    {
+      "id": "crid3",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/bat/p/n/h/800-1000-slogger-cricket-tennis-full-size-with-free-tetron-cover-original-imagzm69t7tqeyyj.jpeg?q=70",
+      "category": "Cricket Bat",
+      "discount": "Min. 50% Off"
+    },
+    {
+      "id": "crid4",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/track-pant/y/s/n/30-gry111-vasan-original-imaggsgayjpagday.jpeg?q=70",
+      "category": "Men's Track Pants",
+      "discount": "Min. 50% Off"
+    },
+    {
+      "id": "crid5",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/t-shirt/5/z/b/s-ww-melanin-balck-smartees-original-imagnxarrg6ygzhj.jpeg?q=70",
+      "category": "Women's T-shirts",
+      "discount": "Min. 50% Off"
+    },
+    {
+      "id": "crid6",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/short/3/f/6/32-combo-of-3-shorts-powermerc-original-imagbmsswhpzsngr-bb.jpeg?q=70",
+      "category": "Women's Shorts",
+      "discount": "Min. 50% Off"
+    },
+    {
+      "id": "crid7",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/headphone/x/v/r/mn2-50hour-backup-extra-bass-waterproof-bluetooth-neckband-original-imagzf6xtzdxcyfy.jpeg?q=70",
+      "category": "Neckband",
+      "discount": "Min. 50% Off"
+    },
+    {
+      "id": "crid8",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/headphone/2/n/b/-original-imagzsqbgjzndh2h.jpeg?q=70",
+      "category": "True Wireless",
+      "discount": "Special offer"
+    },
+    {
+      "id": "crid9",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kq6yefk0/track-pant/y/x/h/xxl-women-combo-lower-20-clothina-original-imag497hrq7jvn37.jpeg?q=70",
+      "category": "Women's Track Pants",
+      "discount": "Min. 50% Off"
+    },
+    {
+      "id": "crid10",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/smart-headphone/g/2/e/tws-m19-crezz-original-imagkwm7fgs5vpaj.jpeg?q=70",
+      "category": "Smart Headphones",
+      "discount": "Min. 40% Off"
+    },
+    {
+      "id": "crid11",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kqwobrk0/headphone/3/n/b/bassheads-100-boat-original-imag4tgdrpxfh3pk.jpeg?q=70",
+      "category": "Wired Earphones",
+      "discount": "Min. 50% Off"
+    },
+    {
+      "id": "crid12",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kfh5ifk0-0/speaker/mobile-tablet-speaker/c/r/z/brand-new-3d-sound-with-rock-beat-blast-stereo-deep-bass-original-imafvxczvzhcxcpp.jpeg?q=70",
+      "category": "Speakers",
+      "discount": "Min. 50% Off"
+    }
+  ],
+  "furniture-data": [
+    {
+      "id": "furd1",
+      "image": "https://rukminim2.flixcart.com/image/200/200/k5fn3ww0/hammock-swing/k/j/q/brnsw001-duzo-original-imafz4faybq8p7qg.jpeg?q=70",
+      "title": "Hammock & Swings",
+      "price": "From ₹299"
+    },
+    {
+      "id": "furd2",
+      "image": "https://rukminim2.flixcart.com/image/200/200/k3erngw0/inflatable-sofa/8/e/g/pvc-airsofa-cum-indoor-outdoor-bed-006-pvc-3-seater-inflatable-original-imafgnbmmz8tzep6.jpeg?q=70",
+      "title": "Inflatable Sofas",
+      "price": "From ₹499"
+    },
+    {
+      "id": "furd3",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kdt50nk0/portable-laptop-table/m/h/g/plywood-c45c-lsm-furn-master-blue-original-imafumzmu9xqzvxw.jpeg?q=70",
+      "title": "Portable Laptop Table",
+      "price": "From ₹399"
+    },
+    {
+      "id": "furd4",
+      "image": "https://rukminim2.flixcart.com/image/200/200/keg02a80/wardrobe-closet/f/y/f/particle-board-bewtri000500800620-kurlon-wenge-original-imafv49kgfrmmxbq.jpeg?q=70",
+      "title": "Wardrobes",
+      "price": "From ₹4,999"
+    },
+    {
+      "id": "furd5",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe-rack/q/1/u/plastic-cubort-12-shelf-6-door-black-for-home-and-kids-shoe-original-imagqbwczt7gmtqe.jpeg?q=70",
+      "title": "Shoe Racks",
+      "price": "From ₹199"
+    },
+    {
+      "id": "furd6",
+      "image": "https://rukminim2.flixcart.com/image/200/200/k070zgw0/home-temple/b/6/y/d-09redjali-kamdhenu-art-and-craft-original-imaffzxq5hmkqhmf.jpeg?q=70",
+      "title": "Home Temple",
+      "price": "From ₹299"
+    },
+    {
+      "id": "furd7",
+      "image": "https://rukminim2.flixcart.com/image/200/200/j5ihlzk0/bed-mattress/2/y/c/6-48-75-skbnnldb75x48x06-bonnell-spring-peps-original-imaevnpjqz2mwyrz.jpeg?q=70",
+      "title": "Mattresses",
+      "price": "From ₹2,990"
+    },
+    {
+      "id": "furd8",
+      "image": "https://rukminim2.flixcart.com/image/200/200/jm9hfgw0/bed/h/g/g/king-na-rosewood-sheesham-bkwl05nhbs0401d1p-flipkart-perfect-original-imaf97cwhvgnwg95.jpeg?q=70",
+      "title": "Beds",
+      "price": "From ₹1,790"
+    },
+    {
+      "id": "furd9",
+      "image": "https://rukminim2.flixcart.com/image/200/200/l4d2ljk0/sofa-sectional/x/j/l/left-facing-180-34-aqua-blue-241-3-polyester-80-steffan-l-sheped-original-imagf9zer8ptqhrh.jpeg?q=70",
+      "title": "Sofa & Sectional",
+      "price": "From ₹7,999"
+    },
+    {
+      "id": "furd10",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kb9ou4w0/tv-entertainment-unit/f/x/h/particle-board-za0022wh-barewether-white-with-walnut-original-imafsnnntmvsysap.jpeg?q=70",
+      "title": "TV Units",
+      "price": "From ₹1,249"
+    },
+    {
+      "id": "furd11",
+      "image": "https://rukminim2.flixcart.com/image/200/200/jmux18w0/collapsible-wardrobe/f/r/5/pp-w1610a-flipkart-smartbuy-maroon-original-imaf9z9vyptgyhfb.jpeg?q=70",
+      "title": "Collapsible Wardrobe",
+      "price": "From ₹299"
+    },
+    {
+      "id": "furd12",
+      "image": "https://rukminim2.flixcart.com/image/200/200/k6fd47k0/dining-set/b/a/h/6-seater-na-rosewood-sheesham-afk-79-abishaka-decor-warm-original-imafzvx6zryuz6zs.jpeg?q=70",
+      "title": "Dining set",
+      "price": "From ₹6,000"
+    },
+    {
+      "id": "furd13",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kfyasnk0/bean-bag-cover/5/b/n/xxl-gar-field-artwork-2-garfield-original-imafwaxy5hgjvsh2.jpeg?q=70",
+      "title": "Bean Bags",
+      "price": "From ₹999"
+    },
+    {
+      "id": "furd14",
+      "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/sofa-bed/3/q/4/-original-imagm9ckhma9u8a3.jpeg?q=70",
+      "title": "Sofa Beds",
+      "price": "From ₹6,099"
+    },
+    {
+      "id": "furd15",
+      "image": "https://rukminim2.flixcart.com/image/200/200/ke0a7ww0/kitchen-cabinet/n/e/g/pp-z614-flipkart-perfect-homes-studio-white-original-imafusf8jv4gyuny.jpeg?q=70",
+      "title": "Kitchen Cabintes",
+      "price": "From ₹549"
+    },
+    {
+      "id": "furd16",
+      "image": "https://rukminim2.flixcart.com/image/200/200/kd4uj680/coffee-table/z/x/5/rosewood-sheesham-mc-jk42-mooncraft-honey-finish-original-imafn3cuwzgujhfh.jpeg?q=70",
+      "title": "Coffee Tables",
+      "price": "From ₹2,149"
+    },
+    {
+      "id": "furd17",
+      "image": "https://rukminim2.flixcart.com/image/200/200/jsc3ssw0/sofa-bed/z/u/m/double-beige-jute-ritz-sofa-bed-beige-sofame-brown-original-imafdxg7dgg3tkty.jpeg?q=70",
+      "title": "Sofa Beds",
+      "price": "From ₹6,099"
+    },
+    {
+      "id": "furd18",
+      "image": "https://rukminim2.flixcart.com/image/200/200/k44hksw0/dressing-table/4/g/b/particle-board-z453145-zuari-oak-durance-black-oak-original-imafn3cuwzgujhfh.jpeg?q=70",
+      "title": "Dressing Table",
+      "price": "From ₹2,999"
+    },
+    {
+      "id": "furd19",
+      "image": "https://rukminim2.flixcart.com/image/200/200/jxw5g280/cabinet-drawer/r/u/7/pp-magnum-5-tier-nakoda-dark-brown-original-imafg6qdmzm6xyrd.jpeg?q=70",
+      "title": "Cabinet & Drawers",
+      "price": "From ₹349"
+    },
+    {
+      "id": "furd20",
+      "image": "https://rukminim2.flixcart.com/image/200/200/l4ln8nk0/recliner/c/n/9/1-seater-maroon-suede-leather-ph0201-flipkart-perfect-homes-original-imagfgkyswtemcqw.jpeg?q=70",
+      "category": "Recliner",
+      "price": "From ₹11,999"
+    }
+  ]
 }

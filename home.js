@@ -142,3 +142,68 @@ topDealPrevButton.addEventListener("click", ()=>{
     topDealData.style.scrollBehavior = "smooth"
     topDealData.scrollLeft -= scrollDistance
 })
+// fashion data fetch
+let fashionContainer = document.querySelector("#fashionSeller-slider-container")
+function getFashionData(){
+    fetch("http://localhost:3000/fashion-data").then((res)=>res.json()).then((fashionData)=>multipleFashionCards(fashionData)).catch((err)=>console.log(err))
+}
+getFashionData()
+function singleFashionCard(image, brand, discount){
+    let div = `
+        <div id="fashionCard" class="border">
+            <div id="image"><a href=""><img src=${image} alt=""></a></div>
+            <p class="brand mb-1 mt-3">${brand}</p>
+            <p class="discount mb-1">${discount}</p>
+        </div>
+    `
+    return div;
+}
+function multipleFashionCards(fashionData){
+    let storeFashionData = fashionData.map((el)=>singleFashionCard(el.image, el.brand, el.discount))
+    fashionContainer.innerHTML = storeFashionData.join("")
+}
+// fashion data slider
+let fashionNextButton = document.querySelector("#FashionNext")
+let fashionPrevButton = document.querySelector("#FashionPrev")
+function calculateScrollDistance() {
+    const screenWidth = window.innerWidth;
+    if(screenWidth <= 480){
+        return 255
+    }
+    else if(screenWidth <= 768){
+        return 377
+    }
+    else{
+        return 410
+    }
+}
+fashionNextButton.addEventListener("click", ()=>{
+    const scrollDistance = calculateScrollDistance();
+    fashionContainer.style.scrollBehavior = "smooth"
+    fashionContainer.scrollLeft += scrollDistance
+})
+fashionPrevButton.addEventListener("click", ()=>{
+    const scrollDistance = calculateScrollDistance();
+    fashionContainer.style.scrollBehavior = "smooth"
+    fashionContainer.scrollLeft -= scrollDistance
+})
+// cricket data fetch
+let cricketDataContainer = document.querySelector("#cricket-data-container")
+function getCricketData(){
+    fetch("http://localhost:3000/cricket-data?_limit=4").then((res)=>res.json()).then((cricketData)=>multipleCricketCards(cricketData)).catch((err)=>console.log(err))
+}
+getCricketData()
+function singleCricketCard(image, category, discount){
+    let div = `
+        <div id="cricketCard" class="border">
+            <div id="image"><a href=""><img src=${image} alt=""></a></div>
+            <p class="category mb-1 mt-3">${category}</p>
+            <p class="discount mb-1">${discount}</p>
+        </div>
+    `
+    return div
+}
+function multipleCricketCards(cricketData){
+    let storeCricketData = cricketData.map((el)=>singleCricketCard(el.image, el.category, el.discount))
+    cricketDataContainer.innerHTML = storeCricketData.join("")
+}

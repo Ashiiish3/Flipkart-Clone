@@ -59,13 +59,13 @@ body{
 .header .login-button button:hover .user{
     color: white;
 }
-.category{
+#category{
     width: 83%;
     background-color: white;
     margin: 8px auto;
     padding: 10px 0px;
 }
-.category .item{
+#category .item{
     width: 70%;
     margin: auto;
     padding: 0%;
@@ -78,16 +78,18 @@ body{
         }
     }
 }
-.category .item a:hover{
+#category .item a:hover{
     color: rgba(0, 0, 255, 0.842);
 }
-.slider, .slider-container, .live-deal, .live-deal-2, .deal-slider{
+.slider, .slider-container, .live-deal, .live-deal-2, .deal-slider, .fashion-slider, .cricket-container{
     width: 83%;
     margin: 16px auto;
     position: relative;
 }
 .slider-container .phone-slider,
-.deal-slider .topDeal-slider{
+.deal-slider .topDeal-slider,
+.fashion-slider .fashionSeller-slider,
+.cricket-container .cricket-slider{
     padding: 20px 15px;
     background-color: white;
     overflow: hidden;
@@ -143,7 +145,9 @@ body{
     width: 16em;
 }
 .slider-container .phone-title i,
-.deal-slider .topDeal-title i{
+.deal-slider .topDeal-title i,
+.fashion-slider .fashion-title i,
+.cricket-container .cricket-title i{
     background-color: #2a55e5;
     color: white;
     text-align: center;
@@ -151,18 +155,23 @@ body{
     border-radius: 50%;
 }
 .slider-container #phone-slider-container,
-.deal-slider #topDeal-slider-container{
+.deal-slider #topDeal-slider-container,
+.fashion-slider #fashionSeller-slider-container,
+.cricket-container #cricket-data-container{
     gap: 15px;
     margin-top: 20px;
     overflow: hidden;
     text-align: center;
 }
 .slider-container #phone-slider-container #phoneCard,
-.deal-slider #topDeal-slider-container #tdCard{
+.deal-slider #topDeal-slider-container #tdCard,
+.fashion-slider #fashionSeller-slider-container #fashionCard,
+.cricket-container #cricket-data-container #cricketCard{
     padding: 5px;
 }
 .slider-container #phone-slider-container #phoneCard #image,
-.deal-slider #topDeal-slider-container #tdCard #image{
+.deal-slider #topDeal-slider-container #tdCard #image,
+.fashion-slider #fashionSeller-slider-container #fashionCard #image{
     width: 180px;
     overflow: hidden;
     & img{
@@ -172,12 +181,15 @@ body{
     }
 }
 .slider-container #phone-slider-container #phoneCard #image img,
-.deal-slider #topDeal-slider-container #tdCard #image img{
+.deal-slider #topDeal-slider-container #tdCard #image img,
+.fashion-slider #fashionSeller-slider-container #fashionCard #image img,
+.cricket-container #cricket-data-container #cricketCard #image img{
     margin: auto;
     display: block;
 }
 .slider-container .phone-slider button,
-.deal-slider .topDeal-slider button{
+.deal-slider .topDeal-slider button,
+.fashion-slider .fashionSeller-slider button{
     position: absolute;
     background-color: white;
     border: none;
@@ -187,13 +199,15 @@ body{
     z-index: 4;
 }
 .slider-container .phone-slider #prev,
-.deal-slider .topDeal-slider #tdPrev{
+.deal-slider .topDeal-slider #tdPrev,
+.fashion-slider .fashionSeller-slider #FashionPrev{
     left: 0%;
     border-radius: 0px 5px 5px 0px;
     box-shadow: 0px 0px 3px 0px rgb(204, 204, 204);
 }
 .slider-container .phone-slider #next,
-.deal-slider .topDeal-slider #tdNext{
+.deal-slider .topDeal-slider #tdNext,
+.fashion-slider .fashionSeller-slider #FashionNext{
     right: 0%;
     border-radius: 5px 0px 0px 5px;
     box-shadow: 0px 0px 3px 0px rgb(204, 204, 204);
@@ -202,4 +216,25 @@ body{
     row-gap: 20px;
     column-gap: 5px;
     grid-template-columns: repeat(3, 1fr);
+}
+.cricket-container #cricket-data-container{
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.cricket-container #cricket-data-container #cricketCard #image{
+    width: 213px;
+    overflow: hidden;
+    & img{
+        &:hover{
+            transform: scale(1.02);
+        }
+    }
+}
+.cricket-container picture{
+    background-color: red;
+    overflow: hidden;
+    width: 225%;
+}
+.cricket-container picture img{
+    width: 125%;
 }
