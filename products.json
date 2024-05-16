@@ -5,7 +5,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/c/r/-original-imagx24ftn9fyuam.jpeg?q=70",
       "title": "moto edge 40 neo",
       "price": "22,999",
-      "phones-inner-Data": [
+      "phonesInnerData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/q/2/edge-40-neo-payj0001in-motorola-original-imagtkf5ewhafvhh.jpeg?q=70",
           "name": "Motorola Edge 40 Neo (Soothing Sea, 128 GB)",
@@ -173,7 +173,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70",
       "title": "vivo t2 pro 5g",
       "price": "21,499",
-      "phones-inner-Data": [
+      "phonesInnerData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70",
           "name": "vivo T2 Pro 5G (Dune Gold, 256 GB)",
@@ -265,15 +265,88 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/s/9/i/m6-pro-5g-mzb0eqjin-poco-original-imags3e7dazavyje.jpeg?q=70",
       "title": "poco m6 pro",
       "price": "9,999",
-      "description": {
-        "RAM": "8 GB",
-        "ROM": "128 GB",
-        "Display": "16.64 cm (6.55 inch) Full HD+",
-        "Camera": "50MP + 13MP | 32MP Front Camera",
-        "Battery": "5000 mAh",
-        "Processor": "Dimensity 7030",
-        "Warranty": "1 Year on Handset and 6 Months on Accessories"
-      }
+      "phonesInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70",
+          "name": "POCO M6 Pro 5G (Power Black, 128 GB)",
+          "rating": "4.3",
+          "ratings": "84,643 Ratings",
+          "reviews": "5,742 Reviews",
+          "price": "₹9,999",
+          "original_price": "₹16,999",
+          "delivery_time": "Delivery by 11 PM, Tomorrow",
+          "offers": "Save extra with combo offers",
+          "description": {
+            "RAM": "6 GB",
+            "ROM": "128 GB",
+            "Display": "17.25 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 2MP",
+            "Battery": "5000 mAh",
+            "Processor": "Snapdragon 4 Gen 2",
+            "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories"
+          }
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/9/i/m6-pro-5g-mzb0eqjin-poco-original-imags3e7dazavyje.jpeg?q=70",
+          "name": "POCO M6 Pro 5G (Forest Green, 128 GB)",
+          "rating": "4.3",
+          "ratings": "84,643 Ratings",
+          "reviews": "5,742 Reviews",
+          "price": "₹9,999",
+          "original_price": "₹16,999",
+          "delivery_time": "Delivery by 11 PM, Tomorrow",
+          "offers": "Save extra with combo offers",
+          "description": {
+            "RAM": "6 GB",
+            "ROM": "128 GB",
+            "Display": "17.25 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 2MP",
+            "Battery": "5000 mAh",
+            "Processor": "Snapdragon 4 Gen 2",
+            "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories"
+          }
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70",
+          "name": "POCO M6 Pro 5G (Power Black, 256 GB)",
+          "rating": "4.2",
+          "ratings": "16,317 Ratings",
+          "reviews": "1,375 Reviews",
+          "price": "₹11,499",
+          "original_price": "₹17,999",
+          "delivery_time": "Delivery by 11 PM, Tomorrow",
+          "offers": "Save extra with combo offers",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "256 GB",
+            "Display": "17.25 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 2MP",
+            "Battery": "5000 mAh",
+            "Processor": "Snapdragon 4 Gen 2",
+            "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories"
+          }
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70",
+          "name": "POCO M6 Pro 5G (Power Black, 128 GB)",
+          "rating": "4.3",
+          "ratings": "67,848 Ratings",
+          "reviews": "4,624 Reviews",
+          "price": "₹9,499",
+          "original_price": "15,999",
+          "delivery_time": "Delivery by 11 PM, Tomorrow",
+          "offers": "Save extra with combo offers",
+          "description": {
+            "RAM": "8 GB",
+            "ROM": "256 GB",
+            "Display": "17.25 cm (6.55 inch) Full HD+",
+            "Camera": "50MP + 2MP",
+            "Battery": "5000 mAh",
+            "Processor": "Snapdragon 4 Gen 2",
+            "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories"
+          }
+        }
+      ]
     },
     {
       "id": "p4",
@@ -985,5 +1058,8 @@
       "price": "Shop Now",
       "brands": "Samsung, boAt & more"
     }
+  ],
+  "all-data": [
+    
   ]
 }

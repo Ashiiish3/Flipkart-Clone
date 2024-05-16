@@ -35,7 +35,6 @@ function autoSlider(){
         carousel()
         slidePoint()
     }, 2000);
-    
 }
 autoSlider()
 images.forEach(slide=>{
@@ -55,22 +54,46 @@ function slidePoint(){
 // phone data fetch
 let phoneSlider = document.querySelector("#phone-slider-container")
 function getPhoneData(){
-    fetch("http://localhost:3000/phones").then((res)=>res.json()).then((phoneData)=>multiplePhoneCards(phoneData)).catch((err)=>console.log(err))
+    fetch("http://localhost:3000/phones").then((res)=>res.json()).then((phoneData)=>{
+        console.log(phoneData)
+        multiplePhoneCards(phoneData)
+    }).catch((err)=>console.log(err))
 }
 getPhoneData()
-function phoneCard(image, title, price){
+function phoneCard(image, title, price, id){
     let div = `
-        <div id="phoneCard" class="border">
-            <div id="image"><a href=""><img src=${image} alt=""></a></div>
-            <p class="title mb-1 mt-3">${title}</p>
-            <p class="price mb-1">₹${price}</p>
+    <a href="#">
+        <div id="phoneCard" class="border phoneClick" data-id="${id}">
+            <div id="image"><img src=${image} alt="" data-id="${id}" class="phoneClick"></div>
+            <p class="title phoneClick mb-1 mt-3" data-id="${id}">${title}</p>
+            <p class="price phoneClick mb-1" data-id="${id}">₹${price}</p>
         </div>
+    </a>
     `
     return div
 }
 function multiplePhoneCards(data){
-    let storePhoneData = data.map((el)=>phoneCard(el.image, el.title, el.price))
+    let storePhoneData = data.map((el)=>phoneCard(el.image, el.title, el.price, el.id))
     phoneSlider.innerHTML = storePhoneData.join("")
+}
+// get phone data with p1 id
+document.addEventListener("click", (e)=>{
+    if(e.target.classList.contains("phoneClick")){
+        postPhoneData(e.target.dataset.id)
+    }
+})
+function postPhoneData(id){
+    let store = fetch(`http://localhost:3000/phones/${id}`).then((res)=>res.json()).then((phoneData)=>{
+        console.log(phoneData.phonesInnerData)
+        // fetch("http://localhost:3000/all-data",{
+        //     method: "POST",
+        //     headers: {
+        //       "Content-Type": "application/json",
+        //     },
+        //     body: JSON.stringify(phoneData.phonesInnerData),
+        //   })
+    }).catch((err)=>console.log(err))
+    console.log(store)
 }
 // slider phone data
 let phoneNextButton = document.querySelector("#next")
