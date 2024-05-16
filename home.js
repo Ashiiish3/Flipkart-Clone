@@ -85,13 +85,17 @@ document.addEventListener("click", (e)=>{
 function postPhoneData(id){
     let store = fetch(`http://localhost:3000/phones/${id}`).then((res)=>res.json()).then((phoneData)=>{
         console.log(phoneData.phonesInnerData)
-        // fetch("http://localhost:3000/all-data",{
-        //     method: "POST",
-        //     headers: {
-        //       "Content-Type": "application/json",
-        //     },
-        //     body: JSON.stringify(phoneData.phonesInnerData),
-        //   })
+        phoneData.phonesInnerData.map((el)=>{
+            console.log(el)
+            
+            // fetch("http://localhost:3000/all-data",{
+            //     method: "POST",
+            //     headers: {
+            //     "Content-Type": "application/json",
+            //     },
+            //     body: JSON.stringify(el),
+            // })
+        })
     }).catch((err)=>console.log(err))
     console.log(store)
 }
