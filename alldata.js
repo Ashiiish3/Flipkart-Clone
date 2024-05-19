@@ -1,20 +1,15 @@
 // fetch all data
-let allDataContainer = document.querySelector("#allDataBox")
-function getAllData(){
-    fetch("http://localhost:3000/all-data").then((res)=>res.json()).then((data)=>multipleAllDataCard(data)).catch((err)=>console.log(err))
-}
-getAllData()
-function singleAllDataCard(image_url, name, price){
-    let div = `
-        <div>
-            <img src=${image_url} alt="">
-            <h4>${name}</h4>
-            <p>${price}</p>
-        </div>
-    `
-    return div
-}
-function multipleAllDataCard(data){
-    let storeData = data.map((el)=>singleAllDataCard(el.image_url, el.name, el.price))
-    allDataContainer.innerHTML = storeData.join("")
-}
+let container = document.querySelector("#allDataBox")
+window.addEventListener("load", ()=>{
+    const params = new URLSearchParams(window.location.search)
+    const phonesInnerData = JSON.parse(params.get("phonesInnerData"))
+    phonesInnerData.forEach(element => {
+        let div = document.createElement("div")
+        div.innerHTML = `
+            <img src=${element.image_url} alt="" id="image-Data">
+            <h4 id="name">${element.name}</h4>
+            <p id="price_data">${element.price}</p>
+        `
+        container.append(div)
+    });
+})

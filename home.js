@@ -55,14 +55,13 @@ function slidePoint(){
 let phoneSlider = document.querySelector("#phone-slider-container")
 function getPhoneData(){
     fetch("http://localhost:3000/phones").then((res)=>res.json()).then((phoneData)=>{
-        console.log(phoneData)
         multiplePhoneCards(phoneData)
     }).catch((err)=>console.log(err))
 }
 getPhoneData()
-function phoneCard(image, title, price, id){
+function phoneCard(image, title, price, id, phonesInnerData){
     let div = `
-    <a href="#">
+    <a href="alldata.html?phonesInnerData=${encodeURIComponent(JSON.stringify(phonesInnerData))}" id="phoneClickData">
         <div id="phoneCard" class="border phoneClick" data-id="${id}">
             <div id="image"><img src=${image} alt="" data-id="${id}" class="phoneClick"></div>
             <p class="title phoneClick mb-1 mt-3" data-id="${id}">${title}</p>
@@ -73,31 +72,8 @@ function phoneCard(image, title, price, id){
     return div
 }
 function multiplePhoneCards(data){
-    let storePhoneData = data.map((el)=>phoneCard(el.image, el.title, el.price, el.id))
+    let storePhoneData = data.map((el)=>phoneCard(el.image, el.title, el.price, el.id, el.phonesInnerData))
     phoneSlider.innerHTML = storePhoneData.join("")
-}
-// get phone data with p1 id
-document.addEventListener("click", (e)=>{
-    if(e.target.classList.contains("phoneClick")){
-        postPhoneData(e.target.dataset.id)
-    }
-})
-function postPhoneData(id){
-    let store = fetch(`http://localhost:3000/phones/${id}`).then((res)=>res.json()).then((phoneData)=>{
-        console.log(phoneData.phonesInnerData)
-        phoneData.phonesInnerData.map((el)=>{
-            console.log(el)
-            
-            // fetch("http://localhost:3000/all-data",{
-            //     method: "POST",
-            //     headers: {
-            //     "Content-Type": "application/json",
-            //     },
-            //     body: JSON.stringify(el),
-            // })
-        })
-    }).catch((err)=>console.log(err))
-    console.log(store)
 }
 // slider phone data
 let phoneNextButton = document.querySelector("#next")
