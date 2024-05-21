@@ -62,10 +62,10 @@ getPhoneData()
 function phoneCard(image, title, price, id, phonesInnerData){
     let div = `
     <a href="alldata.html?phonesInnerData=${encodeURIComponent(JSON.stringify(phonesInnerData))}" id="phoneClickData">
-        <div id="phoneCard" class="border phoneClick" data-id="${id}">
-            <div id="image"><img src=${image} alt="" data-id="${id}" class="phoneClick"></div>
-            <p class="title phoneClick mb-1 mt-3" data-id="${id}">${title}</p>
-            <p class="price phoneClick mb-1" data-id="${id}">₹${price}</p>
+        <div id="phoneCard" class="border" data-id="${id}">
+            <div id="image"><img src=${image} alt="" data-id="${id}"></div>
+            <p class="title mb-0 mt-3" data-id="${id}">${title}</p>
+            <p class="price mb-1" data-id="${id}">₹${price}</p>
         </div>
     </a>
     `

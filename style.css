@@ -117,6 +117,10 @@ body{
     overflow: hidden;
     text-align: center;
 }
+#phone-slider-container a{
+    color: black;
+    text-decoration: none;
+}
 .slider-container #phone-slider-container #phoneCard,
 .deal-slider #topDeal-slider-container #tdCard,
 .fashion-slider #fashionSeller-slider-container #fashionCard,
@@ -203,31 +207,4 @@ body{
 }
 .cricket-container picture img{
     width: 125%;
-}
-footer{
-    padding: 50px 40px 40px;
-}
-footer .footer{
-    grid-template-columns: repeat(6, 1fr);
-}
-footer .footer h6{
-    color: #878787;
-    font-weight: 400;
-    text-transform: uppercase;
-    font-size: 14px;
-}
-footer .footer ul li{
-    & a{
-        color: white;
-        font-size: 13px;
-        font-weight: 600;
-        text-decoration: none;
-        &:hover{
-            text-decoration: underline;
-        }
-    }
-}
-footer .footer .contact-info p{
-    color: white;
-    font-size: 14px;
 }

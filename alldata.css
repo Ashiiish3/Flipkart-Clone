@@ -4,7 +4,7 @@ main{
     margin: 10px auto;
 }
 aside {
-    width: 300px;
+    width: 320px;
     padding: 15px;
     background-color: white;
     box-shadow: 1px 1px 5px 1px #dddddd88;
@@ -65,4 +65,60 @@ figure .index-button a{
 }
 figure .filter{
     font-weight: 500;
+}
+#phoneItem{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    &:hover h5{
+        color: rgba(22, 22, 255, 0.842);
+    }
+}
+#phoneItem #image-part{
+    width: 250px;
+    text-align: center;
+    padding: 0px 20px;
+    & img{
+        width: 100%;
+    }
+}
+#phoneItem #descriptionInfo{
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+#phoneItem #descriptionInfo #rating{
+    background-color: green;
+    color: white;
+    padding: 1px 5px 3px;
+    font-size: 13px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+#phoneItem #descriptionInfo #ratings_reviews{
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 5px;
+    color: #a0a0a0;
+}
+#phoneItem ul li{
+    list-style-type: disc;
+}
+#phoneItem #productInfo{
+    width: 650px;
+    text-align: left;
+}
+#phoneItem #priceInfo{
+    width: 350px;
+    text-align: left;
+    & #original_price{
+        text-decoration: line-through;
+        font-size: 15px;
+        color: #868686;
+    }
+    & #discount{
+        color: green;
+        font-weight: 500;
+        font-size: 13px;
+    }
 }
