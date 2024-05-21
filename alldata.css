@@ -1,0 +1,68 @@
+main{
+    display: flex;
+    width: 83%;
+    margin: 10px auto;
+}
+aside {
+    width: 300px;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 1px 1px 5px 1px #dddddd88;
+    margin-right: 10px;
+}
+.filter-group {
+    margin-bottom: 20px;
+}
+.filter-group h3 {
+    font-size: 13px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+.filter-group ul {
+    list-style: none;
+    padding: 0;
+}
+.filter-group li {
+    margin-bottom: 10px;
+    font-size: 13px;
+}
+.filter-group label {
+    display: flex;
+    align-items: center;
+}
+.filter-group input[type="checkbox"],
+.filter-group input[type="radio"] {
+    margin-right: 10px;
+}
+.price-range input[type="number"] {
+    width: 80px;
+    margin-right: 10px;
+}
+.filter-group.collapsible h3 {
+    cursor: pointer;
+}
+.filter-group.collapsible .content {
+    display: none;
+}
+.filter-group.collapsible.active .content {
+    display: block;
+}
+figure{
+    padding: 15px;
+    width: 100%;
+    background-color: white;
+    box-shadow: 1px 1px 5px 1px #dddddd88;
+}
+figure .index-button a{
+    text-decoration: none;
+    color: rgb(112, 112, 112);
+    font-size: 13px;
+    &:hover{
+        color: rgba(0, 0, 255, 0.842);
+    }
+}
+figure .filter{
+    font-weight: 500;
+}
