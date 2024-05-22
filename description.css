@@ -1,0 +1,80 @@
+.description-container{
+    width: 75%;
+    margin: auto;
+    padding: 15px;
+    background-color: white;
+}
+.description-container .row .col-lg-5 #addButton{
+    height: 12%;
+    width: 50%;
+    background-color: orange;
+    border: none;
+    margin-top: 15px;
+    & a{
+        color: white;
+        font-weight: 500;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    &:hover{
+        box-shadow: 0px 1px 4px 0px rgba(165, 165, 165, 0.685);
+    }
+}
+.description-container .row .col-lg-5{
+    width: 500px;
+}
+.description-container .row .image-box{
+    padding: 15px;
+    width: 500px;
+}
+.description-container .row .image-box img{
+    width: 50%;
+}
+.description-container .row #rating{
+    background-color: green;
+    color: white;
+    padding: 1px 5px 3px;
+    font-size: 13px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+.description-container .row #ratings_reviews{
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 5px;
+    color: #8a8a8a;
+}
+.description-container .row #priceInfo{
+    margin-top: 15px;
+    & #price{
+        font-size: 28px;
+        font-weight: 600;
+    }
+    & #original_price{
+        text-decoration: line-through;
+        font-size: 15px;
+        color: #868686;
+        margin: 0px 5px;
+    }
+    & #discount{
+        color: green;
+        font-weight: 500;
+        font-size: 14px;
+    }
+}
+.description-container .row ul li{
+    list-style-type: disc;
+}
+.description-container .row .offerItem::marker{
+    content: "✅  ";
+}
+.description-container .row #offers{
+    font-size: 17px;
+}
+.description-container .row .offerItem{
+    font-size: 14px;
+    & b{
+        margin-left: 5px;
+        font-weight: 600;   
+    }
+}
