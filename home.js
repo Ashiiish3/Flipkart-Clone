@@ -61,7 +61,7 @@ function getPhoneData(){
 getPhoneData()
 function phoneCard(image, title, price, id, phonesInnerData){
     let div = `
-    <a href="alldata.html?phonesInnerData=${encodeURIComponent(JSON.stringify(phonesInnerData))}" id="phoneClickData">
+    <a href="alldata.html?phonesInnerData=${encodeURIComponent(JSON.stringify(phonesInnerData))}">
         <div id="phoneCard" class="border" data-id="${id}">
             <div id="image"><img src=${image} alt="" data-id="${id}"></div>
             <p class="title mb-0 mt-3" data-id="${id}">${title}</p>
@@ -106,18 +106,20 @@ function getTdData(){
     fetch("http://localhost:3000/top-deals").then((res)=>res.json()).then((tdData)=>multipleTdCards(tdData)).catch((err)=>console.log(err))
 }
 getTdData()
-function singletdCard(image, brand, discount){
+function singletdCard(image, brand, discount, dealInnerData){
     let div = `
-        <div id="tdCard" class="border">
-            <div id="image"><a href=""><img src=${image} alt=""></a></div>
-            <p class="brand mb-1 mt-3">${brand}</p>
-            <p class="discount mb-1">${discount}</p>
-        </div>
+        <a href="alldata.html?dealInnerData=${encodeURIComponent(JSON.stringify(dealInnerData))}">
+            <div id="tdCard" class="border">
+                <div id="image"><img src=${image} alt=""></div>
+                <p class="brand mb-1 mt-3">${brand}</p>
+                <p class="discount mb-1">${discount}</p>
+            </div>
+        </a>
     `
     return div
 }
 function multipleTdCards(tdData){
-    let storeTdData = tdData.map((el)=>singletdCard(el.image, el.brand, el.discount))
+    let storeTdData = tdData.map((el)=>singletdCard(el.image, el.brand, el.discount, el.dealInnerData))
     topDealData.innerHTML = storeTdData.join("")
 }
 // top deal data slider

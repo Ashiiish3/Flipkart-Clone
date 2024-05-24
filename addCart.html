@@ -10,7 +10,7 @@
     <!-- font awesome and remix icon CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.css" integrity="sha512-OQDNdI5rpnZ0BRhhJc+btbbtnxaj+LdQFeh0V9/igiEPDiWE2fG+ZsXl0JEH+bjXKPJ3zcXqNyP4/F/NegVdZg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- css file -->
-    <link rel="stylesheet" href="description.css">
+    <link rel="stylesheet" href="addCard.css">
     <link rel="stylesheet" href="main.css">
     <title>Flipkart</title>
 </head>
@@ -36,10 +36,28 @@
             </div>
         </div>
     </div>
-    <div class="description-container">
-        <div class="row">
+    <main class="addCart-container">
+        <div class="addCart-header">
+            Flipkart (<span class="cart-count"></span>)
         </div>
-    </div>
+        <div class="addCart-info">
+            <div id="addCart-image">
+                <img src="" alt="">
+            </div>
+            <div id="addCartTitleSection">
+                <div id="titleInfo">
+                    <h5 id="name" class="mb-1"></h5>
+                    <p id="ram"></p>
+                    <span id="original_price"></span>
+                    <span id="price"></span>
+                    <span id="discount"></span>
+                </div>
+                <div id="deliveryInfo">
+                    <p id="delivery_time"></p>
+                </div>
+            </div>
+        </div>
+    </main>
     <!-- footer section -->
     <footer class="bg-dark">
         <div class="footer d-grid">
@@ -98,6 +116,6 @@
             </div>
         </div>
     </footer>
-    <script src="description.js"></script>
+    <script src="addCard.js"></script>
 </body>
 </html>

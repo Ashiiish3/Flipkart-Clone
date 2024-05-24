@@ -1,5 +1,5 @@
+const params = new URLSearchParams(window.location.search)
 window.addEventListener("load",()=>{
-    const params = new URLSearchParams(window.location.search)
     let descriptionContainer = document.querySelector(".description-container")
     const image_url = params.get("image_url")
     const name = params.get("name")
@@ -21,7 +21,7 @@ window.addEventListener("load",()=>{
             <div class="image-box border">
                 <img src=${image_url} alt="" id="image_url">
             </div>
-            <button id="addButton"><a href="#">Add To Cart</a></button>
+            <button id="addButton" class="addCardButton">Add To Cart</button>
         </div>
         <div class="col-lg-7 px-4 ms-2 info-box">
             <h5 id="name" class="mb-1">${name}</h5>
@@ -52,3 +52,26 @@ window.addEventListener("load",()=>{
     `
     descriptionContainer.append(card)
 })
+// add to cart
+document.addEventListener("click", (e)=>{
+    if(e.target.classList.contains("addCardButton")){
+        addCardData(e.target.className)
+    }
+})
+function addCardData(clss){
+    let phoneObj = {
+        "image_url": params.get("image_url"),
+        "RAM": params.get("ram"),
+        "original_price": params.get("original_price"),
+        "price": params.get("price"),
+        "discount": params.get("discount"),
+        "delivery": "delivery in 2 days"
+    }
+    fetch("http://localhost:3000/add-To-Cart-data",{
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+        },
+        body: JSON.stringify(phoneObj),
+    })
+}
