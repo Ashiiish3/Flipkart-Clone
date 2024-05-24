@@ -1,0 +1,12 @@
+.addCart-container{
+    width: 60%;
+    margin: 20px auto;
+}
+.addCart-container .addCart-header{
+    background-color: white;
+    padding: 14px 0px;
+    text-align: center;
+    font-size: 22px;
+    color: #2a55e5;
+    margin-bottom: 13px;
+}

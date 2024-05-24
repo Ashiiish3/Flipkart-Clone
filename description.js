@@ -14,6 +14,7 @@ window.addEventListener("load",()=>{
     const price = params.get("price")
     const original_price = params.get("original_price")
     const discount = params.get("discount")
+    const delivery_time = params.get("delivery_time")
     const card = document.createElement("div")
     card.classList.add("row")
     card.innerHTML =`
@@ -61,11 +62,12 @@ document.addEventListener("click", (e)=>{
 function addCardData(clss){
     let phoneObj = {
         "image_url": params.get("image_url"),
+        "name": params.get("name"),
         "RAM": params.get("ram"),
         "original_price": params.get("original_price"),
         "price": params.get("price"),
         "discount": params.get("discount"),
-        "delivery": "delivery in 2 days"
+        "delivery_time": params.get("delivery_time")
     }
     fetch("http://localhost:3000/add-To-Cart-data",{
         method: "POST",
