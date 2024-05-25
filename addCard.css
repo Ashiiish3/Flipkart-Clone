@@ -1,5 +1,5 @@
 .addCart-container{
-    width: 60%;
+    width: 56%;
     margin: 20px auto;
 }
 .addCart-container .addCart-header{
@@ -9,4 +9,85 @@
     font-size: 22px;
     color: #2a55e5;
     margin-bottom: 13px;
+}
+.addCart-container #addCart-info{
+    background-color: white;
+    & .addCart-box{
+        padding: 15px 0px;
+        grid-template-columns: 1fr 5fr;
+        &:hover #name{
+            color: #2a55e5;
+        }
+    }
+}
+.addCart-container .addCart-box #addCart-image{
+    width: 190px;
+}
+.addCart-container .addCart-box #addCart-image img{
+    width: 55%;
+    display: block;
+    margin: auto;
+}
+.addCart-container #addCartTitleSection{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    & #name{
+        font-weight: 450;
+        font-size: 19px;
+    }
+    & #ram{
+        font-size: 14px;
+        color: rgb(105, 105, 105);
+    }
+    & #original_price{
+        font-size: 15px;
+        color: rgb(105, 105, 105);
+        text-decoration: line-through;
+    }
+    & #price{
+        font-size: 20px;
+        font-weight: 500;
+    }
+    & #discount{
+        font-weight: 500;
+        color: green;
+    }
+}
+.addCart-container .price-input{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.addCart-container .price-input button{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding-bottom: 5px;
+    background-color: white;
+}
+.addCart-container .price-input input{
+    width: 50px;
+    text-align: center;
+    padding-left: 11px;
+    border: 1px solid rgb(192, 192, 192);
+}
+.addCart-container .price-delete button{
+    border: none;
+    background-color: transparent;
+    text-transform: uppercase;
+    margin-top: 20px;
+    font-weight: 500;
+}
+.addCart-container .addCart-total{
+    background-color: white;
+    margin-top: 13px;
+    padding: 20px;
+    & #totalAmount{
+        font-size: 20px;
+        font-weight: 600;
+    }
 }

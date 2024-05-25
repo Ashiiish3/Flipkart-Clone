@@ -89,7 +89,6 @@ body{
 }
 .slider .image-slider .slides img{
     transition: 1s all;
-    background-color: red;
 }
 .slider-container picture img{
     width: 16em;
@@ -201,7 +200,6 @@ body{
     }
 }
 .cricket-container picture{
-    background-color: red;
     overflow: hidden;
     width: 225%;
 }
