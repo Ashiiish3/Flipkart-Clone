@@ -58,7 +58,8 @@
     justify-content: center;
     margin-top: 20px;
 }
-.addCart-container .price-input button{
+.addCart-container .price-input .decreaseQuantity,
+.addCart-container .price-input .increaseQuantity{
     height: 30px;
     width: 30px;
     border-radius: 50%;
@@ -69,11 +70,11 @@
     padding-bottom: 5px;
     background-color: white;
 }
-.addCart-container .price-input input{
+.addCart-container .price-input #quntValue{
     width: 50px;
     text-align: center;
-    padding-left: 11px;
     border: 1px solid rgb(192, 192, 192);
+    background-color: transparent;
 }
 .addCart-container .price-delete button{
     border: none;

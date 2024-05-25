@@ -14,6 +14,7 @@
           "price": "20,999",
           "original_price": "27,999",
           "discount": "25% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "8 GB RAM",
@@ -33,6 +34,7 @@
           "price": "20,999",
           "original_price": "27,999",
           "discount": "25% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "8 GB RAM",
@@ -52,6 +54,7 @@
           "price": "20,999",
           "original_price": "27,999",
           "discount": "25% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "8 GB RAM",
@@ -71,6 +74,7 @@
           "price": "22,999",
           "original_price": "29,999",
           "discount": "23% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -90,6 +94,7 @@
           "price": "22,999",
           "original_price": "29,999",
           "discount": "23% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -109,6 +114,7 @@
           "price": "22,999",
           "original_price": "29,999",
           "discount": "23% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -128,6 +134,7 @@
           "price": "22,999",
           "original_price": "29,999",
           "discount": "23% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -147,6 +154,7 @@
           "price": "20,999",
           "original_price": "27,999",
           "discount": "25% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -174,6 +182,7 @@
           "price": "24,999",
           "original_price": "27,999",
           "discount": "10% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 18th May",
           "description": {
             "RAM": "8 GB RAM",
@@ -193,6 +202,7 @@
           "price": "24,999",
           "original_price": "27,999",
           "discount": "10% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "8 GB RAM",
@@ -212,6 +222,7 @@
           "price": "23,999",
           "original_price": "26,999",
           "discount": "11% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "8 GB RAM",
@@ -231,6 +242,7 @@
           "price": "23,999",
           "original_price": "26,999",
           "discount": "11% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "8 GB RAM",
@@ -258,6 +270,7 @@
           "price": "9,999",
           "original_price": "16,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "6 GB RAM",
@@ -277,6 +290,7 @@
           "price": "9,999",
           "original_price": "16,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "6 GB RAM",
@@ -296,6 +310,7 @@
           "price": "11,499",
           "original_price": "17,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "8 GB RAM",
@@ -315,6 +330,7 @@
           "price": "9,499",
           "original_price": "15,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "8 GB RAM",
@@ -342,6 +358,7 @@
           "price": "11,999",
           "original_price": "15,999",
           "discount": "25% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "4 GB RAM",
@@ -362,6 +379,7 @@
           "price": "11,999",
           "original_price": "15,999",
           "discount": "25% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "4 GB RAM",
@@ -381,6 +399,7 @@
           "price": "12,499",
           "original_price": "17,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "6 GB RAM",
@@ -400,6 +419,7 @@
           "price": "12,499",
           "original_price": "17,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "6 GB RAM",
@@ -419,6 +439,7 @@
           "price": "12,499",
           "original_price": "17,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "6 GB RAM",
@@ -446,6 +467,7 @@
           "price": "14,999",
           "original_price": "19,999",
           "discount": "25% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -465,6 +487,7 @@
           "price": "14,999",
           "original_price": "19,999",
           "discount": "25% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -484,6 +507,7 @@
           "price": "16,999",
           "original_price": "21,999",
           "discount": "22% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "12 GB RAM",
@@ -503,6 +527,7 @@
           "price": "14,999",
           "original_price": "19,999",
           "discount": "25% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -530,6 +555,7 @@
           "price": "9,999",
           "original_price": "16,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "6 GB RAM",
@@ -549,6 +575,7 @@
           "price": "9,999",
           "original_price": "16,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "6 GB RAM",
@@ -568,6 +595,7 @@
           "price": "11,499",
           "original_price": "17,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "8 GB RAM",
@@ -587,6 +615,7 @@
           "price": "9,499",
           "original_price": "15,999",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Delivery by 11 PM, Tomorrow",
           "description": {
             "RAM": "8 GB RAM",
@@ -614,6 +643,7 @@
           "price": "18,677",
           "original_price": "25,999",
           "discount": "28% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "6 GB RAM",
@@ -633,6 +663,7 @@
           "price": "18,999",
           "original_price": "22,999",
           "discount": "17% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 23rd May",
           "description": {
             "RAM": "6 GB RAM",
@@ -652,6 +683,7 @@
           "price": "19,999",
           "original_price": "23,999",
           "discount": "16% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "6 GB RAM",
@@ -671,6 +703,7 @@
           "price": "19,999",
           "original_price": "23,999",
           "discount": "16% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "6 GB RAM",
@@ -690,6 +723,7 @@
           "price": "17,990",
           "original_price": "22,999",
           "discount": "21% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "6 GB RAM",
@@ -717,6 +751,7 @@
           "price": "10,990",
           "original_price": "8,999",
           "discount": "18% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -736,6 +771,7 @@
           "price": "10,990",
           "original_price": "8,999",
           "discount": "18% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -755,6 +791,7 @@
           "price": "10,990",
           "original_price": "8,999",
           "discount": "18% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -774,6 +811,7 @@
           "price": "10,990",
           "original_price": "8,999",
           "discount": "18% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -801,6 +839,7 @@
           "price": "10,990",
           "original_price": "8,999",
           "discount": "27% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -820,6 +859,7 @@
           "price": "8,990",
           "original_price": "7,999",
           "discount": "27% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -839,6 +879,7 @@
           "price": "10,990",
           "original_price": "8,999",
           "discount": "27% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -858,6 +899,7 @@
           "price": "8,990",
           "original_price": "7,999",
           "discount": "27% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -885,6 +927,7 @@
           "price": "71,999",
           "original_price": "79,900",
           "discount": "9% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -904,6 +947,7 @@
           "price": "71,999",
           "original_price": "79,900",
           "discount": "9% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -923,6 +967,7 @@
           "price": "71,999",
           "original_price": "79,900",
           "discount": "9% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -942,6 +987,7 @@
           "price": "81,999",
           "original_price": "89,900",
           "discount": "8% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -961,6 +1007,7 @@
           "price": "81,999",
           "original_price": "89,900",
           "discount": "8% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -980,6 +1027,7 @@
           "price": "81,999",
           "original_price": "89,900",
           "discount": "8% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "exchange_offer": "Off on Exchange Upto 53,000",
           "description": {
@@ -1000,6 +1048,7 @@
           "price": "81,999",
           "original_price": "89,900",
           "discount": "8% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -1019,6 +1068,7 @@
           "price": "1,58,990",
           "original_price": "1,64,900",
           "discount": "3% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "16 GB RAM",
@@ -1038,6 +1088,7 @@
           "price": "1,37,990",
           "original_price": "1,44,900",
           "discount": "4% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "16 GB RAM",
@@ -1057,6 +1108,7 @@
           "price": "81,999",
           "original_price": "89,900",
           "discount": "8% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "16 GB RAM",
@@ -1076,6 +1128,7 @@
           "price": "81,999",
           "original_price": "89,900",
           "discount": "8% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -1103,6 +1156,7 @@
           "price": "10,999",
           "original_price": "12,999",
           "discount": "15% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "6 GB RAM",
@@ -1122,6 +1176,7 @@
           "price": "10,999",
           "original_price": "12,999",
           "discount": "15% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "6 GB RAM",
@@ -1141,6 +1196,7 @@
           "price": "9,999",
           "original_price": "13,999",
           "discount": "28% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "6 GB RAM",
@@ -1160,6 +1216,7 @@
           "price": "9,999",
           "original_price": "13,999",
           "discount": "28% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "6 GB RAM",
@@ -1179,6 +1236,7 @@
           "price": "8,999",
           "original_price": "11,999",
           "discount": "25% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "4 GB RAM",
@@ -1206,6 +1264,7 @@
           "price": "29,999",
           "original_price": "69,999",
           "discount": "57% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1225,6 +1284,7 @@
           "price": "29,999",
           "original_price": "69,999",
           "discount": "57% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1244,6 +1304,7 @@
           "price": "29,999",
           "original_price": "69,999",
           "discount": "57% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1263,6 +1324,7 @@
           "price": "37,282",
           "original_price": "74,999",
           "discount": "50% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1282,6 +1344,7 @@
           "price": "39,999",
           "original_price": "74,999",
           "discount": "46% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1301,6 +1364,7 @@
           "price": "74,999",
           "original_price": "74,999",
           "discount": "46% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1328,6 +1392,7 @@
           "price": "11,999",
           "original_price": "14,999",
           "discount": "20% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -1347,6 +1412,7 @@
           "price": "11,999",
           "original_price": "14,999",
           "discount": "20% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -1366,6 +1432,7 @@
           "price": "11,999",
           "original_price": "14,999",
           "discount": "20% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -1385,6 +1452,7 @@
           "price": "10,999",
           "original_price": "13,999",
           "discount": "21% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "4 GB RAM",
@@ -1404,6 +1472,7 @@
           "price": "10,999",
           "original_price": "13,999",
           "discount": "21% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "4 GB RAM",
@@ -1431,6 +1500,7 @@
           "original_price": "16,999",
           "price": "13,999",
           "discount": "21% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "4 GB RAM",
@@ -1450,6 +1520,7 @@
           "original_price": "21,999",
           "price": "13,999",
           "discount": "21% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "3 GB RAM",
@@ -1469,6 +1540,7 @@
           "original_price": "23,999",
           "price": "13,999",
           "discount": "21% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "2 GB RAM",
@@ -1488,6 +1560,7 @@
           "original_price": "14,799",
           "price": "13,999",
           "discount": "21% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "4 GB RAM",
@@ -1515,6 +1588,7 @@
           "original_price": "37,999",
           "price": "31,999",
           "discount": "15% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "12 GB RAM",
@@ -1534,6 +1608,7 @@
           "original_price": "37,999",
           "price": "31,999",
           "discount": "15% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "12 GB RAM",
@@ -1553,6 +1628,7 @@
           "original_price": "35,999",
           "price": "28,999",
           "discount": "15% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1572,6 +1648,7 @@
           "original_price": "37,999",
           "price": "31,999",
           "discount": "15% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "12 GB RAM",
@@ -1591,6 +1668,7 @@
           "original_price": "35,999",
           "price": "28,999",
           "discount": "19% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1618,6 +1696,7 @@
           "original_price": "11,999",
           "price": "7,699",
           "discount": "35% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "4 GB RAM",
@@ -1637,6 +1716,7 @@
           "original_price": "11,999",
           "price": "7,699",
           "discount": "35% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "4 GB RAM",
@@ -1656,6 +1736,7 @@
           "original_price": "11,999",
           "price": "7,699",
           "discount": "35% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "4 GB RAM",
@@ -1675,6 +1756,7 @@
           "original_price": "10,999",
           "price": "7,999",
           "discount": "27% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "4 GB RAM",
@@ -1702,6 +1784,7 @@
           "original_price": "79,999",
           "price": "39,999",
           "discount": "50% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1721,6 +1804,7 @@
           "original_price": "79,999",
           "price": "39,999",
           "discount": "50% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1740,6 +1824,7 @@
           "original_price": "79,999",
           "price": "39,999",
           "discount": "50% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1759,6 +1844,7 @@
           "original_price": "84,999",
           "price": "44,999",
           "discount": "47% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1778,6 +1864,7 @@
           "original_price": "84,999",
           "price": "44,999",
           "discount": "47% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1805,6 +1892,7 @@
           "price": "61,999",
           "original_price": "79,900",
           "discount": "22% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1824,6 +1912,7 @@
           "original_price": "79,900",
           "price": "61,999",
           "discount": "22% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1843,6 +1932,7 @@
           "original_price": "79,900",
           "price": "61,999",
           "discount": "22% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1862,6 +1952,7 @@
           "original_price": "79,900",
           "price": "61,999",
           "discount": "22% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1881,6 +1972,7 @@
           "original_price": "79,900",
           "price": "61,999",
           "discount": "22% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1900,6 +1992,7 @@
           "original_price": "89,900",
           "price": "71,999",
           "discount": "19% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1927,6 +2020,7 @@
           "price": "22,999",
           "original_price": "29,999",
           "discount": "23% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -1946,6 +2040,7 @@
           "price": "24,999",
           "original_price": "33,999",
           "discount": "26% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "12 GB RAM",
@@ -1965,6 +2060,7 @@
           "price": "24,999",
           "original_price": "33,999",
           "discount": "26% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "12 GB RAM",
@@ -1984,6 +2080,7 @@
           "price": "22,999",
           "original_price": "29,999",
           "discount": "23% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -2003,6 +2100,7 @@
           "price": "26,999",
           "original_price": "31,999",
           "discount": "15% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -2022,6 +2120,7 @@
           "price": "26,999",
           "original_price": "31,999",
           "discount": "15% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -2049,6 +2148,7 @@
           "price": "23,999",
           "original_price": "28,990",
           "discount": "17% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "6 GB RAM",
@@ -2068,6 +2168,7 @@
           "price": "24,999",
           "original_price": "30,990",
           "discount": "19% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 22nd May",
           "description": {
             "RAM": "8 GB RAM",
@@ -2087,6 +2188,7 @@
           "price": "24,990",
           "original_price": "28,990",
           "discount": "13% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "6 GB RAM",
@@ -2106,6 +2208,7 @@
           "price": "24,999",
           "original_price": "30,990",
           "discount": "19% off",
+          "quantity": "1",
           "delivery_time": "Free delivery",
           "description": {
             "RAM": "8 GB RAM",
@@ -2126,6 +2229,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/h/1/4/-original-imagtbtd2ggn4mdb.jpeg?q=70",
       "brand": "PUMA, New Balance & more",
       "discount": "Min. 60-80% Off",
+      "quantity": "1",
       "category": "Men's Footwear",
       "dealInnerData": [
         {
@@ -2136,6 +2240,7 @@
           "price": "7,140",
           "original_price": "16,999",
           "discount": "57% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2146,6 +2251,7 @@
           "price": "7,825",
           "original_price": "8,695",
           "discount": "10% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2156,6 +2262,7 @@
           "price": "4,299",
           "original_price": "6,490",
           "discount": "33% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2166,6 +2273,7 @@
           "price": "1,599",
           "original_price": "3,999",
           "discount": "60% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2176,6 +2284,7 @@
           "price": "2,249",
           "original_price": "4,999",
           "discount": "55% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2186,6 +2295,7 @@
           "price": "1,815",
           "original_price": "5,499",
           "discount": "66% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by"
         },
         {
@@ -2196,6 +2306,7 @@
           "price": "4,080",
           "original_price": "6,999",
           "discount": "41% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by"
         },
         {
@@ -2206,6 +2317,7 @@
           "price": "5,500",
           "original_price": "10,999",
           "discount": "49% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by"
         },
         {
@@ -2216,6 +2328,7 @@
           "price": "10,311",
           "original_price": "24,549",
           "discount": "57% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by"
         },
         {
@@ -2226,6 +2339,7 @@
           "price": "1,599",
           "original_price": "3,999",
           "discount": "60% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2236,6 +2350,7 @@
           "price": "1,845",
           "original_price": "4,499",
           "discount": "58% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by"
         },
         {
@@ -2246,6 +2361,7 @@
           "price": "2,145",
           "original_price": "5,499",
           "discount": "60% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by"
         },
         {
@@ -2256,6 +2372,7 @@
           "price": "4,560",
           "original_price": "9,499",
           "discount": "51% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by"
         },
         {
@@ -2266,6 +2383,7 @@
           "price": "11,274",
           "original_price": "20,499",
           "discount": "45% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by"
         }
       ]
@@ -2275,6 +2393,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/ksru0sw0/watch/d/c/7/1-ax1723-armani-exchange-men-original-imag69rdhm6qnexj.jpeg?q=70",
       "brand": "Armani Exchange, Guess & more",
       "discount": "Up to 80% off",
+      "quantity": "1",
       "category": "Grand Offer On Watches!",
       "dealInnerData": [
         {
@@ -2285,6 +2404,7 @@
           "price": "260",
           "original_price": "1,499",
           "discount": "82% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 27th May"
         },
         {
@@ -2295,6 +2415,7 @@
           "price": "6,649",
           "original_price": "14,995",
           "discount": "55% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 26th May"
         },
         {
@@ -2305,6 +2426,7 @@
           "price": "5,374",
           "original_price": "13,995",
           "discount": "61% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 26th May"
         },
         {
@@ -2315,6 +2437,7 @@
           "price": "10,748",
           "original_price": "21,495",
           "discount": "49% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 27th May"
         },
         {
@@ -2325,6 +2448,7 @@
           "price": "300",
           "original_price": "1,999",
           "discount": "84% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2335,6 +2459,7 @@
           "price": "285",
           "original_price": "2,999",
           "discount": "90% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2345,6 +2470,7 @@
           "price": "7,248",
           "original_price": "14,495",
           "discount": "49% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 27th May"
         },
         {
@@ -2355,6 +2481,7 @@
           "price": "12,495",
           "original_price": "18,495",
           "discount": "40% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 27th May"
         },
         {
@@ -2365,6 +2492,7 @@
           "price": "8,397",
           "original_price": "13,995",
           "discount": "40% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 26th May"
         },
         {
@@ -2375,6 +2503,7 @@
           "price": "5,991",
           "original_price": "12,995",
           "discount": "53% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by 27th May"
         }
       ]
@@ -2384,6 +2513,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/7/i/x/-original-imagmh3muw48qn62.jpeg?q=70",
       "brand": "HRX, FILA  & More",
       "discount": "Under 899",
+      "quantity": "1",
       "category": "Men's Shoes",
       "dealInnerData": [
         {
@@ -2394,6 +2524,7 @@
           "price": "2,099",
           "original_price": "3,999",
           "discount": "47% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2404,7 +2535,8 @@
           "price": "3,999",
           "original_price": "3,499",
           "discount": "54% off",
-          "delivery_time": ""
+          "quantity": "1",
+          "delivery_time": "Free delivery"
         },
         {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/w/d/r/9-11010991-white-9-9-fila-wht-pea-original-imagsmwmew4ehe7a.jpeg?q=70",
@@ -2414,6 +2546,7 @@
           "price": "3,999",
           "original_price": "9,999",
           "discount": "20% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2424,6 +2557,7 @@
           "price": "7,999",
           "original_price": "9,999",
           "discount": "20% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2434,6 +2568,7 @@
           "price": "1,200",
           "original_price": "2,499",
           "discount": "51% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2444,6 +2579,7 @@
           "price": "1,780",
           "original_price": "4,299",
           "discount": "58% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2454,6 +2590,7 @@
           "price": "1,047",
           "original_price": "2,499",
           "discount": "58% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2464,6 +2601,7 @@
           "price": "1,299",
           "original_price": "2,599",
           "discount": "50% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2474,6 +2612,7 @@
           "price": "1,372",
           "original_price": "2,499",
           "discount": "45% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2484,6 +2623,7 @@
           "price": "3,104",
           "original_price": "4,499",
           "discount": "31% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         }
       ]
@@ -2493,6 +2633,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/1/o/b/7-if7252-7-adidas-crywht-arcngt-luclem-original-imagr5vh9bgfq2by.jpeg?q=70",
       "brand": "ADIDAS, Skechers & more",
       "discount": "Min. 50-80% Off",
+      "quantity": "1",
       "category": "Men's Shoes & more",
       "dealInnerData": [
         {
@@ -2503,6 +2644,7 @@
           "price": "3,039",
           "original_price": "3,799",
           "discount": "20% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2513,6 +2655,7 @@
           "price": "2,999",
           "original_price": "4,999",
           "discount": "40% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2523,6 +2666,7 @@
           "price": "2,585",
           "original_price": "4,999",
           "discount": "48% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2533,6 +2677,7 @@
           "price": "4,982",
           "original_price": "9,499",
           "discount": "47% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2543,6 +2688,7 @@
           "price": "1,975",
           "original_price": "3,799",
           "discount": "48% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2553,6 +2699,7 @@
           "price": "9,599",
           "original_price": "11,999",
           "discount": "20% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2563,6 +2710,7 @@
           "price": "2,678",
           "original_price": "6,599",
           "discount": "59% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2573,6 +2721,7 @@
           "price": "6,499",
           "original_price": "9,999",
           "discount": "35% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2583,6 +2732,7 @@
           "price": "4,549",
           "original_price": "6,499",
           "discount": "30% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2593,6 +2743,7 @@
           "price": "4,159",
           "original_price": "7,999",
           "discount": "48% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         }
       ]
@@ -2602,6 +2753,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shirt/y/z/s/-original-imagqfnghk5gddtv.jpeg?q=70",
       "brand": "Jack & Jones, UCB, Wrogn...",
       "discount": "60-85% Off",
+      "quantity": "1",
       "category": "Casual Shirts, T-shirts",
       "dealInnerData": [
         {
@@ -2612,6 +2764,7 @@
           "price": "224",
           "original_price": "999",
           "discount": "77% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2622,6 +2775,7 @@
           "price": "409",
           "original_price": "1,600",
           "discount": "74% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2632,6 +2786,7 @@
           "price": "412",
           "original_price": "1,600",
           "discount": "74% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2642,6 +2797,7 @@
           "price": "529",
           "original_price": "1,600",
           "discount": "65% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2652,6 +2808,7 @@
           "price": "620",
           "original_price": "1,541",
           "discount": "65% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2662,6 +2819,7 @@
           "price": "624",
           "original_price": "1,300",
           "discount": "60% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2672,6 +2830,7 @@
           "price": "1,168",
           "original_price": "2,299",
           "discount": "49% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2682,6 +2841,7 @@
           "price": "499",
           "original_price": "1,599",
           "discount": "68% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2692,6 +2852,7 @@
           "price": "349",
           "original_price": "1,599",
           "discount": "78% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         }
       ]
@@ -2702,6 +2863,7 @@
       "brand": "Allen Solly, PROVOGUE & more",
       "category": "Kids' Winter Wear",
       "discount": "Min 60% Off",
+      "quantity": "1",
       "dealInnerData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/a/d/b/-original-imagk4he2jz7wnwb.jpeg?q=70",
@@ -2711,6 +2873,7 @@
           "price": "768",
           "original_price": "1,599",
           "discount": "51% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2721,6 +2884,7 @@
           "price": "797",
           "original_price": "1,399",
           "discount": "43% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2731,6 +2895,7 @@
           "price": "765",
           "original_price": "1,699",
           "discount": "54% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2741,6 +2906,7 @@
           "price": "719",
           "original_price": "1,599",
           "discount": "55% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2751,6 +2917,7 @@
           "price": "674",
           "original_price": "1,499",
           "discount": "55% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2761,6 +2928,7 @@
           "price": "776",
           "original_price": "1,699",
           "discount": "54% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2771,6 +2939,7 @@
           "price": "1,428",
           "original_price": "3,399",
           "discount": "57% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2781,6 +2950,7 @@
           "price": "935",
           "original_price": "1,799",
           "discount": "48% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2791,6 +2961,7 @@
           "price": "1,400",
           "original_price": "2,799",
           "discount": "49% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2801,6 +2972,7 @@
           "price": "1,550",
           "original_price": "2,799",
           "discount": "49% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         }
       ]
@@ -2810,6 +2982,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/9/y/8/9-rsl027-red-tape-white-blue-original-imagszhhyk7nndwg.jpeg?q=70",
       "brand": "Red Tape, Wildcraft..",
       "discount": "Min. 60% Off",
+      "quantity": "1",
       "category": "Big Brands on Discounts",
       "dealInnerData": [
         {
@@ -2820,6 +2993,7 @@
           "price": "1,399",
           "original_price": "3,999",
           "discount": "65% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2830,6 +3004,7 @@
           "price": "1,099",
           "original_price": "5,499",
           "discount": "80% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2840,6 +3015,7 @@
           "price": "567",
           "original_price": "2,699",
           "discount": "78% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2850,6 +3026,7 @@
           "price": "1,119",
           "original_price": "5,599",
           "discount": "80% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2860,6 +3037,7 @@
           "price": "814",
           "original_price": "3,999",
           "discount": "79% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2870,6 +3048,7 @@
           "price": "1,539",
           "original_price": "7,699",
           "discount": "80% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2880,6 +3059,7 @@
           "price": "1,349",
           "original_price": "4,499",
           "discount": "70% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2890,6 +3070,7 @@
           "price": "1,119",
           "original_price": "5,599",
           "discount": "80% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2900,6 +3081,7 @@
           "price": "567",
           "original_price": "2,699",
           "discount": "78% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2910,6 +3092,7 @@
           "price": "1,619",
           "original_price": "5,399",
           "discount": "70% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2920,6 +3103,7 @@
           "price": "1,099",
           "original_price": "5,499",
           "discount": "80% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2930,6 +3114,7 @@
           "price": "814",
           "original_price": "3,999",
           "discount": "79% off",
+          "quantity": "1",
           "delivery_time": "Free delivery by"
         },
         {
@@ -2940,6 +3125,7 @@
           "price": "1,199",
           "original_price": "3,999",
           "discount": "70% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         }
       ]
@@ -2949,6 +3135,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/l2arp8w0/sandal/i/w/h/7-el-ci-w-01-sky-blue-40-elle-blue-original-imagdzc4yavshcvm.jpeg?q=70",
       "brand": "Carlton London & Elle",
       "discount": "Min. 60% Off",
+      "quantity": "1",
       "category": "Women's Sandals",
       "dealInnerData": [
         {
@@ -2959,6 +3146,7 @@
           "price": "589",
           "original_price": "1,695",
           "discount": "65% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2969,6 +3157,7 @@
           "price": "1,035",
           "original_price": "2,199",
           "discount": "52% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2979,6 +3168,7 @@
           "price": "1,249",
           "original_price": "2,399",
           "discount": "47% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2989,6 +3179,7 @@
           "price": "1,249",
           "original_price": "2,499",
           "discount": "50% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -2999,6 +3190,7 @@
           "price": "972",
           "original_price": "1,495",
           "discount": "34% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3009,6 +3201,7 @@
           "price": "619",
           "original_price": "1,495",
           "discount": "58% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3019,6 +3212,7 @@
           "price": "772",
           "original_price": "1,799",
           "discount": "57% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3029,6 +3223,7 @@
           "price": "1,274",
           "original_price": "2,199",
           "discount": "42% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3039,6 +3234,7 @@
           "price": "1,438",
           "original_price": "2,399",
           "discount": "40% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3049,6 +3245,7 @@
           "price": "797",
           "original_price": "1,799",
           "discount": "55% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         }
       ]
@@ -3058,6 +3255,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/l13whow0/jewellery-set/m/z/x/na-na-ae14nsa420-anouk-original-imagcryktezuxcvt.jpeg?q=70",
       "brand": "Earrings, Jewellery Sets...",
       "discount": "Flat 70% Off",
+      "quantity": "1",
       "category": "Hurry Now! Limited Time Offer",
       "dealInnerData": [
         {
@@ -3068,6 +3266,7 @@
           "price": "249",
           "original_price": "3,327",
           "discount": "92% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3078,6 +3277,7 @@
           "price": "1,186",
           "original_price": "3,049",
           "discount": "61% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3088,6 +3288,7 @@
           "price": "850",
           "original_price": "2,499",
           "discount": "65% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3098,6 +3299,7 @@
           "price": "182",
           "original_price": "449",
           "discount": "59% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3108,6 +3310,7 @@
           "price": "279",
           "original_price": "1,357",
           "discount": "79% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3118,6 +3321,7 @@
           "price": "395",
           "original_price": "1,330",
           "discount": "70% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3128,6 +3332,7 @@
           "price": "359",
           "original_price": "1,299",
           "discount": "72% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3138,6 +3343,7 @@
           "price": "1,378",
           "original_price": "1,663",
           "discount": "17% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3148,6 +3354,7 @@
           "price": "289",
           "original_price": "999",
           "discount": "71% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3158,6 +3365,7 @@
           "price": "349",
           "original_price": "1,963",
           "discount": "82% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         }
       ]
@@ -3167,6 +3375,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/sweater/9/z/4/s-mwaw22swtr012c-metronaut-original-imagg9wtgjnfjjg6.jpeg?q=70",
       "brand": "Street9, High Star...",
       "discount": "Flat 70% Off",
+      "quantity": "1",
       "category": "Shop Hot Selling Styles",
       "dealInnerData": [
         {
@@ -3177,6 +3386,7 @@
           "price": "1,050",
           "original_price": "2,999",
           "discount": "64% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3187,6 +3397,7 @@
           "price": "480",
           "original_price": "1,999",
           "discount": "75% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3197,6 +3408,7 @@
           "price": "750",
           "original_price": "2,499",
           "discount": "69% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3207,6 +3419,7 @@
           "price": "720",
           "original_price": "2,399",
           "discount": "69% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3217,6 +3430,7 @@
           "price": "443",
           "original_price": "1,999",
           "discount": "77% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3227,6 +3441,7 @@
           "price": "525",
           "original_price": "2,099",
           "discount": "74% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3237,6 +3452,7 @@
           "price": "425",
           "original_price": "1,699",
           "discount": "74% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3247,6 +3463,7 @@
           "price": "670",
           "original_price": "2,399",
           "discount": "72% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3257,6 +3474,7 @@
           "price": "712",
           "original_price": "1,799",
           "discount": "60% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3267,6 +3485,7 @@
           "price": "550",
           "original_price": "2,199",
           "discount": "74% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3277,6 +3496,7 @@
           "price": "735",
           "original_price": "1,150",
           "discount": "61% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3287,6 +3507,7 @@
           "price": "720",
           "original_price": "1,899",
           "discount": "60% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3297,6 +3518,7 @@
           "price": "999",
           "original_price": "2,899",
           "discount": "65% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3307,6 +3529,7 @@
           "price": "599",
           "original_price": "1,899",
           "discount": "65% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         }
       ]
@@ -3316,6 +3539,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/shoe/2/q/c/-original-imagtbtee86d2dhz.jpeg?q=70",
       "brand": "New Balance, Skechers & More",
       "discount": "Min.50-80%  Off",
+      "quantity": "1",
       "category": "Men's Shoes & more",
       "dealInnerData": [
         {
@@ -3326,6 +3550,7 @@
           "price": "3,600",
           "original_price": "8,999",
           "discount": "59% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3336,6 +3561,7 @@
           "price": "6,649",
           "original_price": "6,999",
           "discount": "5% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3346,6 +3572,7 @@
           "price": "6,649",
           "original_price": "6,999",
           "discount": "5% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3355,6 +3582,7 @@
           "price": "6,649",
           "original_price": "6,999",
           "discount": "5% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3365,6 +3593,7 @@
           "price": "5,460",
           "original_price": "13,999",
           "discount": "60% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3375,6 +3604,7 @@
           "price": "4,616",
           "original_price": "9,999",
           "discount": "53% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3385,6 +3615,7 @@
           "price": "4,982",
           "original_price": "9,499",
           "discount": "47% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3395,6 +3626,7 @@
           "price": "5,699",
           "original_price": "9,499",
           "discount": "40% off",
+          "quantity": "1",
           "delivery_time": "29th May"
         },
         {
@@ -3405,6 +3637,7 @@
           "price": "6,649",
           "original_price": "6,999",
           "discount": "5% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3415,6 +3648,7 @@
           "price": "6,999",
           "original_price": "6,999",
           "discount": "5% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3425,6 +3659,7 @@
           "price": "8,071",
           "original_price": "19,999",
           "discount": "59% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3435,6 +3670,7 @@
           "price": "7,424",
           "original_price": "19,999",
           "discount": "62% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         }
       ]
@@ -3444,6 +3680,7 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/t-shirt/3/n/q/xxl-tbh-sara-bl-the-bear-house-original-imagrk8kpe7cbhbd.jpeg?q=70",
       "brand": "Veirdo, Snitch, Dennis Lingo...",
       "discount": "Under 699",
+      "quantity": "1",
       "category": "Casual Shirts, T-shirts, Jeans..",
       "dealInnerData": [
         {
@@ -3454,6 +3691,7 @@
           "price": "899",
           "original_price": "2,649",
           "discount": "66% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3464,6 +3702,7 @@
           "price": "499",
           "original_price": "1,849",
           "discount": "73% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3474,6 +3713,7 @@
           "price": "499",
           "original_price": "1,849",
           "discount": "73% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3484,6 +3724,7 @@
           "price": "499",
           "original_price": "1,849",
           "discount": "73% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3494,6 +3735,7 @@
           "price": "799",
           "original_price": "1,598",
           "discount": "50% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3504,6 +3746,7 @@
           "price": "499",
           "original_price": "1,849",
           "discount": "73% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3514,6 +3757,7 @@
           "price": "551",
           "original_price": "2,299",
           "discount": "76% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3524,6 +3768,7 @@
           "price": "699",
           "original_price": "2,499",
           "discount": "72% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3534,6 +3779,7 @@
           "price": "429",
           "original_price": "2,649",
           "discount": "83% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3544,6 +3790,7 @@
           "price": "699",
           "original_price": "2,799",
           "discount": "75% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3554,6 +3801,7 @@
           "price": "496",
           "original_price": "1,849",
           "discount": "73% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3564,6 +3812,7 @@
           "price": "1,299",
           "original_price": "2,598",
           "discount": "50% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3574,6 +3823,7 @@
           "price": "1,079",
           "original_price": "2,398",
           "discount": "55% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3584,6 +3834,7 @@
           "price": "674",
           "original_price": "2,499",
           "discount": "73% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3594,6 +3845,7 @@
           "price": "599",
           "original_price": "2,499",
           "discount": "76% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         },
         {
@@ -3604,6 +3856,7 @@
           "price": "499",
           "original_price": "1,849",
           "discount": "73% off",
+          "quantity": "1",
           "delivery_time": "Free delivery"
         }
       ]
@@ -3980,34 +4233,15 @@
   ],
   "add-To-Cart-data": [
     {
-      "id": "b57a",
-      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/b/x/-original-imagtt4h4ptmxgwn.jpeg?q=70",
-      "name": "vivo T2 Pro 5G (New Moon Black, 256 GB)",
-      "RAM": "8 GB RAM",
-      "original_price": "27,999",
-      "price": "24,999",
-      "discount": "10% off",
-      "delivery_time": "Delivery by 11 PM, Tomorrow"
-    },
-    {
-      "id": "5ff3",
-      "image_url": "https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/v/c/i/-original-imagcv2dpkd75r6z.jpeg?q=70",
-      "name": "POCO X4 Pro 5G (Yellow, 64 GB)",
+      "id": "784d",
+      "image_url": "https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/w/0/6/-original-imagcv2dcyjzcmvd.jpeg?q=70",
+      "name": "POCO X4 Pro 5G (Laser Blue, 64 GB)",
       "RAM": "6 GB RAM",
       "original_price": "22,999",
-      "price": "18,999",
-      "discount": "17% off",
-      "delivery_time": "Free delivery by 23rd May"
-    },
-    {
-      "id": "4912",
-      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/o/y/g34-5g-pb1v0000in-motorola-original-imagwu4s8naevwyq.jpeg?q=70",
-      "name": "Motorola G34 5G (Charcoal Black, 128 GB)",
-      "RAM": "4 GB RAM",
-      "original_price": "13,999",
-      "price": "10,999",
+      "price": "17,990",
       "discount": "21% off",
-      "delivery_time": "Free delivery"
+      "delivery_time": "Free delivery",
+      "quantity": "2"
     }
   ]
 }

@@ -15,6 +15,7 @@ window.addEventListener("load",()=>{
     const original_price = params.get("original_price")
     const discount = params.get("discount")
     const delivery_time = params.get("delivery_time")
+    const quantity = params.get("quantity")
     const card = document.createElement("div")
     card.classList.add("row")
     card.innerHTML =`
@@ -67,7 +68,8 @@ function addCardData(clss){
         "original_price": params.get("original_price"),
         "price": params.get("price"),
         "discount": params.get("discount"),
-        "delivery_time": params.get("delivery_time")
+        "delivery_time": params.get("delivery_time"),
+        "quantity": params.get("quantity")
     }
     fetch("http://localhost:3000/add-To-Cart-data",{
         method: "POST",

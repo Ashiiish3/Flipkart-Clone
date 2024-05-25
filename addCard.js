@@ -1,14 +1,16 @@
 // fetch add to cart data
 const addCartInfoContainer = document.querySelector("#addCart-info")
+const totalCount = document.querySelector("#cart-count")
 let dataArray = []
-let sumAmount;
 function getAddCartData(){
     fetch("http://localhost:3000/add-To-Cart-data").then((res)=>res.json()).then((data)=>{
+        totalCount.innerHTML = data.length
+        totalAmount(data)
         multipleCards(data)
     }).catch((err)=>console.log(err))
 }
 getAddCartData()
-function singleCard(image_url, name, RAM, original_price, price, discount, delivery_time, id){
+function singleCard(image_url, name, RAM, original_price, price, discount, delivery_time, id, quantity){
     let div = `
         <a href="#" class="text-dark text-decoration-none">
             <div class="addCart-box d-grid">
@@ -28,9 +30,9 @@ function singleCard(image_url, name, RAM, original_price, price, discount, deliv
                     </div>
                 </div>
                 <div class="price-input">
-                    <button class="border mx-2">−</button>
-                    <input type="number" value="1">
-                    <button class="border mx-2">+</button>
+                    <button class="decreaseQuantity border mx-2" data-id="${id}">−</button>
+                    <button id="quntValue">${quantity}</button>
+                    <button class="increaseQuantity border mx-2" data-id="${id}">+</button>
                 </div>
                 <div class="price-delete">
                     <button class="deleteButton" data-id="${id}">Remove</button>
@@ -42,7 +44,7 @@ function singleCard(image_url, name, RAM, original_price, price, discount, deliv
     return div
 }
 function multipleCards(data){
-    let storeAddCartData = data.map((ele)=>singleCard(ele.image_url, ele.name, ele.RAM, ele.original_price, ele.price, ele.discount, ele.delivery_time, ele.id))
+    let storeAddCartData = data.map((ele)=>singleCard(ele.image_url, ele.name, ele.RAM, ele.original_price, ele.price, ele.discount, ele.delivery_time, ele.id, ele.quantity))
     addCartInfoContainer.innerHTML = storeAddCartData.join("")
 }
 // for delete add cart product
@@ -59,3 +61,31 @@ function deleteProduct(id){
     })
 }
 // for total amount
+const totalPrice = document.querySelector("#totalAmount")
+let sum = 0;
+function totalAmount(data){
+    data.forEach((element)=>{
+        sum += Number(element.price.replace(/,/g, ''))
+        totalPrice.innerHTML = `₹${sum}`
+    })
+}
+// for increase and decrease product quantity
+// let countQunt = 0;
+// document.addEventListener("click", (eve)=>{
+//     if(eve.target.classList.contains("increaseQuantity")){
+//         increaseQunt(eve.target.dataset.id)
+//     }
+// })
+// function increaseQunt(id){
+//     console.log(id)
+//     // let obj ={
+//     //     "quantity": `${1+1}`
+//     // }
+//     fetch(`http://localhost:3000/add-To-Cart-data/${id}`).then((res)=>res.json()).then((data)=>{
+//         quantity = Number(data.quantity) + 1
+//         console.log(quantity)
+//         // countQunt += Number(data.quantity)
+//         // console.log(countQunt)
+//         // console.log(data.quantity)
+//     }).catch((err)=>console.log(err))
+// }
