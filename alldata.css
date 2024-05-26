@@ -66,6 +66,7 @@ figure .index-button a{
 figure .filter{
     font-weight: 500;
 }
+/* for phone item data */
 #phoneItem{
     text-decoration: none;
     color: black;
@@ -120,5 +121,63 @@ figure .filter{
         color: green;
         font-weight: 500;
         font-size: 13px;
+    }
+}
+/* for top deal data */
+.topDeal-box{
+    /* background-color: green; */
+    margin: 13px;
+    /* border: 1px solid rgb(206, 206, 206); */
+    &:hover{
+        box-shadow: 0px 0px 8px 1px rgba(206, 206, 206, 0.521);
+    }
+}
+.topDeal-box #topDeal{
+    text-decoration: none;
+    color: black;
+}
+#topDeal #image-part{
+    width: 290px;
+    height: 335px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    overflow: hidden;
+    & img{
+        width: 100%;
+    }
+}
+.topDeal-box #topDeal #descInfo{
+    padding: 6px 10px;
+    & #sponsored{
+        color: #cecece;
+        font-size: 13px;
+        font-weight: 500;
+    }
+    & #brand{
+        color: #868686;
+        font-size: 14px;
+        margin-bottom: 3px;
+    }
+    & #name{
+        width: 260px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-weight: 400;
+    }
+    & #price{
+        font-weight: 500;
+        font-size: 17px;
+    }
+    & #original_price{
+        color: #868686;
+        font-size: 14px;
+        text-decoration: line-through;
+    }
+    & #discount{
+        color: green;
+        font-size: 13px;
+        font-weight: 500;
     }
 }

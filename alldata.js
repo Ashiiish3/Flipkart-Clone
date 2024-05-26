@@ -2,8 +2,6 @@
 let container = document.querySelector("#allDataBox")
 window.addEventListener("load", ()=>{
     const params = new URLSearchParams(window.location.search)
-    console.log(params.get("phonesInnerData"))
-    console.log(params.get("dealInnerData"))
     if(params.has("phonesInnerData")){
         const phonesInnerData = JSON.parse(params.get("phonesInnerData"))
         phonesInnerData.forEach(element => {
@@ -45,10 +43,17 @@ window.addEventListener("load", ()=>{
         const dealInnerData = JSON.parse(params.get("dealInnerData"))   
         dealInnerData.forEach((ele)=>{
             let div = document.createElement("div")
+            div.classList.add("topDeal-box")
             div.innerHTML = `
-                <a href="">
+                <a href="description.html?image_url=${encodeURIComponent(ele.image_url)}&name=${encodeURIComponent(ele.name)}&brand=${encodeURIComponent(ele.brand)}&rating=${encodeURIComponent(ele.rating)}&ratings_reviews=${encodeURIComponent(ele.ratings_reviews)}&price=${encodeURIComponent(ele.price)}&original_price=${encodeURIComponent(ele.original_price)}&discount=${encodeURIComponent(ele.discount)}&quantity=${encodeURIComponent(ele.quantity)}&delivery_time=${encodeURIComponent(ele.delivery_time)}" id="topDeal">
                     <div id="image-part">
                         <img src=${ele.image_url} alt="">
+                    </div>
+                    <div id="descInfo">
+                        <p class="m-0" id="sponsored">${ele.sponsored}</p>
+                        <h5 id="brand">${ele.brand}</h5>
+                        <h6 id="name">${ele.name}</h6>
+                        <p><span id="price">₹${ele.price}</span> <span id="original_price" class="mx-1">₹${ele.original_price}</span> <span id="discount">${ele.discount}</span></p>
                     </div>
                 </a>
             `

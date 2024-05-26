@@ -30,12 +30,15 @@
 .description-container .row .image-box img{
     height: 450px;
 }
+.description-container .row .info-box #brand{
+    color: #868686;
+}
 .description-container .row #rating{
-    background-color: green;
+    background-color: #26a541;
     color: white;
-    padding: 1px 5px 3px;
-    font-size: 13px;
-    border-radius: 5px;
+    padding: 1px 7px 2px;
+    font-size: 14px;
+    border-radius: 25px;
     font-weight: 500;
 }
 .description-container .row #ratings_reviews{
@@ -57,7 +60,7 @@
         margin: 0px 5px;
     }
     & #discount{
-        color: green;
+        color: #26a541;
         font-weight: 500;
         font-size: 14px;
     }

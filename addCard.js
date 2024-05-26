@@ -1,16 +1,16 @@
 // fetch add to cart data
 const addCartInfoContainer = document.querySelector("#addCart-info")
-const totalCount = document.querySelector("#cart-count")
+const counts = document.querySelector("#cart-counts")
 let dataArray = []
 function getAddCartData(){
     fetch("http://localhost:3000/add-To-Cart-data").then((res)=>res.json()).then((data)=>{
-        totalCount.innerHTML = data.length
+        counts.innerHTML = data.length
         totalAmount(data)
         multipleCards(data)
     }).catch((err)=>console.log(err))
 }
 getAddCartData()
-function singleCard(image_url, name, RAM, original_price, price, discount, delivery_time, id, quantity){
+function singleCard(image_url, name, RAM, original_price, price, discount, delivery_time, id, quantity, brand){
     let div = `
         <a href="#" class="text-dark text-decoration-none">
             <div class="addCart-box d-grid">
@@ -44,7 +44,7 @@ function singleCard(image_url, name, RAM, original_price, price, discount, deliv
     return div
 }
 function multipleCards(data){
-    let storeAddCartData = data.map((ele)=>singleCard(ele.image_url, ele.name, ele.RAM, ele.original_price, ele.price, ele.discount, ele.delivery_time, ele.id, ele.quantity))
+    let storeAddCartData = data.map((ele)=>singleCard(ele.image_url, ele.name, ele.RAM, ele.original_price, ele.price, ele.discount, ele.delivery_time, ele.id, ele.quantity, ele.brand))
     addCartInfoContainer.innerHTML = storeAddCartData.join("")
 }
 // for delete add cart product

@@ -29,7 +29,7 @@
                 <button type="button" class="btn btn-outline-primary"><i class="fa-regular fa-user me-2 user"></i><a href="" class="text-decoration-none">Login</a></button>
             </div>
             <div class="cart-button">
-                <button class="px-2"><a href="addCart.html"><i class="ri-shopping-cart-2-line me-1" style="font-size: 19px;"></i> Cart</a></button>
+                <button class="px-2"><a href="addCart.html"><i class="ri-shopping-cart-2-line me-1" style="font-size: 19px;"></i> Cart <span class="badge" id="cart-count">0</span></a></button>
             </div>
             <div class="seller-button">
                 <button><a href=""><i class="ri-store-line me-1" style="font-size: 18px;"></i> Become a seller</a></button>
@@ -119,7 +119,18 @@
                 <span class="me-3" href="#" id="HighToLow">Price - High to Low</span>
             </div>
             <hr>
-            <div id="allDataBox">
+            <div id="allDataBox" class="d-flex flex-wrap">
+                <!-- <div class="">
+                    <div id="image-part">
+                        <img src="https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/2/q/o/-original-imagqfwbquhjxkhh.jpeg?q=70" alt="">
+                    </div>
+                    <div id="descInfo">
+                        <p class="m-0">sponsored</p>
+                        <h5>brand</h5>
+                        <h6>name</h6>
+                        <p><span>price</span><span>original_price</span><span>discount</span></p>
+                    </div>
+                </div> -->
             </div>
         </figure>
     </main>
@@ -182,5 +193,6 @@
         </div>
     </footer>
     <script src="alldata.js"></script>
+    <script src="main.js"></script>
 </body>
 </html>
