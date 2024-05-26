@@ -1,4 +1,5 @@
 const params = new URLSearchParams(window.location.search)
+console.log(params)
 window.addEventListener("load",()=>{
     let descriptionContainer = document.querySelector(".description-container")
     if(params.has("battery")){
@@ -109,8 +110,7 @@ function addCardData(clss){
     let phoneObj = {
         "image_url": params.get("image_url"),
         "name": params.get("name"),
-        "RAM": params.get("ram"),
-        "brand": params.get("brand"),
+        "ratings_reviews": params.get("ratings_reviews"),
         "original_price": params.get("original_price"),
         "price": params.get("price"),
         "discount": params.get("discount"),

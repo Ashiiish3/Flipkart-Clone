@@ -124,15 +124,14 @@ figure .filter{
     }
 }
 /* for top deal data */
-.topDeal-box{
-    /* background-color: green; */
+.topDeal-box, .tvDeal-box{
+    padding: 5px 0px;
     margin: 13px;
-    /* border: 1px solid rgb(206, 206, 206); */
     &:hover{
         box-shadow: 0px 0px 8px 1px rgba(206, 206, 206, 0.521);
     }
 }
-.topDeal-box #topDeal{
+.topDeal-box #topDeal, .tvDeal-box #tvDeal{
     text-decoration: none;
     color: black;
 }
@@ -140,7 +139,6 @@ figure .filter{
     width: 290px;
     height: 335px;
     display: flex;
-    text-align: center;
     align-items: center;
     overflow: hidden;
     & img{
@@ -180,4 +178,49 @@ figure .filter{
         font-size: 13px;
         font-weight: 500;
     }
+}
+/* for tv data */
+.tvDeal-box #tvDeal #image-part{
+    width: 290px;
+    height: 335px;
+    display: flex;
+    justify-content: center;
+}
+.tvDeal-box #tvDeal #descInfo{
+    padding: 6px 15px;
+    margin-top: 10px;
+    & #name{
+        width: 260px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-weight: 500;   
+    }
+    & #rating{
+        background-color: #26a541;
+        color: white;
+        padding: 1px 7px 3px;
+        border-radius: 25px;
+        font-size: 13px;
+    }
+    & #price{
+        font-weight: 500;
+        font-size: 17px;
+    }
+    & #original_price{
+        color: #868686;
+        font-size: 14px;
+        text-decoration: line-through;
+    }
+    & #discount{
+        font-weight: 500;
+        font-size: 14px;
+        color: green;
+    }
+    & #delivery_time{
+        font-size: 13px;
+    }
+}
+.tvDeal-box:hover h6{
+    color: rgba(22, 22, 255, 0.842);
 }

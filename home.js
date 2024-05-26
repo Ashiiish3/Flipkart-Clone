@@ -108,7 +108,7 @@ function getTdData(){
 getTdData()
 function singletdCard(image, brand, discount, dealInnerData){
     let div = `
-        <a href="alldata.html?dealInnerData=${encodeURIComponent(JSON.stringify(dealInnerData))}">
+        <a href="alldata.html?dealInnerData=${encodeURIComponent(JSON.stringify(dealInnerData))}" class="text-dark text-decoration-none">
             <div id="tdCard" class="border">
                 <div id="image"><img src=${image} alt=""></div>
                 <p class="brand mb-1 mt-3">${brand}</p>
@@ -147,27 +147,29 @@ topDealPrevButton.addEventListener("click", ()=>{
     topDealData.style.scrollBehavior = "smooth"
     topDealData.scrollLeft -= scrollDistance
 })
-// fashion data fetch
+// fashion data / tv data fetch
 let fashionContainer = document.querySelector("#fashionSeller-slider-container")
 function getFashionData(){
     fetch("http://localhost:3000/fashion-data").then((res)=>res.json()).then((fashionData)=>multipleFashionCards(fashionData)).catch((err)=>console.log(err))
 }
 getFashionData()
-function singleFashionCard(image, brand, discount){
+function singleFashionCard(image, name, discount, tvInnderData){
     let div = `
-        <div id="fashionCard" class="border">
-            <div id="image"><a href=""><img src=${image} alt=""></a></div>
-            <p class="brand mb-1 mt-3">${brand}</p>
-            <p class="discount mb-1">${discount}</p>
-        </div>
+        <a href="alldata.html?tvInnderData=${encodeURIComponent(JSON.stringify(tvInnderData))}" class="text-dark text-decoration-none">
+            <div id="fashionCard" class="border">
+                <div id="image"><img src=${image} alt=""></div>
+                <p class="brand mb-1 mt-3">${name}</p>
+                <p class="discount mb-1">${discount}</p>
+            </div>
+        </a>
     `
     return div;
 }
 function multipleFashionCards(fashionData){
-    let storeFashionData = fashionData.map((el)=>singleFashionCard(el.image, el.brand, el.discount))
+    let storeFashionData = fashionData.map((el)=>singleFashionCard(el.image, el.name, el.discount, el.tvInnderData))
     fashionContainer.innerHTML = storeFashionData.join("")
 }
-// fashion data slider
+// fashion data / tv data slider
 let fashionNextButton = document.querySelector("#FashionNext")
 let fashionPrevButton = document.querySelector("#FashionPrev")
 function calculateScrollDistance() {

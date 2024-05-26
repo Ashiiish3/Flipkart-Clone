@@ -10,7 +10,7 @@ function getAddCartData(){
     }).catch((err)=>console.log(err))
 }
 getAddCartData()
-function singleCard(image_url, name, RAM, original_price, price, discount, delivery_time, id, quantity, brand){
+function singleCard(image_url, name, ratings_reviews, original_price, price, discount, delivery_time, id, quantity, brand){
     let div = `
         <a href="#" class="text-dark text-decoration-none">
             <div class="addCart-box d-grid">
@@ -20,7 +20,7 @@ function singleCard(image_url, name, RAM, original_price, price, discount, deliv
                 <div id="addCartTitleSection">
                     <div id="titleInfo">
                         <h5 id="name" class="mb-1">${name}</h5>
-                        <p id="ram" class="mb-2">${RAM}</p>
+                        <p id="ram" class="mb-2">${ratings_reviews}</p>
                         <span id="original_price" class="me-2">₹${original_price}</span>
                         <span id="price" class="me-2">₹${price}</span>
                         <span id="discount">${discount}</span>
@@ -44,7 +44,7 @@ function singleCard(image_url, name, RAM, original_price, price, discount, deliv
     return div
 }
 function multipleCards(data){
-    let storeAddCartData = data.map((ele)=>singleCard(ele.image_url, ele.name, ele.RAM, ele.original_price, ele.price, ele.discount, ele.delivery_time, ele.id, ele.quantity, ele.brand))
+    let storeAddCartData = data.map((ele)=>singleCard(ele.image_url, ele.name, ele.ratings_reviews, ele.original_price, ele.price, ele.discount, ele.delivery_time, ele.id, ele.quantity))
     addCartInfoContainer.innerHTML = storeAddCartData.join("")
 }
 // for delete add cart product
