@@ -125,7 +125,7 @@ figure .filter{
 }
 /* for top deal data */
 .topDeal-box, .tvDeal-box{
-    padding: 5px 0px;
+    padding: 11px 0px;
     margin: 13px;
     &:hover{
         box-shadow: 0px 0px 8px 1px rgba(206, 206, 206, 0.521);
@@ -185,6 +185,7 @@ figure .filter{
     height: 335px;
     display: flex;
     justify-content: center;
+    overflow: hidden;
 }
 .tvDeal-box #tvDeal #descInfo{
     padding: 6px 15px;
@@ -194,7 +195,7 @@ figure .filter{
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
-        font-weight: 500;   
+        font-weight: 500;
     }
     & #rating{
         background-color: #26a541;

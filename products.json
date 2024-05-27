@@ -4154,7 +4154,7 @@
       "name": "Samsung Refrigerator",
       "price": "12,690",
       "discount": "60-70% Off",
-      "tvInnderData":  [
+      "tvInnderData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/h/y/t/-original-imagwnjnez3fhghk.jpeg?q=70",
           "name": "SAMSUNG 183 L Direct Cool Single Door 3 Star Refrigerat...",
@@ -4166,8 +4166,8 @@
           "quantity": "1",
           "discount": "22% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
           "name": "SAMSUNG 236 L Frost Free Double Door 3 Star Convertible...",
           "rating": 4.3,
@@ -4178,8 +4178,8 @@
           "quantity": "1",
           "discount": "13% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/x/f/z/-original-imagwnjnwqhyhgjq.jpeg?q=70",
           "name": "SAMSUNG 215 L Direct Cool Single Door 4 Star Refrigerat...",
           "rating": 4.3,
@@ -4190,8 +4190,8 @@
           "quantity": "1",
           "discount": "43% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/3/u/d/-original-imagw4snhegsjjjv.jpeg?q=70",
           "name": "SAMSUNG 236 L Frost Free Double Door 2 Star Convertible...",
           "rating": 4.3,
@@ -4202,8 +4202,8 @@
           "quantity": "1",
           "discount": "49% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/n/l/8/-original-imagw4sngthnzrsm.jpeg?q=70",
           "name": "SAMSUNG 256 L Frost Free Double Door 3 Star Convertible...",
           "rating": 4.3,
@@ -4214,8 +4214,8 @@
           "quantity": "1",
           "discount": "35% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/t/6/t/-original-imagy3pytsfrzdfe.jpeg?q=70",
           "name": "SAMSUNG 215 L Direct Cool Single Door 4 Star Refrigerat...",
           "rating": 4.4,
@@ -4226,8 +4226,8 @@
           "quantity": "1",
           "discount": "31% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/i/r/k/-original-imagy3pyt5tfwbqu.jpeg?q=70",
           "name": "SAMSUNG 223 L Direct Cool Single Door 3 Star Refrigerat...",
           "rating": 4.4,
@@ -4238,8 +4238,8 @@
           "quantity": "1",
           "discount": "25% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/5/d/c/-original-imagyfzzgdenfyah.jpeg?q=70",
           "name": "SAMSUNG 322 L Frost Free Double Door 2 Star Convertible...",
           "rating": 4.2,
@@ -4250,8 +4250,8 @@
           "quantity": "1",
           "discount": "29% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/y/d/k/-original-imagwnkacu6rgagg.jpeg?q=70",
           "name": "SAMSUNG 183 L Direct Cool Single Door 4 Star Refrigerat...",
           "rating": 4.4,
@@ -4262,8 +4262,8 @@
           "quantity": "1",
           "discount": "36% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/z/c/c/-original-imahyzxhntvyrab9.jpeg?q=70",
           "name": "SAMSUNG 256 L Frost Free Double Door 3 Star Refrigerato...",
           "rating": 4.3,
@@ -4274,7 +4274,7 @@
           "quantity": "1",
           "discount": "30% off",
           "delivery_time": "Free delivery"
-          }
+        }
       ]
     },
     {
@@ -4283,7 +4283,7 @@
       "name": "Marq Refrigerator",
       "price": "8,999",
       "discount": "50-60% Off",
-      "tvInnderData":  [
+      "tvInnderData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/l/h/3/-original-imagzvf2fykuugfm.jpeg?q=70",
           "name": "MarQ by Flipkart 183 L Direct Cool Single Door 2 Star Refrigerator",
@@ -4398,26 +4398,50 @@
       "id": "tv4",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/washing-machine-new/0/q/e/-original-imags7pzrywzxc2z.jpeg?q=70",
       "name": "Semi Automatic Washing Machines",
-      "price": "Buy Now",
+      "price": "9,636",
       "discount": "55-65% Off",
-      "tvInnderData":  [
+      "tvInnderData": [
         {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/2/v/x/-original-imagzh27tedkkfds.jpeg?q=70",
-          "name": "TCL 7 kg 5 Star with Extra Powerful Motor Lint Filter, Fast Dry Semi Automatic Top Load Washing Machine",
-          "rating": 4,
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/p/4/2/-original-imagzh27h5csg5ss.jpeg?q=70",
+          "name": "TCL 7.5 kg 5 Star with Extra Powerful Motor Lint Filter, Fast Dry Semi Automatic Top Load Washing Mach...",
+          "rating": "4",
           "ratings_reviews": "6 Ratings & 0 Reviews",
-          "price": "7,990",
-          "original_price": "15,490",
+          "price": "10,499",
+          "original_price": "17,990",
           "category": "tv & refrigerator",
           "quantity": "1",
-          "discount": "48% off",
+          "discount": "41% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/h/n/z/-original-imahyvxff6hwxz98.jpeg?q=70",
+          "name": "Whirlpool 11 kg Dynamix Detergent Dispenser Semi Automatic Top Load Washing Machine Black, Grey",
+          "rating": "4.4",
+          "ratings_reviews": "13,232 Ratings & 1,057 Reviews",
+          "price": "17,840",
+          "original_price": "21,950",
+          "category": "tv & refrigerator",
+          "quantity": "1",
+          "discount": "18% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/v/v/a/-original-imahyvn3rfevnxer.jpeg?q=70",
+          "name": "Whirlpool 8 kg 5 Star with Auto Restart, End of Cycle Buzzer, Lint Filter and Collar Scrubber Semi Aut...",
+          "rating": "4.4",
+          "ratings_reviews": "13,232 Ratings & 1,057 Reviews",
+          "price": "13,090",
+          "original_price": "16,600",
+          "category": "tv & refrigerator",
+          "quantity": "1",
+          "discount": "21% off",
           "delivery_time": "Free delivery"
         },
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/e/r/i/-original-imags7pgmfcnw9yt.jpeg?q=70",
           "name": "MarQ by Flipkart 7 kg 5 Star rating Semi Automatic Top Load Washing Machine Blue, White",
-          "rating": 4.2,
-          "ratings_reviews": "17,825 Ratings & 1,833 Reviews",
+          "rating": "4.2",
+          "ratings_reviews": "17,851 Ratings & 1,835 Reviews",
           "price": "6,990",
           "original_price": "10,990",
           "category": "tv & refrigerator",
@@ -4428,8 +4452,8 @@
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/d/r/b/-original-imagx8sgmzzwsczq.jpeg?q=70",
           "name": "SAMSUNG 7 kg 5 star, Air Turbo Drying Semi Automatic Top Load Washing Machine Grey, Purple",
-          "rating": 4.4,
-          "ratings_reviews": "40,322 Ratings & 2,979 Reviews",
+          "rating": "4.4",
+          "ratings_reviews": "40,438 Ratings & 2,983 Reviews",
           "price": "10,490",
           "original_price": "13,500",
           "category": "tv & refrigerator",
@@ -4438,21 +4462,9 @@
           "delivery_time": "Free delivery"
         },
         {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/0/q/e/-original-imags7pzrywzxc2z.jpeg?q=70",
-          "name": "realme TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black",
-          "rating": 4.2,
-          "ratings_reviews": "53,058 Ratings & 5,497 Reviews",
-          "price": "7,690",
-          "original_price": "12,490",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "38% off",
-          "delivery_time": "Free delivery"
-        },
-        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/b/c/g/-original-imagvrbhcwuwz7j7.jpeg?q=70",
-          "name": "LG 7 kg 5 Star with Wind Jet Dry, Collar Scrubber and Rust Free Plastic Base Semi Automatic Top Load Washing Machine",
-          "rating": 4.4,
+          "name": "LG 7 kg 5 Star with Wind Jet Dry, Collar Scrubber and Rust Free Plastic Base Semi Automatic Top Load W...",
+          "rating": "4.4",
           "ratings_reviews": "28,977 Ratings & 2,044 Reviews",
           "price": "11,490",
           "original_price": "14,190",
@@ -4463,9 +4475,9 @@
         },
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/p/h/c/-original-imahyvn3zsgah4yp.jpeg?q=70",
-          "name": "Whirlpool 7 kg 5 Star with Ace Wash Station, 1400 RPM Speed and Rust Proof Semi Automatic Top Load Washing Machine",
-          "rating": 4.4,
-          "ratings_reviews": "13,166 Ratings & 1,054 Reviews",
+          "name": "Whirlpool 7 kg 5 Star with Ace Wash Station, 1400 RPM Speed and Rust Proof Semi Automatic Top Load Was...",
+          "rating": "4.4",
+          "ratings_reviews": "13,232 Ratings & 1,057 Reviews",
           "price": "10,390",
           "original_price": "13,550",
           "category": "tv & refrigerator",
@@ -4474,154 +4486,10 @@
           "delivery_time": "Free delivery"
         },
         {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/z/b/q/-original-imagxbywcadw6gpa.jpeg?q=70",
-          "name": "Thomson 7.5 kg 5 Star Aqua Magic Semi Automatic Top Load Washing Machine Black",
-          "rating": 4,
-          "ratings_reviews": "9,564 Ratings & 950 Reviews",
-          "price": "7,890",
-          "original_price": "11,499",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "31% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/j/w/p/-original-imagz7gdh66twtze.jpeg?q=70",
-          "name": "Voltas Beko 8.5 kg Semi Automatic Top Load Washing Machine Maroon, White",
-          "rating": 4.3,
-          "ratings_reviews": "3,347 Ratings & 298 Reviews",
-          "price": "10,990",
-          "original_price": "19,990",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "45% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/s/z/p/-original-imagunzsgkuss6fy.jpeg?q=70",
-          "name": "Intex 6.5 kg With Air Dry Technology, Wave Pulsator Design, Magic Filter Transparent Lid Semi Automatic Top Load Washing Machine",
-          "rating": 4.3,
-          "ratings_reviews": "15,652 Ratings & 2,333 Reviews",
-          "price": "6,790",
-          "original_price": "11,499",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "40% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/5/7/8/-original-imags7pfghsnusx3.jpeg?q=70",
-          "name": "MarQ by Flipkart 6 kg 5 Star Rating Semi Automatic Top Load Washing Machine White, Maroon",
-          "rating": 4.3,
-          "ratings_reviews": "46,525 Ratings & 4,931 Reviews",
-          "price": "6,690",
-          "original_price": "10,010",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "33% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/7/f/7/-original-imagx8sgwdne3jz8.jpeg?q=70",
-          "name": "SAMSUNG 7.5 kg 5 star, Air Turbo Drying Semi Automatic Top Load Washing Machine Blue, Grey",
-          "rating": 4.4,
-          "ratings_reviews": "40,322 Ratings & 2,979 Reviews",
-          "price": "11,690",
-          "original_price": "15,900",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "26% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/b/p/u/-original-imagz7gdydgggym4.jpeg?q=70",
-          "name": "Voltas Beko 8 kg Semi Automatic Top Load Washing Machine Blue, White",
-          "rating": 4.3,
-          "ratings_reviews": "3,347 Ratings & 298 Reviews",
-          "price": "10,290",
-          "original_price": "18,990",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "45% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/n/t/d/-original-imagrgqgzbw6fhkj.jpeg?q=70",
-          "name": "LG 8 kg 5 Star with Roller Jet Pulsator with Soak, Wind Jet Dry and Rat Away, 6 Kg (Spin Tub Capacity) Semi Automatic Top Load Washing Machine",
-          "rating": 4.5,
-          "ratings_reviews": "3,896 Ratings & 282 Reviews",
-          "price": "13,990",
-          "original_price": "19,990",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "30% off",
-          "delivery_time": "Free delivery"
-        },
-        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/v/v/a/-original-imahyvn3rfevnxer.jpeg?q=70",
-          "name": "Whirlpool 8.5 kg 5 Star with Auto Restart, End of Cycle Buzzer, Lint Filter and Collar Scrubber Semi Automatic Top Load Washing Machine",
-          "rating": 4.4,
-          "ratings_reviews": "13,166 Ratings & 1,054 Reviews",
-          "price": "13,640",
-          "original_price": "17,400",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "21% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/0/y/5/-original-imagz9fypfz44tkv.jpeg?q=70",
-          "name": "Voltas Beko by A Tata Product 7 kg Semi Automatic Top Load Washing Machine Maroon, White",
-          "rating": 4.3,
-          "ratings_reviews": "3,347 Ratings & 298 Reviews",
-          "price": "9,190",
-          "original_price": "14,490",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "36% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/2/6/m/-original-imagx7qhyteggfcb.jpeg?q=70",
-          "name": "LG 8.5 kg 5 Star with Roller Jet Pulsator with Soak, Wind Jet Dry and Collar Scrubber Semi Automatic Top Load Washing Machine",
-          "rating": 4.4,
-          "ratings_reviews": "4,559 Ratings & 365 Reviews",
-          "price": "14,490",
-          "original_price": "19,990",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "27% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/d/4/l/-original-imagzzf7hpvrsabu.jpeg?q=70",
-          "name": "Voltas Beko by A Tata Product 9 kg washing machine with Soft Closing door, Water proof IPX4 protection",
-          "rating": 4.3,
-          "ratings_reviews": "3,347 Ratings & 298 Reviews",
-          "price": "12,690",
-          "original_price": "22,090",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "42% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/q/h/c/-original-imags7pfmzfeeag6.jpeg?q=70",
-          "name": "realme TechLife 8.5 kg 5 Star rating Semi Automatic Top Load Washing Machine Grey, Black",
-          "rating": 4.2,
-          "ratings_reviews": "53,058 Ratings & 5,497 Reviews",
-          "price": "9,890",
-          "original_price": "18,990",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "47% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/v/v/a/-original-imahyvn3rfevnxer.jpeg?q=70",
-          "name": "Whirlpool 9 kg 5 Star with Auto Restart, End of Cycle Buzzer, Lint Filter and Collar Scrubber Semi Automatic Top Load Washing Machine",
-          "rating": 4.4,
-          "ratings_reviews": "13,166 Ratings & 1,054 Reviews",
+          "name": "Whirlpool 9 kg 5 Star with Auto Restart, End of Cycle Buzzer, Lint Filter and Collar Scrubber Semi Aut...",
+          "rating": "4.4",
+          "ratings_reviews": "13,232 Ratings & 1,057 Reviews",
           "price": "14,740",
           "original_price": "18,900",
           "category": "tv & refrigerator",
@@ -4630,63 +4498,139 @@
           "delivery_time": "Free delivery"
         },
         {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/0/q/e/-original-imags7pzrywzxc2z.jpeg?q=70",
+          "name": "realme TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black",
+          "rating": "4.2",
+          "rating_reviews": "53,274 Ratings & 5,505 Reviews",
+          "price": "7,690",
+          "original_price": "12,490",
+          "category": "tv & refrigerator",
+          "quantity": "1",
+          "discount": "38% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/j/w/p/-original-imagz7gdh66twtze.jpeg?q=70",
+          "name": "Voltas Beko 8.5 kg Semi Automatic Top Load Washing Machine Maroon, White",
+          "rating": "4.3",
+          "rating_reviews": "3,429 Ratings & 303 Reviews",
+          "price": "10,990",
+          "original_price": "19,990",
+          "category": "tv & refrigerator",
+          "quantity": "1",
+          "discount": "45% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/2/v/x/-original-imagzh27tedkkfds.jpeg?q=70",
+          "name": "TCL 7 kg 5 Star with Extra Powerful Motor Lint Filter, Fast Dry Semi Automatic Top Load Washing Machin...",
+          "rating": "4",
+          "rating_reviews": "6 Ratings & 0 Reviews",
+          "price": "7,990",
+          "original_price": "15,490",
+          "category": "tv & refrigerator",
+          "quantity": "1",
+          "discount": "48% off",
+          "delivery_time": "Free delivery"
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/v/v/a/-original-imahyvn3rfevnxer.jpeg?q=70",
-          "name": "Whirlpool 8 kg 5 Star with Auto Restart, End of Cycle Buzzer, Lint Filter and Collar Scrubber Semi Automatic Top Load Washing Machine",
-          "rating": 4.4,
-          "ratings_reviews": "13,166 Ratings & 1,054 Reviews",
-          "price": "13,090",
-          "original_price": "16,600",
+          "name": "Whirlpool 8.5 kg 5 Star with Auto Restart, End of Cycle Buzzer, Lint Filter and Collar Scrubber Semi A...",
+          "rating": "4.4",
+          "rating_reviews": "13,232 Ratings & 1,057 Reviews",
+          "price": "13,640",
+          "original_price": "17,400",
           "category": "tv & refrigerator",
           "quantity": "1",
           "discount": "21% off",
           "delivery_time": "Free delivery"
         },
         {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/7/b/1/-original-imags7puqk9phqup.jpeg?q=70",
-          "name": "MarQ by Flipkart 6.5 kg 5 Star rating Semi Automatic Top Load Washing Machine Grey, White",
-          "rating": 4.3,
-          "ratings_reviews": "21,353 Ratings & 2,369 Reviews",
-          "price": "6,890",
-          "original_price": "10,490",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/5/7/8/-original-imags7pfghsnusx3.jpeg?q=70",
+          "name": "MarQ by Flipkart 6 kg 5 Star Rating Semi Automatic Top Load Washing Machine White, Maroon",
+          "rating": "4.3",
+          "rating_reviews": "46,601 Ratings & 4,933 Reviews",
+          "price": "6,690",
+          "original_price": "10,010",
           "category": "tv & refrigerator",
           "quantity": "1",
+          "discount": "33% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/n/t/d/-original-imagrgqgzbw6fhkj.jpeg?q=70",
+          "name": "LG 8 kg 5 Star with Roller Jet Pulsator with Soak, Wind Jet Dry and Rat Away, 6 Kg (Spin Tub Capacity)...",
+          "rating": "4.5",
+          "rating_reviews": "3,918 Ratings & 283 Reviews",
+          "price": "13,990",
+          "original_price": "19,990",
+          "category": "tv & refrigerator",
+          "quantity": "1",
+          "discount": "30% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/b/p/u/-original-imagz7gdydgggym4.jpeg?q=70",
+          "name": "Voltas Beko 8 kg Semi Automatic Top Load Washing Machine Blue, White",
+          "rating": "4.3",
+          "rating_reviews": "3,429 Ratings & 303 Reviews",
+          "price": "10,290",
+          "original_price": "18,990",
+          "category": "tv & refrigerator",
+          "quantity": "1",
+          "discount": "45% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/z/b/q/-original-imagxbywcadw6gpa.jpeg?q=70",
+          "name": "Thomson 7.5 kg 5 Star Aqua Magic Semi Automatic Top Load Washing Machine Black",
+          "rating": "4",
+          "rating_reviews": "9,639 Ratings & 953 Reviews",
+          "price": "7,999",
+          "original_price": "11,499",
+          "category": "tv & refrigerator",
+          "quantity": "1",
+          "discount": "30% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/q/h/c/-original-imags7pfmzfeeag6.jpeg?q=70",
+          "name": "realme TechLife 8.5 kg 5 Star rating Semi Automatic Top Load Washing Machine Grey, Black",
+          "rating": "4.2",
+          "rating_reviews": "53,274 Ratings & 5,505 Reviews",
+          "price": "9,890",
+          "original_price": "18,990",
+          "discount": "47% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/d/4/l/-original-imagzzf7hpvrsabu.jpeg?q=70",
+          "name": "Voltas Beko by A Tata Product 9 kg washing machine with Soft Closing door, Water proof IPX4 protection...",
+          "rating": "4.3",
+          "rating_reviews": "3,429 Ratings & 303 Reviews",
+          "price": "12,690",
+          "original_price": "22,090",
+          "discount": "42% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/7/b/1/-original-imags7puqk9phqup.jpeg?q=70",
+          "name": "MarQ by Flipkart 6.5 kg 5 Star rating Semi Automatic Top Load Washing Machine Grey, White",
+          "rating": "4.3",
+          "rating_reviews": "21,353 Ratings & 2,369 Reviews",
+          "price": "6,890",
+          "original_price": "10,490",
           "discount": "34% off",
           "delivery_time": "Free delivery"
         },
         {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/d/b/i/-original-imagz7vtdvvb29nh.jpeg?q=70",
-          "name": "Voltas Beko 6.5 kg Semi Automatic Top Load Washing Machine Maroon, White",
-          "rating": 4.3,
-          "ratings_reviews": "3,347 Ratings & 298 Reviews",
-          "price": "7,990",
-          "original_price": "12,500",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "36% off",
-          "delivery_time": "Free delivery"
-        },
-        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/3/d/d/-original-imagrfs4v9qgbtqm.jpeg?q=70",
-          "name": "LG 11 kg 5 Star with Roller Jet Pulsator with Soak, Wind Jet Dry and Rat Away, 8 Kg (Spin Tub Capacity) Semi Automatic Top Load Washing Machine",
-          "rating": 4.5,
-          "ratings_reviews": "4,175 Ratings & 338 Reviews",
+          "name": "LG 11 kg 5 Star with Roller Jet Pulsator with Soak,� Wind Jet Dry and Rat Away, 8 Kg (Spin Tub Capacit...",
+          "rating": "4.5",
+          "rating_reviews": "4,175 Ratings & 338 Reviews",
           "price": "21,990",
           "original_price": "25,490",
-          "category": "tv & refrigerator",
-          "quantity": "1",
           "discount": "13% off",
-          "delivery_time": "Free delivery"
-        },
-        {
-          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/u/g/1/-original-imagurz9d8yjsbsj.jpeg?q=70",
-          "name": "Intex 7.5 kg With Lint Filter, Buzzer, Castor Wheel with pad, Collar Scrubber ,Transparent Lid Semi Automatic Top Load Washing Machine",
-          "rating": 4.3,
-          "ratings_reviews": "15,652 Ratings & 2,333 Reviews",
-          "price": "7,290",
-          "original_price": "13,499",
-          "category": "tv & refrigerator",
-          "quantity": "1",
-          "discount": "45% off",
           "delivery_time": "Free delivery"
         }
       ]
@@ -4697,7 +4641,7 @@
       "name": "Front Load Washing Machines",
       "price": "17,169",
       "discount": "60-70% Off",
-      "tvInnderData":  [
+      "tvInnderData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/j/z/6/-original-imagzzz6zm4gj4zt.jpeg?q=70",
           "name": "Electrolux 8 kg 5 Star EcoInverter, 40C Vapour Wash, UltimateCare 300 Fully Automatic Front Load Washing Machine",
@@ -4922,7 +4866,7 @@
       "name": "Single Door Refrigerator",
       "price": "9,990",
       "discount": "40-50% Off",
-      "tvInnderData":  [
+      "tvInnderData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/v/7/0/-original-imagzrpgqtqvfewh.jpeg?q=70",
           "name": "Haier 190 L Direct Cool Single Door 5 Star Refrigerator",
@@ -5135,7 +5079,7 @@
       "name": "Double Door Refrigerator",
       "price": "16,129",
       "discount": "35-45% Off",
-      "tvInnderData":  [
+      "tvInnderData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
           "name": "SAMSUNG 236 L Frost Free Double Door 3 Star Convertible Refrigerator with Digital Inverter with Displ...",
@@ -5207,8 +5151,8 @@
           "quantity": "1",
           "discount": "35% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/k8ot7rk0/refrigerator-new/h/z/e/neo-305gd-prm-crystal-black-2s-n-2-whirlpool-original-imafqnnyyhfgjakd.jpeg?q=70",
           "name": "Whirlpool 265 L Frost Free Double Door 2 Star Refrigerator with Glass Door",
           "rating": 4.3,
@@ -5219,8 +5163,8 @@
           "quantity": "1",
           "discount": "16% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/s/7/h/-original-imagzzs5esdmg4db.jpeg?q=70",
           "name": "Haier 325 L Frost Free Double Door 3 Star Convertible Refrigerator",
           "rating": 4.3,
@@ -5231,8 +5175,8 @@
           "quantity": "1",
           "discount": "31% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/y/c/6/-original-imagy3wfr5zxbnfp.jpeg?q=70",
           "name": "Godrej 238 L Frost Free Double Door 2 Star Refrigerator with Advanced Inverter and 95%+ Food Surface ...",
           "rating": 4.2,
@@ -5243,8 +5187,8 @@
           "quantity": "1",
           "discount": "26% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/9/j/y/-original-imagt76kk4e2gq3j.jpeg?q=70",
           "name": "Whirlpool 210 L Frost Free Triple Door Refrigerator",
           "rating": 4.3,
@@ -5255,8 +5199,8 @@
           "quantity": "1",
           "discount": "31% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/0/8/m/-original-imagyfzdhkb8ggb8.jpeg?q=70",
           "name": "SAMSUNG 363 L Frost Free Double Door 3 Star Convertible Refrigerator with Convertible5In1",
           "rating": 4.2,
@@ -5267,8 +5211,8 @@
           "quantity": "1",
           "discount": "34% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/h/r/l/-original-imagyfzz2zars7pz.jpeg?q=70",
           "name": "SAMSUNG 363 L Frost Free Double Door 2 Star Refrigerator with Convertible 5-in-1 , Digital Inverter w...",
           "rating": 4.2,
@@ -5279,7 +5223,7 @@
           "quantity": "1",
           "discount": "31% off",
           "delivery_time": "Free delivery"
-          }
+        }
       ]
     },
     {
@@ -5288,7 +5232,7 @@
       "name": "MOTOROLA 271 L Frost Free Double Door 3 Star Refrigerator",
       "price": "23,990",
       "discount": "50-70% Off",
-      "tvInnderData":  [
+      "tvInnderData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/2/4/d/-original-imahy8b5repu5zyu.jpeg?q=70",
           "name": "Godrej 272 L Frost Free Double Door 2 Star Refrigerator with Wood Finish and Advanced Inverter Techno...",
@@ -5300,8 +5244,8 @@
           "quantity": "1",
           "discount": "27% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/kgjqefk0/refrigerator-new/e/w/q/rt-eonastra-285b-25-hi-st-rh-2-godrej-original-imafwrhzvpvf5zur.jpeg?q=70",
           "name": "Godrej 270 L Frost Free Double Door 2 Star Refrigerator",
           "rating": 4,
@@ -5312,8 +5256,8 @@
           "quantity": "1",
           "discount": "5% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70",
           "name": "SAMSUNG 236 L Frost Free Double Door 3 Star Convertible Refrigerator with Digital Inverter with Displ...",
           "rating": 4.3,
@@ -5324,8 +5268,8 @@
           "quantity": "1",
           "discount": "35% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/j/s/c/-original-imagwnjntysud6cc.jpeg?q=70",
           "name": "SAMSUNG 236 L Frost Free Double Door 3 Star Refrigerator with Digital Inverter",
           "rating": 4.3,
@@ -5336,8 +5280,8 @@
           "quantity": "1",
           "discount": "34% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/s/l/c/-original-imagxfgzkpgzu43f.jpeg?q=70",
           "name": "LG 242 L Frost Free Double Door 3 Star Refrigerator with Smart Inverter",
           "rating": 4.4,
@@ -5348,8 +5292,8 @@
           "quantity": "1",
           "discount": "29% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/n/c/9/-original-imagyfzdtk4p35pu.jpeg?q=70",
           "name": "SAMSUNG 322 L Frost Free Double Door 3 Star Convertible Refrigerator with Convertible 5-in-1 Digital ...",
           "rating": 4.2,
@@ -5360,7 +5304,7 @@
           "quantity": "1",
           "discount": "34% off",
           "delivery_time": "Free delivery"
-          }
+        }
       ]
     },
     {
@@ -5369,7 +5313,7 @@
       "name": "Haier Refrigerator",
       "price": "11,250",
       "discount": "40-50% Off",
-      "tvInnderData":  [
+      "tvInnderData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/v/7/0/-original-imagzrpgqtqvfewh.jpeg?q=70",
           "name": "Haier 190 L Direct Cool Single Door 5 Star Refrigerator",
@@ -5381,8 +5325,8 @@
           "quantity": "1",
           "discount": "31% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/a/d/g/-original-imahymwdekfbmeys.jpeg?q=70",
           "name": "Haier 240 L Frost Free Double Door Top Mount 2 Star Refrigerator",
           "rating": 4.3,
@@ -5393,8 +5337,8 @@
           "quantity": "1",
           "discount": "30% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/5/7/m/-original-imahyg9hvnryz9vj.jpeg?q=70",
           "name": "Haier 190 L Direct Cool Single Door 4 Star Refrigerator with Base Drawer",
           "rating": 4.3,
@@ -5405,8 +5349,8 @@
           "quantity": "1",
           "discount": "22% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/4/6/f/-original-imagzzs5hhf8xde2.jpeg?q=70",
           "name": "Haier 240 L Frost Free Double Door Top Mount 3 Star Convertible Refrigerator",
           "rating": 4.3,
@@ -5417,8 +5361,8 @@
           "quantity": "1",
           "discount": "31% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/z/t/i/-original-imagzm9d7xffakj9.jpeg?q=70",
           "name": "Haier 602 L Frost Free Side by Side Convertible Refrigerator",
           "rating": 4.5,
@@ -5429,8 +5373,8 @@
           "quantity": "1",
           "discount": "52% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/s/7/h/-original-imagzzs5esdmg4db.jpeg?q=70",
           "name": "Haier 325 L Frost Free Double Door 3 Star Convertible Refrigerator",
           "rating": 4.3,
@@ -5441,8 +5385,8 @@
           "quantity": "1",
           "discount": "31% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/l/h/3/-original-imagzvf2fykuugfm.jpeg?q=70",
           "name": "MarQ by Flipkart 183 L Direct Cool Single Door 2 Star Refrigerator",
           "rating": 4.2,
@@ -5453,7 +5397,7 @@
           "quantity": "1",
           "discount": "42% off",
           "delivery_time": "Free delivery"
-          }
+        }
       ]
     },
     {
@@ -5462,7 +5406,7 @@
       "name": "Energy Efficient Refrigerator",
       "price": "14,590",
       "discount": "47-57% Off",
-      "tvInnderData":  [
+      "tvInnderData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/q/q/v/-original-imagwnkf8hamvbhu.jpeg?q=70",
           "name": "SAMSUNG 183 L Direct Cool Single Door 4 Star Refrigerator with Base Drawer with Digital Inverter",
@@ -5567,7 +5511,7 @@
       "name": "Top Load Washing Machines",
       "price": "13,650",
       "discount": "25-30% Off",
-      "tvInnderData":  [
+      "tvInnderData": [
         {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/s/z/p/-original-imagunzsgkuss6fy.jpeg?q=70",
           "name": "Intex 6.5 kg With Air Dry Technology, Wave Pulsator Design, Magic Filter Transparent Lid Semi Automatic Top Load Washing Machine",
@@ -5579,8 +5523,8 @@
           "quantity": "1",
           "discount": "40% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/j/y/0/-original-imagusrnzmejcahm.jpeg?q=70",
           "name": "Intex 8 kg With Air Dry Technology, Pulsator Design, Magic Filter Semi Automatic Top Load Washing Machine",
           "rating": 4.3,
@@ -5591,8 +5535,8 @@
           "quantity": "1",
           "discount": "44% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/k/c/l/-original-imagx7qhzg4f3bca.jpeg?q=70",
           "name": "LG 7 kg 5 Star with Smart Inverter Technology, TurboDrum and Smart Diagnosis Fully Automatic Top Load Washing Machine",
           "rating": 4.3,
@@ -5603,8 +5547,8 @@
           "quantity": "1",
           "discount": "18% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/8/f/4/-original-imagrcevec53dqz8.jpeg?q=70",
           "name": "Haier 6.5 kg 5 Star Oceanus Wave Drum Washing Machine Fully Automatic Top Load Brown, Grey",
           "rating": 4.3,
@@ -5615,8 +5559,8 @@
           "quantity": "1",
           "discount": "40% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/e/r/i/-original-imags7pgmfcnw9yt.jpeg?q=70",
           "name": "MarQ by Flipkart 7 kg 5 Star rating Semi Automatic Top Load Washing Machine Blue, White",
           "rating": 4.2,
@@ -5627,8 +5571,8 @@
           "quantity": "1",
           "discount": "36% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/d/r/b/-original-imagx8sgmzzwsczq.jpeg?q=70",
           "name": "SAMSUNG 7 kg 5 star, Air Turbo Drying Semi Automatic Top Load Washing Machine Grey, Purple",
           "rating": 4.4,
@@ -5639,8 +5583,8 @@
           "quantity": "1",
           "discount": "22% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/0/q/e/-original-imags7pzrywzxc2z.jpeg?q=70",
           "name": "realme TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black",
           "rating": 4.2,
@@ -5651,8 +5595,8 @@
           "quantity": "1",
           "discount": "38% off",
           "delivery_time": "Free delivery"
-          },
-          {
+        },
+        {
           "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/h/0/r/-original-imahyzey4ajqngyh.jpeg?q=70",
           "name": "SAMSUNG 7 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey",
           "rating": 4.3,
@@ -5663,7 +5607,7 @@
           "quantity": "1",
           "discount": "16% off",
           "delivery_time": "Free delivery"
-          }
+        }
       ]
     }
   ],
@@ -5746,31 +5690,965 @@
       "id": "furd1",
       "image": "https://rukminim2.flixcart.com/image/200/200/k5fn3ww0/hammock-swing/k/j/q/brnsw001-duzo-original-imafz4faybq8p7qg.jpeg?q=70",
       "title": "Hammock & Swings",
-      "price": "From 299"
+      "price": "From 299",
+      "furniInnerData":[
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kvfkivk0/hammock-swing/f/9/a/14-2-swing-chair-patiofy-original-imag8cdmnjz6gvhr.jpeg?q=70",
+          "name": "Patiofy Chair/ Jhula Indoor/ for Home/for Adults Outdoo...",
+          "rating": "4",
+          "ratings_reviews": "2,285 Ratings & 253 Reviews",
+          "price": "₹933",
+          "original_price": "₹4,245",
+          "category": "furniture & mattresses",
+          "quantity": "1",
+          "discount": "78% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/j/c/m/58-42-0-4-soft-cotton-hammock-hanging-swing-chair-for-indoor-original-imagkswbgmq3tjhh.jpeg?q=70",
+          "name": "Curio Centre Soft Hanging Swing Chair/for Adult/for Hom...",
+          "rating": "4.3",
+          "ratings_reviews": "409 Ratings & 46 Reviews",
+          "price": "₹1,099",
+          "original_price": "₹2,999",
+          "category": "furniture & mattresses",
+          "quantity": "1",
+          "discount": "63% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kwjkuq80/hammock-swing/i/y/l/24-0-5-make-in-india-c-shape-premium-swing-with-polyester-ropes-original-imag97y7gduutrga.jpeg?q=70",
+          "name": "Curio Centre Double Seater Swing Jhula for Home, Swings...",
+          "rating": "4.4",
+          "price": "₹2,499",
+          "ratings_reviews": "13,198 Ratings & 1,414 Reviews",
+          "original_price": "₹5,999",
+          "category": "furniture & mattresses",
+          "quantity": "1",
+          "discount": "58% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/x/n/o/-original-imagtetchshfgyhc.jpeg?q=70",
+          "name": "Furniture kart Luxury Hammock with Stand Swing Chair fo...",
+          "rating": "4.4",
+          "ratings_reviews": "10,263 Ratings & 2,362 Reviews",
+          "price": "₹8,040",
+          "original_price": "₹22,999",
+          "category": "furniture & mattresses",
+          "quantity": "1",
+          "discount": "65% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/4/d/n/107-40-spy-564554111-spyder-home-decore-original-imaggqg7cdcfhyrr.jpeg?q=70",
+          "name": "SPYDER HOME DECORE Double Seater Swing Chair With Stand...",
+          "rating": "4.3",
+          "ratings_reviews": "9,256 Ratings & 1,236 Reviews",
+          "price": "₹16,362",
+          "original_price": "₹39,999",
+          "category": "furniture & mattresses",
+          "quantity": "1",
+          "discount": "59% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/b/u/v/46-4-smart-comfort-brown-arvabil-original-imagy9s7uzy6yzyt.jpeg?q=70",
+          "name": "Arvabil Smart Comfort Swing for Adults/Hammock Swing/Sw...",
+          "rating": "3.9",
+          "ratings_reviews": "7,635 Ratings & 956 Reviews",
+          "price": "₹949",
+          "original_price": "₹3,999",
+          "category": "furniture & mattresses",
+          "quantity": "1",
+          "discount": "76% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/ksm49e80/hammock-swing/x/s/g/95-0-110-0-prd-fph-1204-flipkart-perfect-homes-studio-original-imag65hggmfhr2rs.jpeg?q=70",
+          "name": "Jhula King Luxury Hammock Swing Hanging Swing Chair Swi...",
+          "rating": "4.4",
+          "ratings_reviews": "6,314 Ratings & 839 Reviews",
+          "price": "₹4,197",
+          "original_price": "₹19,999",
+          "category": "furniture & mattresses",
+          "quantity": "1",
+          "discount": "79% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/f/i/a/37-20-blksw002-duzo-original-imaggez6vpgbw49s.jpeg?q=70",
+          "name": "duzo Swing chair with free water proof cover Steel Hamm...",
+          "rating": "4.2",
+          "ratings_reviews": "10,639 Ratings & 1,523 Reviews",
+          "price": "₹7,540",
+          "original_price": "₹21,999",
+          "category": "furniture & mattresses",
+          "quantity": "1",
+          "discount": "65% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kydb3ww0/hammock-swing/w/j/0/80-12-swing-chair-new-quality-steel-fueniture-original-imagam93uzzjwcej.jpeg?q=70",
+          "name": "quality steel fueniture Iron Large Swing",
+          "rating": "4.3",
+          "ratings_reviews": "9,367 Ratings & 2,364 Reviews",
+          "price": "₹3,289",
+          "original_price": "₹12,999",
+          "category": "furniture & mattresses",
+          "quantity": "1",
+          "discount": "74% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/l3khsi80/hammock-swing/p/0/t/66-0-5-swing-for-adults-jhula-for-adults-wooden-swing-chair-original-imagenrff2rvhdcn.jpeg?q=70",
+          "name": "Patiofy Wooden Swing Chair/ Jhula Indoor/ Swing for Hom...",
+          "rating": "4.1",
+          "ratings_reviews": "8,741 Ratings & 1,634 Reviews",
+          "price": "₹1,183",
+          "original_price": "₹5,999",
+          "category": "furniture & mattresses",
+          "quantity": "1",
+          "discount": "80% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/l0pm3680/hammock-swing/x/6/u/70-0-5-white-hammock-swing-hanging-chair-swingzy-original-imagcfrjygmhrfyk.jpeg?q=70",
+        "name": "Swingzy Adults/ Outdoor, Patio, Yard, Balcony Cotton, W...",
+        "rating": "4",
+        "ratings_reviews": "6,741 Ratings & 634 Reviews",
+        "price": "₹883",
+        "original_price": "₹3,000",
+        "category": "furniture & mattresses",
+          "quantity": "1",
+        "discount": "70% off",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/bouncer/y/u/c/cotton-swing-for-kids-chair-jhula-for-1-3-years-16-kd-1-b-swings-original-imagh8eefv8kxnfh.jpeg?q=70",
+        "name": "Swing for kids Kids Baby's Children 1-6 Year (Small) Co...",
+        "rating": "3.7",
+        "ratings_reviews": "695 Ratings & 64 Reviews",
+        "price": "₹319",
+        "original_price": "₹999",
+        "category": "furniture & mattresses",
+          "quantity": "1",
+        "discount": "68% off",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/5/9/p/17-0-45-hammock-hanging-swing-chair-swing-for-balcony-indoor-original-imahybffn2uyztf7.jpeg?q=70",
+        "name": "Patiofy Hammock Swing/ Jhula for Adults/ Swing Chair fo...",
+        "rating": "3.8",
+        "ratings_reviews": "2,637 Ratings & 963 Reviews",
+        "price": "₹1,252",
+        "original_price": "₹5,999",
+        "category": "furniture & mattresses",
+          "quantity": "1",
+        "discount": "79% off",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/kobspe80/hammock-swing/7/p/e/ccround-curio-centre-original-imag2sy9qqgyqtzp.jpeg?q=70",
+        "name": "Curio Centre Round Cotton Hammock",
+        "rating": "4.1",
+        "ratings_reviews": "5,394 Ratings & 1,167 Reviews",
+        "price": "₹907",
+        "original_price": "₹3,290",
+        "category": "furniture & mattresses",
+          "quantity": "1",
+        "discount": "72% off",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/g/9/z/70-0-0-5-cotton-round-hanging-swing-for-adults-kids-100-cotton-original-imaghyfhjgzvvgw6.jpeg?q=70",
+        "name": "Swingzy Round Hanging for Kids & Adults Rope Chair for ...",
+        "rating": "4",
+        "ratings_reviews": "1,095 Ratings & 295 Reviews",
+        "price": "₹912",
+        "original_price": "₹3,999",
+        "category": "furniture & mattresses",
+          "quantity": "1",
+        "discount": "77% off",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/ksnjp8w0/hammock-swing/5/v/r/84-10-fk-st-001-furniture-kart-original-imag65wedamtzhbu.jpeg?q=70",
+        "name": "Furniture kart Luxury Hammock Swing Stand for Jhoola Sw...",
+        "rating": "4.3",
+        "ratings_reviews": "3,627 Ratings & 1,536 Reviews",
+        "price": "₹3,181",
+        "original_price": "₹14,999",
+        "category": "furniture & mattresses",
+          "quantity": "1",
+        "discount": "78% off",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/kwb07m80/hammock-swing/u/j/z/hammock-doubleshade-blue-white-cite-original-imag9y9gfeydknhv.jpeg?q=70",
+        "name": "Flipkart Perfect Homes Studio Single Seater Swing Chair...",
+        "rating": "4.1",
+        "ratings_reviews": "1,971 Ratings & 834 Reviews",
+        "price": "₹6,499",
+        "original_price": "₹12,999",
+        "category": "furniture & mattresses",
+          "quantity": "1",
+        "discount": "50% off",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/s/h/o/75-15-single-seater-swing-chair-with-cushion-without-stand-for-original-imahyz45a6mp6ygc.jpeg?q=70",
+        "name": "Ladybug Swing Chair With Cushion Without Stand Iron Lar...",
+        "rating": "4.2",
+        "ratings_reviews": "2,348 Ratings & 873 Reviews",
+        "price": "₹6,499",
+        "original_price": "₹14,999",
+        "category": "furniture & mattresses",
+          "quantity": "1",
+        "discount": "56% off",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/v/l/l/-original-imagtetckkaaugay.jpeg?q=70",
+        "name": "Furniture kart Luxury Hammock Chair without Stand for A...",
+        "rating": "4.4",
+        "ratings_reviews": "2,361 Ratings & 694 Reviews",
+        "price": "₹4,277",
+        "original_price": "₹19,999",
+        "category": "furniture & mattresses",
+          "quantity": "1",
+        "discount": "78% off",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/8/r/g/280-0-7-hammock-outdoor-cotton-load-capacity-up-to-120-kg-1-original-imahygkhtmwvzetg.jpeg?q=70",
+        "name": "Besillia Hammock Outdoor Cotton Load Capacity up to 120...",
+        "rating": "4.1",
+        "ratings_reviews": "741 Ratings & 34 Reviews",
+        "price": "₹557",
+        "original_price": "₹1,199",
+        "category": "furniture & mattresses",
+          "quantity": "1",
+        "discount": "53% off",
+        "delivery_time": "Free delivery"
+    }
+      ]
     },
     {
       "id": "furd2",
       "image": "https://rukminim2.flixcart.com/image/200/200/k3erngw0/inflatable-sofa/8/e/g/pvc-airsofa-cum-indoor-outdoor-bed-006-pvc-3-seater-inflatable-original-imafgnbmmz8tzep6.jpeg?q=70",
       "title": "Inflatable Sofas",
-      "price": "From 499"
+      "price": "From 499",
+      "furniInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/inflatable-sofa/y/g/w/10-0-2-seater-4-0-pvc-0-47-beast-parthen-enterprise-20-0-original-imahyebqpvggqbmg.jpeg?q=70",
+          "name": "UBRON for Patients Use inflatable Bed PVC 2 Seater Infl...",
+          "rating": "4.6",
+          "ratings_reviews": "1,815 Ratings & 453 Reviews",
+          "price": "₹2,199",
+          "original_price": "₹5,999",
+          "discount": "63% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/inflatable-sofa/q/q/k/152-2-seater-188-vinyl-5-37-a-75056-gtc-64-original-imagrnk3vjyqhtfk.jpeg?q=70",
+          "name": "Maison & Cuisine Vinyl 2 Seater Inflatable Sofa",
+          "rating": "4.2",
+          "ratings_reviews": "2,685 Ratings & 653 Reviews",
+          "price": "₹5,198",
+          "original_price": "₹15,000",
+          "discount": "65% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kql8sy80/car-inflatable-bed/q/h/l/micbw2p-inflatable-travel-car-bed-with-pump-2-pillows-easy-to-original-imag4kkpgm6qmkcf.jpeg?q=70",
+          "name": "Deep Cuisine car bed mattress Polyester 2 Seater Inflat...",
+          "rating": "4.1",
+          "ratings_reviews": "10,655 Ratings & 4,553 Reviews",
+          "price": "₹1,434",
+          "original_price": "₹3,999",
+          "discount": "64% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/car-inflatable-bed/g/f/h/350-car-bed-4155-ansh-enterprise-original-imagrufatbttpg2b.jpeg?q=70",
+          "name": "Deep Cuisine car bed mattress Polyester 2 Seater Inflat...",
+          "rating": "4.5",
+          "ratings_reviews": "2,105 Ratings & 621 Reviews",
+          "price": "₹1,447",
+          "original_price": "₹3,999",
+          "discount": "63% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/car-inflatable-bed/d/e/y/80-ub07-ubron-original-imagywsdczvfyquh.jpeg?q=70",
+          "name": "PARTHEN ENTERPRISE Leatherette 2 Seater Inflatable Sofa",
+          "rating": "4",
+          "ratings_reviews": "8,625 Ratings & 1,653 Reviews",
+          "price": "₹1,549",
+          "original_price": "₹4,999",
+          "discount": "69% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kkfrjww0/inflatable-sofa/6/a/z/3-seater-pp-air-sofa-cum-indoor-outdoor-bed-006-pvc-3-seater-original-imafzsb3nygrcdpf.jpeg?q=70",
+          "name": "Marvino Inflatable Sofa PVC 3 Seater Inflatable Sofa",
+          "rating": "4.3",
+          "ratings_reviews": "6,205 Ratings & 103 Reviews",
+          "price": "₹3,000",
+          "original_price": "₹6,000",
+          "discount": "50% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/inflatable-sofa/d/4/l/31-89-3-seater-200-velvet-38-400-75006-green-dscrafthub-81-8-original-imagqfsxheavarkz.jpeg?q=70",
+          "name": "DSCRAFTHUB SFST004 Velvet 3 Seater Inflatable Sofa",
+          "rating": "4.7",
+          "ratings_reviews": "2,285 Ratings & 263 Reviews",
+          "price": "₹19,899",
+          "original_price": "₹29,999",
+          "discount": "33% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/inflatable-sofa/q/1/x/2-seater-velvet-sofa-yellow-onlinecraft-original-imagwgsbaekhbyh5.jpeg?q=70",
+          "name": "OnlineCraft Wooden sofa Quilted Back Fabric 2 Seater Li...",
+          "rating": "4.1",
+          "ratings_reviews": "2,395 Ratings & 253 Reviews",
+          "price": "₹19,999",
+          "original_price": "₹29,999",
+          "discount": "33% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/knunf680/inflatable-sofa/v/7/w/3-seater-na-f-sofa-tbl-001-pac-original-imag2fzgwrwzes2k.jpeg?q=70",
+          "name": "PAC NA 3 Seater Inflatable Sofa",
+          "rating": "4",
+          "ratings_reviews": "4,215 Ratings & 1,694 Reviews",
+          "price": "₹21,990",
+          "original_price": "₹34,990",
+          "discount": "37% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kerfl3k0/inflatable-sofa/w/a/9/pvc-polyvinyl-chloride-vki5468-intex-original-imafvdgs7g6qbbve.jpeg?q=70",
+          "name": "INTEX PVC (Polyvinyl Chloride) 1 Seater Inflatable Sofa",
+          "rating": "4.4",
+          "ratings_reviews": "3,285 Ratings & 953 Reviews",
+          "price": "₹2,099",
+          "original_price": "₹2,500",
+          "discount": "16% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      }
+      ]
     },
     {
       "id": "furd3",
       "image": "https://rukminim2.flixcart.com/image/200/200/kdt50nk0/portable-laptop-table/m/h/g/plywood-c45c-lsm-furn-master-blue-original-imafumzmu9xqzvxw.jpeg?q=70",
       "title": "Portable Laptop Table",
-      "price": "From 399"
+      "price": "From 399",
+      "furniInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/portable-laptop-table/k/p/h/61-rubber-wood-wt-flexidesk-w-woodtrendz-35-5-walnut-original-imahf4qmhnmhgruz.jpeg?q=70",
+          "name": "WOODTRENDZ FlexiDesk: Laptop Table Wood Portable Laptop...",
+          "rating": "4.6",
+          "ratings_reviews": "1,563 Ratings & 285 Reviews",
+          "price": "₹4,750",
+          "original_price": "₹6,650",
+          "quantity": 1,
+          "category": "furniture & mattresses",
+          "discount": "28% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/portable-laptop-table/p/w/e/40-plywood-black-1-mithila-27-black-original-imahf2mzjh6npk5c.jpeg?q=70",
+          "name": "MITHILA Multipurpose Foldable with Cup Holder, Study , ...",
+          "rating": "4.2",
+          "ratings_reviews": "2,095 Ratings & 395 Reviews",
+          "price": "₹341",
+          "original_price": "₹2,499",
+          "quantity": 1,
+          "category": "furniture & mattresses",
+          "discount": "86% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/portable-laptop-table/m/q/u/40-plywood-table-tex-6-kitchoff-25-wood-original-imaggzcrrxqjrhut.jpeg?q=70",
+          "name": "kitchoff Wood Portable Laptop Table",
+          "rating": "4.6",
+          "ratings_reviews": "4,265 Ratings & 1,621 Reviews",
+          "price": "₹429",
+          "original_price": "₹3,999",
+          "quantity": 1,
+          "category": "furniture & mattresses",
+          "discount": "89% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/keg02a80/portable-laptop-table/2/r/4/plywood-foldeble-laptop-table-epex-brown-original-imafv47p3e7ghaf9.jpeg?q=70",
+          "name": "Om Enterprise Wood Portable Laptop Table",
+          "rating": "4.1",
+          "ratings_reviews": "3,095 Ratings & 995 Reviews",
+          "price": "₹370",
+          "original_price": "₹1,563",
+          "quantity": 1,
+          "category": "furniture & mattresses",
+          "discount": "76% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/portable-laptop-table/9/g/f/28-pu-mdf-medium-density-fiber-sh-ldc-1-savya-home-40-brown-original-imagwyrzjs99kgzf.jpeg?q=70",
+          "name": "SAVYA HOME Wooden Foldable Laptop Table (Brown) Wood Po...",
+          "rating": "4.7",
+          "ratings_reviews": "4,095 Ratings & 1,615 Reviews",
+          "price": "₹689",
+          "original_price": "₹1,499",
+          "quantity": 1,
+          "category": "furniture & mattresses",
+          "discount": "54% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kdt50nk0/portable-laptop-table/b/r/g/plywood-2801-ylfq-furn-master-beige-original-imafumzm2magb6jn.jpeg?q=70",
+          "name": "Furn Master Wood Portable Laptop Table",
+          "rating": "4.9",
+          "ratings_reviews": "1,395 Ratings & 585 Reviews",
+          "price": "₹2,527",
+          "original_price": "₹3,699",
+          "quantity": 1,
+          "category": "furniture & mattresses",
+          "discount": "31% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/portable-laptop-table/h/p/f/4-pp-polypropylene-rik-01-katrik-6-black-original-imagvggchbzk98hh.jpeg?q=70",
+          "name": "katrik Plastic Portable Laptop Table",
+          "rating": "4.1",
+          "ratings_reviews": "1,952 Ratings & 995 Reviews",
+          "price": "₹150",
+          "original_price": "₹499",
+          "quantity": 1,
+          "category": "furniture & mattresses",
+          "discount": "69% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kqo3onk0/portable-laptop-table/z/d/o/mfb-melamine-fiberboard-multi-use-wooden-laptop-table-stand-original-imag4mh9bnt6gchm.jpeg?q=70",
+          "name": "AKDIE Wood Portable Laptop Table",
+          "rating": "4",
+          "ratings_reviews": "6,263 Ratings & 1,691 Reviews",
+          "price": "₹349",
+          "original_price": "₹1,999",
+          "quantity": 1,
+          "category": "furniture & mattresses",
+          "discount": "82% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kppt47k0/portable-laptop-table/d/z/u/plywood-portable-laptop-table-smart-multipurpose-foldable-laptop-original-imag3w5zyzrqsxru.jpeg?q=70",
+          "name": "FurniGully Wood Portable Laptop Table",
+          "rating": "4.4",
+          "ratings_reviews": "1,295 Ratings & 795 Reviews",
+          "price": "₹350",
+          "original_price": "₹1,399",
+          "quantity": 1,
+          "category": "furniture & mattresses",
+          "discount": "74% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/portable-laptop-table/x/k/o/60-plywood-200-nmy-furn-master-60-yellow-original-imagk37w3ugh9yye.jpeg?q=70",
+          "name": "Furn Master Wood Portable Laptop Table",
+          "rating": "4.5",
+          "ratings_reviews": "6,125 Ratings & 931 Reviews",
+          "price": "₹1,759",
+          "original_price": "₹2,999",
+          "quantity": 1,
+          "category": "furniture & mattresses",
+          "discount": "41% off",
+          "delivery_time": "Free delivery"
+      },
+      {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/kgcl7680/portable-laptop-table/u/z/t/plywood-multifunction-easy-portable-and-foldable-study-table-for-original-imafwhh4szzkhep5.jpeg?q=70",
+        "name": "AKDIE Wood Portable Laptop Table",
+        "rating": "4",
+        "ratings_reviews": "4,125 Ratings & 831 Reviews",
+        "price": "₹340",
+        "original_price": "₹1,799",
+        "discount": "81% off",
+        "quantity": 1,
+        "category": "furniture & mattresses",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/portable-laptop-table/h/d/w/40-hdf-high-density-fibreboard-bed-buddy-laptop-desk-portable-original-imahf2brjx85vsgz.jpeg?q=70",
+        "name": "StarAndDaisy 'Bed Buddy' Laptop Desk, Portable Foldable...",
+        "rating": "4.2",
+        "ratings_reviews": "5,235 Ratings & 631 Reviews",
+        "price": "₹1,156",
+        "original_price": "₹1,999",
+        "discount": "42% off",
+        "quantity": 1,
+        "category": "furniture & mattresses",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/kwwfte80/portable-laptop-table/l/9/3/35-pu-mdf-medium-density-fiber-von-1005-vms-black-94-original-imag9gvy6ggbrh8z.jpeg?q=70",
+        "name": "VMS Office Buddy Multi-Function Desk Metal Portable Lap...",
+        "rating": "3.8",
+        "ratings_reviews": "2,325 Ratings & 631 Reviews",
+        "price": "₹2,749",
+        "original_price": "₹5,000",
+        "discount": "45% off",
+        "quantity": 1,
+        "category": "furniture & mattresses",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/khdqnbk0/portable-laptop-table/m/d/b/particle-board-pltb0020-gorevizon-brown-original-imafakxw2k8c7tst.jpeg?q=70",
+        "name": "Gorevizon Wood Portable Laptop Table",
+        "rating": "3.7",
+        "ratings_reviews": "2,465 Ratings & 911 Reviews",
+        "price": "₹960",
+        "original_price": "₹2,199",
+        "discount": "56% off",
+        "quantity": 1,
+        "category": "furniture & mattresses",
+        "delivery_time": "Free delivery"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/portable-laptop-table/8/r/v/60-pu-mdf-medium-density-fiber-multi-purpose-laptop-desk-for-original-imagmmhjcs4grb3u.jpeg?q=70",
+        "name": "vPLANET Wood Portable Laptop Table",
+        "rating": "4",
+        "ratings_reviews": "10,697 Ratings & 4,453 Reviews",
+        "price": "₹360",
+        "original_price": "₹1,599",
+        "discount": "77% off",
+        "quantity": 1,
+        "category": "furniture & mattresses",
+        "delivery_time": "Free delivery"
+    }
+      ]
     },
     {
       "id": "furd4",
       "image": "https://rukminim2.flixcart.com/image/200/200/keg02a80/wardrobe-closet/f/y/f/particle-board-bewtri000500800620-kurlon-wenge-original-imafv49kgfrmmxbq.jpeg?q=70",
       "title": "Wardrobes",
-      "price": "From 4,999"
+      "price": "From 4,999",
+      "furniInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/i/1/6/-original-imagpprgzvvkzrne.jpeg?q=70",
+          "name": "Flipkart Perfect Homes Julian Engineered Wood 1 Door Wa...",
+          "rating": "4.1",
+          "ratings_reviews": "1,352 Ratings & 625 Reviews",
+          "price": "₹5,899",
+          "original_price": "₹11,999",
+          "discount": "50% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/collapsible-wardrobe/m/q/a/42-5-pp-126-2-9-88130-blue-ms-modstyle-blue-116-original-imagmufztsjrbsg2.jpeg?q=70",
+          "name": "GTC 88130 Storage Organizer Shelves for Clothes Racks N...",
+          "rating": "3.6",
+          "ratings_reviews": "3,423 Ratings & 635 Reviews",
+          "price": "₹1,499",
+          "original_price": "₹2,499",
+          "discount": "40% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/f/f/y/yes-42-particle-board-43-45-ndfkwrd1tkmadon-brown-neudot-182-original-imagz528xyvgcjue.jpeg?q=70",
+          "name": "NEUDOT Adona Engineered Wood 1 Door Wardrobe",
+          "rating": "4.3",
+          "ratings_reviews": "6,413 Ratings & 1,685 Reviews",
+          "price": "₹7,179",
+          "original_price": "₹15,000",
+          "discount": "52% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/l/r/q/no-pvc-wardrobe-plastic-blue-smiley-bell-glossy-original-imagkgufxfkaghcj.jpeg?q=70",
+          "name": "Smiley Bell Plastic 1 Door Almirah",
+          "rating": "4",
+          "ratings_reviews": "1,943 Ratings & 985 Reviews",
+          "price": "₹1,349",
+          "original_price": "₹3,999",
+          "discount": "66% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/a/d/n/no-45-40-particle-board-42-sm-1d-wb-jennifer-dw-brown-sivom-182-original-imahyxyggdh75tzt.jpeg?q=70",
+          "name": "SIVOM Jennifer Multipurpose Single Door Wardrobe / Spac...",
+          "rating": "3.9",
+          "ratings_reviews": "1,533 Ratings & 685 Reviews",
+          "price": "₹6,749",
+          "original_price": "₹20,999",
+          "discount": "67% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/l33cia80/wardrobe-closet/m/a/a/no-pvc-infinity-1-blue-grey-green-classic-furniture-green-yellow-original-imageadaftfggbpk.jpeg?q=70",
+          "name": "Classic Furniture Plastic 4 Door Wardrobe| Infinity-1 G...",
+          "rating": "3.9",
+          "ratings_reviews": "1,563 Ratings & 285 Reviews",
+          "price": "₹3,239",
+          "original_price": "₹4,999",
+          "discount": "35% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/o/h/t/-original-imagqdf7zukk3khk.jpeg?q=70",
+          "name": "Nilkamal WILLY Engineered Wood 3 Door Wardrobe",
+          "rating": "4",
+          "ratings_reviews": "3,667 Ratings & 2,685 Reviews",
+          "price": "₹15,199",
+          "original_price": "₹27,000",
+          "discount": "43% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/l/8/6/no-50-pvc-35-4-set-of-4-foldable-and-stackable-closet-organizers-original-imagrba5zghdkwgz.jpeg?q=70",
+          "name": "KWINTAS \"SmartSaver\" Plastic 4 Door Almirah",
+          "rating": "3",
+          "ratings_reviews": "1,639 Ratings & 785 Reviews",
+          "price": "₹1,430",
+          "original_price": "₹3,999",
+          "discount": "64% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/8/z/v/-original-imagqdf7zmk546ck.jpeg?q=70",
+          "name": "Nilkamal Crystal Engineered Wood 2 Door Almirah",
+          "rating": "4.1",
+          "ratings_reviews": "2,639 Ratings & 671 Reviews",
+          "price": "₹11,900",
+          "original_price": "₹18,000",
+          "discount": "33% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/l2tcfbk0/wardrobe-closet/i/g/j/no-pvc-liberty-4ft-blue-grey-grey-classic-furniture-blue-grey-original-image2kxr6zzv6wy.jpeg?q=70",
+          "name": "Classic Furniture Warbrobe | Closet| Shoe Rack Liberty ...",
+          "rating": "3.8",
+          "ratings_reviews": "3,214 Ratings & 1,638 Reviews",
+          "price": "₹4,555",
+          "original_price": "₹6,499",
+          "discount": "29% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/8/8/l/-original-imagxzdhqzcfh6mg.jpeg?q=70",
+        "name": "Flipkart Perfect Homes Julian Engineered Wood 1 Door Wardrobe",
+        "rating": 4,
+        "ratings_reviews": "3,632 Ratings & 1,224 Reviews",
+        "price": "₹5,899",
+        "original_price": "₹11,999",
+        "discount": "50% off",
+        "delivery_time": "Free delivery",
+        "quantity": 1,
+        "category": "furniture & mattresses"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/v/n/c/-original-imagqdf7xsyutkch.jpeg?q=70",
+        "name": "Nilkamal Freedom Mini Medium Plastic 2 Door Wardrobe",
+        "rating": 3.3,
+        "ratings_reviews": "1,263 Ratings & 952 Reviews",
+        "price": "₹5,679",
+        "original_price": "₹6,600",
+        "discount": "13% off",
+        "delivery_time": "Free delivery",
+        "quantity": 1,
+        "category": "furniture & mattresses"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/t/q/2/-original-imagtjkgs5xzxfd6.jpeg?q=70",
+        "name": "Trevi Divine Engineered Wood 1 Door Wardrobe",
+        "rating": 3.9,
+        "ratings_reviews": "5,214 Ratings & 2,638 Reviews",
+        "price": "₹10,990",
+        "original_price": "₹26,490",
+        "discount": "58% off",
+        "delivery_time": "Free delivery",
+        "quantity": 1,
+        "category": "furniture & mattresses"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/l2tcfbk0/wardrobe-closet/n/h/2/no-pvc-liberty-4ft-coffee-brown-brown-classic-furniture-coffee-original-image2kw6gxggdak.jpeg?q=70",
+        "name": "Classic Furniture Warbrobe | Closet| Shoe Rack Liberty",
+        "rating": 3.8,
+        "ratings_reviews": "3,362 Ratings & 1,006 Reviews",
+        "price": "₹4,265",
+        "original_price": "₹6,499",
+        "discount": "34% off",
+        "delivery_time": "Free delivery",
+        "quantity": 1,
+        "category": "furniture & mattresses"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/u/k/d/no-20-3-pvc-14-4-0-8-large-clear-plastic-storage-box-with-lid-original-imagq6c8tqypwduz.jpeg?q=70",
+        "name": "MOSHTU 5-Door Collapsible Stackable Storage Bin with Lid",
+        "rating": 4.2,
+        "ratings_reviews": "10,115 Ratings & 5,364 Reviews",
+        "price": "₹1,430",
+        "original_price": "₹2,599",
+        "discount": "44% off",
+        "delivery_time": "Free delivery",
+        "quantity": 1,
+        "category": "furniture & mattresses"
+    }
+      ]
     },
     {
       "id": "furd5",
       "image": "https://rukminim2.flixcart.com/image/200/200/kd4uj680/coffee-table/z/x/5/rosewood-sheesham-mc-jk42-mooncraft-honey-finish-original-imafu3cww7m2nrcb.jpeg?q=70",
       "title": "Coffee Tables",
-      "price": "From 2,149"
+      "price": "From 2,149",
+      "furniInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/m/s/2/106-particle-board-55-10-hxct101gtfw-hexa-red-45-giant-wood-original-imagsgzz9ypdzekm.jpeg?q=70",
+          "name": "Hexa Red Wooden Coffee Table, Tea Table, Centre Table",
+          "rating": "4",
+          "ratings_reviews": "1,362 Ratings & 551 Reviews",
+          "price": "₹7,425",
+          "original_price": "₹19,800",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/x/e/p/-original-imagtg5cptfnuh2h.jpeg?q=70",
+          "name": "Esquire Plastic Coffee Table",
+          "rating": "4.8",
+          "ratings_reviews": "1,206 Ratings & 125 Reviews",
+          "price": "₹834",
+          "original_price": "₹1,079",
+          "discount": "22% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/p/q/5/-original-imagmszfzfngy6t7.jpeg?q=70",
+          "name": "Allie Wood Alex Engineered Wood Coffee Table",
+          "rating": "4.5",
+          "ratings_reviews": "951 Ratings & 25 Reviews",
+          "price": "₹2,299",
+          "original_price": "₹16,999",
+          "discount": "86% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/5/i/g/38-mdf-38-3-uas-iron-coffee-table-unique-arts-shoppee-55-golden-original-imahf24nxpq2ae6s.jpeg?q=70",
+          "name": "Unique Arts Shoppee Metallic Masterpieces: The Elegance",
+          "rating": "4.1",
+          "ratings_reviews": "2,064 Ratings & 1,625 Reviews",
+          "price": "₹1,719",
+          "original_price": "₹3,999",
+          "discount": "57% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/f/e/b/51-mdf-51-8-irn-sqr-wht-online-decor-shoppee-46-white-original-imagz4dhgjz45jna.jpeg?q=70",
+          "name": "Online Decor Shoppee Engineered Wood Coffee Table",
+          "rating": "4.3",
+          "ratings_reviews": "1,352 Ratings & 625 Reviews",
+          "price": "₹3,549",
+          "original_price": "₹4,999",
+          "discount": "29% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/t/6/l/88-rosewood-sheesham-88-15-sd-ct4s-gr-allie-wood-45-natural-teak-original-imagppfbgaggberw.jpeg?q=70",
+          "name": "Allie Wood Rosewood (Sheesham) Solid Wood Coffee Table",
+          "rating": "4.1",
+          "ratings_reviews": "11,352 Ratings & 4,625 Reviews",
+          "price": "₹10,999",
+          "original_price": "₹16,999",
+          "discount": "35% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/m/s/o/60-mango-wood-60-1-5-coffee-table-for-living-mtank-42-sky-blue-original-imahyugzj54qfa38.jpeg?q=70",
+          "name": "MTANK Nesting End Table Living Room Sofa Center Table",
+          "rating": "4.6",
+          "ratings_reviews": "3,203 Ratings & 262 Reviews",
+          "price": "₹2,385",
+          "original_price": "₹7,999",
+          "discount": "70% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/t/a/r/40-0-particle-board-80-0-10-0-mlbfbl80-40-malbro-40-0-venge-original-imagmpx238fc3wwm.jpeg?q=70",
+          "name": "Malbro Best Budget Tea Table for Living Room and Office",
+          "rating": "4.4",
+          "ratings_reviews": "1,639 Ratings & 852 Reviews",
+          "price": "₹1,599",
+          "original_price": "₹2,700",
+          "discount": "40% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/ko62xzk0/coffee-table/y/q/j/rosewood-sheesham-knrj-coftab-1-rjkart-honey-finish-original-imag2zbypzeerfvt.jpeg?q=70",
+          "name": "FURINNO Solid Sheesham Wood Center/Tea/Sofa Table For",
+          "rating": "4.7",
+          "ratings_reviews": "2,352 Ratings & 391 Reviews",
+          "price": "₹4,499",
+          "original_price": "₹8,269",
+          "discount": "45% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/t/p/d/acacia-kasia-de-ct-5511-thanglala-honey-original-imagyrvncpvkzqvh.jpeg?q=70",
+          "name": "THANGLALA 4 Seater Coffee Table with 4 Stool Solid Wood",
+          "rating": "4.4",
+          "ratings_reviews": "9,362 Ratings & 1,526 Reviews",
+          "price": "₹9,899",
+          "original_price": "₹24,999",
+          "discount": "60% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "furniture & mattresses"
+      },
+      {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/3/h/q/45-0-plywood-10-0-8-5-ct-003-wenge-diy-do-it-yourself-80-x-40-x-original-imagh3sfdbnrcfzh.jpeg?q=70",
+        "name": "lukzer (CT-003 / 80 x 40 x 30Cm) Engineered Wood Coffee...",
+        "rating": "3.6",
+        "price": "₹1,832",
+        "original_price": "₹9,994",
+        "discount": "81% off",
+        "delivery": "Free delivery",
+        "quantity": 1,
+        "category": "1",
+        "rating_reviews": "1,362 Ratings & 632 Reviews"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/l08gsy80/coffee-table/0/e/w/60-tempered-glass-110-24-aspire-krijen-brown-45-original-imagc2kqbpnkjkg9.jpeg?q=70",
+        "name": "KRIJEN Aspire Glass Coffee Table",
+        "rating": "4.1",
+        "price": "₹4,789",
+        "original_price": "₹15,500",
+        "discount": "69% off",
+        "delivery": "Free delivery",
+        "quantity": 1,
+        "category": "1",
+        "rating_reviews": "6,362 Ratings & 432 Reviews"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/o/5/b/mdf-blt-square-tbl-white-online-decor-shoppee-white-1-original-imagzc8wzxz2vmuf.jpeg?q=70",
+        "name": "Online Decor Shoppee Round Modern Marble Design Coffee",
+        "rating": "4.2",
+        "price": "₹2,849",
+        "original_price": "₹4,999",
+        "discount": "43% off",
+        "delivery": "Free delivery",
+        "quantity": 1,
+        "category": "1",
+        "rating_reviews": "2,412 Ratings & 1,632 Reviews"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/m/a/o/45-particle-board-90-16-7-ss-ct01-wolf-tk-spacex-45-lyon-teak-original-imagrhb4xz83rcyf.jpeg?q=70",
+        "name": "SPACEX Wolf Multipurpose Centre Table / Engineered Wood...",
+        "rating": "3.7",
+        "price": "₹2,699",
+        "original_price": "₹5,999",
+        "discount": "55% off",
+        "delivery": "Free delivery",
+        "quantity": 1,
+        "category": "1",
+        "rating_reviews": "5,362 Ratings & 968 Reviews"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/i/p/t/60-plywood-90-5-tm01tw-092-maharaja-46-teakwood-original-imahy592cekfrggz.jpeg?q=70",
+        "name": "MAHARAJA Polo Plastic Coffee Table for Home Décor Plast...",
+        "rating": "4.2",
+        "price": "₹1,948",
+        "original_price": "₹3,999",
+        "discount": "51% off",
+        "delivery": "Free delivery",
+        "quantity": 1,
+        "category": "1",
+        "rating_reviews": "1,962 Ratings & 339 Reviews"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/x/f/d/particle-board-mh-coffee-014-mehai-craft-design-walnut-wenge-original-imagry8fbtgnxnfd.jpeg?q=70",
+        "name": "Crystal Furnitech Sigma Engineered Wood Coffee Table",
+        "rating": "3.8",
+        "price": "₹3,099",
+        "original_price": "₹4,719",
+        "discount": "34% off",
+        "delivery": "Free delivery",
+        "quantity": 1,
+        "category": "1",
+        "rating_reviews": "3,412 Ratings & 2,632 Reviews"
+    },
+    {
+        "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/n/w/p/54-rosewood-sheesham-102-15-bwf-ct-05-banshi-44-honey-original-imahyam2jtd9jnhh.jpeg?q=70",
+        "name": "Banshi Solid Sheesham Wood Center Coffee Tablels for Li...",
+        "rating": "4.5",
+        "price": "₹8,999",
+        "original_price": "₹24,989",
+        "discount": "63% off",
+        "delivery": "Free delivery",
+        "quantity": 1,
+        "category": "1",
+        "rating_reviews": "1,962 Ratings & 232 Reviews"
+    }
+      ]
     },
     {
       "id": "furd6",
@@ -5781,7 +6659,7 @@
     {
       "id": "furd7",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/office-study-chair/z/t/2/1-teak-sagun-58-42-js-29-beaatho-121-92-original-imagrwgshgp2bhwv.jpeg?q=70",
-      "name": "Office Study Chairs",
+      "title": "Office Study Chairs",
       "price": "From 1,890"
     },
     {
@@ -5844,24 +6722,6 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/jsc3ssw0/sofa-bed/z/u/m/double-beige-jute-ritz-sofa-bed-beige-sofame-brown-original-imafdxg7dgg3tkty.jpeg?q=70",
       "title": "Sofa Beds",
       "price": "From 6,099"
-    },
-    {
-      "id": "furd18",
-      "image": "https://rukminim2.flixcart.com/image/200/200/k44hksw0/dressing-table/4/g/b/particle-board-z453145-zuari-oak-durance-black-oak-original-imafn3cuwzgujhfh.jpeg?q=70",
-      "title": "Dressing Table",
-      "price": "From 2,999"
-    },
-    {
-      "id": "furd19",
-      "image": "https://rukminim2.flixcart.com/image/200/200/jxw5g280/cabinet-drawer/r/u/7/pp-magnum-5-tier-nakoda-dark-brown-original-imafg6qdmzm6xyrd.jpeg?q=70",
-      "title": "Cabinet & Drawers",
-      "price": "From 349"
-    },
-    {
-      "id": "furd20",
-      "image": "https://rukminim2.flixcart.com/image/200/200/l4ln8nk0/recliner/c/n/9/1-seater-maroon-suede-leather-ph0201-flipkart-perfect-homes-original-imagfgkyswtemcqw.jpeg?q=70",
-      "category": "Recliner",
-      "price": "From 11,999"
     }
   ],
   "electronic-data": [
@@ -5964,14 +6824,35 @@
       "quantity": "1"
     },
     {
-      "id": "b755",
-      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/k/p/x/-original-imagfyy2zech5n6d-bb.jpeg?q=70",
-      "name": "Fluo M Running Shoes For Men",
-      "ratings_reviews": "43,710 Ratings & 5,140 Reviews",
-      "brand": "ADIDAS",
-      "original_price": "3,799",
-      "price": "3,039",
+      "id": "25b1",
+      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/j/z/6/-original-imagzzz6zm4gj4zt.jpeg?q=70",
+      "name": "Electrolux 8 kg 5 Star EcoInverter, 40C Vapour Wash, UltimateCare 300 Fully Automatic Front Load Washing Machine",
+      "ratings_reviews": "19 Ratings & 3 Reviews",
+      "original_price": "65,990",
+      "price": "29,990",
+      "discount": "54% off",
+      "delivery_time": "Free delivery",
+      "quantity": "1"
+    },
+    {
+      "id": "f304",
+      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/l/1/g/-original-imagywu2q5vp5zaj.jpeg?q=70",
+      "name": "LG 185 L Direct Cool Single Door 5 Star Refrigerator with Base Drawer with Smart Inverter Compressor",
+      "ratings_reviews": "13,270 Ratings & 996 Reviews",
+      "original_price": "22,199",
+      "price": "17,690",
       "discount": "20% off",
+      "delivery_time": "Free delivery",
+      "quantity": "1"
+    },
+    {
+      "id": "3a51",
+      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/b/c/g/-original-imagvrbhcwuwz7j7.jpeg?q=70",
+      "name": "LG 7 kg 5 Star with Wind Jet Dry, Collar Scrubber and Rust Free Plastic Base Semi Automatic Top Load W...",
+      "ratings_reviews": "28,977 Ratings & 2,044 Reviews",
+      "original_price": "14,190",
+      "price": "11,490",
+      "discount": "19% off",
       "delivery_time": "Free delivery",
       "quantity": "1"
     }

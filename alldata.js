@@ -66,7 +66,7 @@ window.addEventListener("load", ()=>{
             let div = document.createElement("div")
             div.classList.add("tvDeal-box")
             div.innerHTML = `
-                <a href="description.html?image_url=${encodeURIComponent(ele.image_url)}&name=${encodeURIComponent(ele.name)}&rating=${encodeURIComponent(ele.rating)}&ratings_reviews=${encodeURIComponent(ele.ratings_reviews)}&price=${encodeURIComponent(ele.price)}&original_price=${encodeURIComponent(ele.original_price)}&discount=${encodeURIComponent(ele.discount)}&quantity=${encodeURIComponent(ele.quantity)}&delivery_time=${encodeURIComponent(ele.delivery_time)}" id="tvDeal">
+                <a href="description.html?image_url=${encodeURIComponent(ele.image_url)}&name=${encodeURIComponent(ele.name)}&rating=${encodeURIComponent(ele.rating)}&ratings_reviews=${encodeURIComponent(ele.ratings_reviews)}&price=${encodeURIComponent(ele.price)}&original_price=${encodeURIComponent(ele.original_price)}&discount=${encodeURIComponent(ele.discount)}&quantity=${encodeURIComponent(ele.quantity)}&delivery_time=${encodeURIComponent(ele.delivery_time)}&category=${encodeURIComponent(ele.category)}" id="tvDeal">
                     <div id="image-part">
                         <img src=${ele.image_url} alt="">
                     </div>

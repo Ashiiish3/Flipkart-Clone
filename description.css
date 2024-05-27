@@ -26,9 +26,11 @@
 .description-container .row .image-box{
     padding: 15px;
     width: 480px;
+    overflow: hidden;
 }
 .description-container .row .image-box img{
     height: 450px;
+    overflow: hidden;
 }
 .description-container .row .info-box #brand{
     color: #868686;
