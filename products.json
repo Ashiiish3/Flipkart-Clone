@@ -8333,7 +8333,7 @@
           "discount": "65% off",
           "delivery_time": "Free delivery",
           "category": "electronics",
-          "rating_reviews": "236 Ratings & 1,685 Reviews",
+          "rating_reviews": "236 Ratings & 35 Reviews",
           "quantity": 1
         },
         {
@@ -8345,7 +8345,7 @@
           "discount": "50% off",
           "delivery_time": "Free delivery",
           "category": "electronics",
-          "rating_reviews": "236 Ratings & 1,685 Reviews",
+          "rating_reviews": "3,256 Ratings & 685 Reviews",
           "quantity": 1
         },
         {
@@ -8357,7 +8357,7 @@
           "discount": "40% off",
           "delivery_time": "Free delivery",
           "category": "electronics",
-          "rating_reviews": "236 Ratings & 1,685 Reviews",
+          "rating_reviews": "10,256 Ratings & 4,692 Reviews",
           "quantity": 1
         },
         {
@@ -8369,7 +8369,7 @@
           "discount": "55% off",
           "delivery_time": "Free delivery",
           "category": "electronics",
-          "rating_reviews": "236 Ratings & 1,685 Reviews",
+          "rating_reviews": "3,140 Ratings & 2,231 Reviews",
           "quantity": 1
         },
         {
@@ -8381,7 +8381,7 @@
           "discount": "57% off",
           "delivery_time": "Free delivery",
           "category": "electronics",
-          "rating_reviews": "236 Ratings & 1,685 Reviews",
+          "rating_reviews": "6,252 Ratings & 2,021 Reviews",
           "quantity": 1
         },
         {
@@ -8393,7 +8393,7 @@
           "discount": "76% off",
           "delivery_time": "Free delivery",
           "category": "electronics",
-          "rating_reviews": "236 Ratings & 1,685 Reviews",
+          "rating_reviews": "4,253 Ratings & 963 Reviews",
           "quantity": 1
         },
         {
@@ -8405,7 +8405,7 @@
           "discount": "68% off",
           "delivery_time": "Free delivery",
           "category": "electronics",
-          "rating_reviews": "236 Ratings & 1,685 Reviews",
+          "rating_reviews": "236 Ratings & 11 Reviews",
           "quantity": 1
         },
         {
@@ -8417,7 +8417,7 @@
           "discount": "82% off",
           "delivery_time": "Free delivery",
           "category": "electronics",
-          "rating_reviews": "236 Ratings & 1,685 Reviews",
+          "rating_reviews": "9,251 Ratings & 3,621 Reviews",
           "quantity": 1
         },
         {
@@ -8429,7 +8429,7 @@
           "discount": "55% off",
           "delivery_time": "Free delivery",
           "category": "electronics",
-          "rating_reviews": "236 Ratings & 1,685 Reviews",
+          "rating_reviews": "2,011 Ratings & 748 Reviews",
           "quantity": 1
         },
         {
@@ -8441,18 +8441,10 @@
           "discount": "80% off",
           "delivery_time": "Free delivery",
           "category": "electronics",
-          "rating_reviews": "236 Ratings & 1,685 Reviews",
+          "rating_reviews": "2,360 Ratings & 1,958 Reviews",
           "quantity": 1
         }
       ]
-    },
-    {
-      "id": "eled2",
-      "image": "https://rukminim2.flixcart.com/fk-p-flap/200/200/image/02eba4d97ecc5ef8.jpg?q=70",
-      "title": "Calling Smartwatches",
-      "price": "From 799",
-      "brands": "Noise, Fire-Boltt & more",
-      "electriInnerData": []
     },
     {
       "id": "eled3",
@@ -8460,7 +8452,128 @@
       "title": "Gaming Consoles",
       "price": "From 17,990*",
       "brands": "Grab or Gone Deals",
-      "electriInnerData": []
+      "electriInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kpydrbk0/joystick/9/b/j/e9-game-controller-quick-button-handle-sensitive-shoot-and-aim-original-imag42svt6vmcfp3.jpeg?q=70",
+          "quantity": 1,
+          "name": "FKU E9 Game Controller - Quick button handle Sensitive ...",
+          "rating": 3.8,
+          "category": "electronics",
+          "rating_reviews": "1,362 Ratings & 912 Reviews",
+          "price": "189",
+          "original_price": "699",
+          "discount": "72% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/e/o/w/64-steam-deck-gaming-console-valve-no-original-imagnd9x4qudry4q.jpeg?q=70",
+          "quantity": 1,
+          "name": "Valve Steam Deck Gaming Console 64 GB",
+          "rating": 4.4,
+          "category": "electronics",
+          "rating_reviews": "236 Ratings & 36 Reviews",
+          "price": "45,990",
+          "original_price": "55,990",
+          "discount": "17% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kk4c13k0/gamingconsole/w/i/m/sup-400-in-1-games-retro-game-box-console-handheld-0-qawachh-yes-original-imafzjhnsf567z6j.jpeg?q=70",
+          "quantity": 1,
+          "name": "QAWACHH SUP 400 in 1 Games Retro Game Box Console Handh...",
+          "rating": 3.7,
+          "category": "electronics",
+          "rating_reviews": "2,362 Ratings & 937 Reviews",
+          "price": "890",
+          "original_price": "1,699",
+          "discount": "47% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/j/d/9/512-xbox-series-s-rrs-00166-microsoft-wireless-controller-original-imagvrcxcxhh9pf5.jpeg?q=70",
+          "quantity": 1,
+          "name": "MICROSOFT Xbox Series S RRS-00166 512 GB with Game Pass...",
+          "rating": 4.6,
+          "category": "electronics",
+          "rating_reviews": "2,362 Ratings & 1,260 Reviews",
+          "price": "37,990",
+          "original_price": "39,990",
+          "discount": "5% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/computer/5/u/p/-original-imagzzff4zrqn3hk.jpeg?q=70",
+          "quantity": 1,
+          "name": "Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11320H -...",
+          "rating": 4.2,
+          "category": "electronics",
+          "rating_reviews": "10,254 Ratings & 3,960 Reviews",
+          "price": "45,490",
+          "original_price": "71,290",
+          "discount": "36% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/computer/i/1/s/-original-imagzzebftghhzr4.jpeg?q=70",
+          "quantity": 1,
+          "name": "Lenovo IdeaPad Gaming 3 AMD Ryzen 7 Octa Core 6800H - (...",
+          "rating": 4.2,
+          "category": "electronics",
+          "rating_reviews": "10,256 Ratings & 4,360 Reviews",
+          "price": "61,990",
+          "original_price": "97,790",
+          "discount": "36% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/y/j/m/1-extreme-mini-game-box-8-bit-alpha-mission-with-619-games-in-original-imagnq9ub7zcxvyz.jpeg?q=70",
+          "quantity": 1,
+          "name": "Clubics Extreme Mini Game Box- 620 TV Video Games with ...",
+          "rating": 4,
+          "category": "electronics",
+          "rating_reviews": "236 Ratings & 35 Reviews",
+          "price": "599",
+          "original_price": "1,999",
+          "discount": "70% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/ktizdzk0/gamingconsole/i/s/t/8-kids-screen-400-retro-classic-gaming-console-game-console-original-imag6upwbd3r7hm8.jpeg?q=70",
+          "quantity": 1,
+          "name": "BSVR Newly 400 Games Super Mario 057 Gaming Console Por...",
+          "rating": 3.6,
+          "category": "electronics",
+          "rating_reviews": "963 Ratings & 136 Reviews",
+          "price": "573",
+          "original_price": "1,799",
+          "discount": "68% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/l/v/f/8-sup-game-400-in-1-retro-game-box-console-handheld-video-game-original-imagsrhyuzcxzqpp.jpeg?q=70",
+          "quantity": 1,
+          "name": "keeva SUP GAME 400 in 1 Retro Game Box Console Handheld...",
+          "rating": 3.7,
+          "category": "electronics",
+          "rating_reviews": "883 Ratings & 103 Reviews",
+          "price": "612",
+          "original_price": "1,499",
+          "discount": "59% off",
+          "delivery_time": "Free delivery"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/computer/r/q/i/-original-imagtvudqkkuvhsh.jpeg?q=70",
+          "quantity": 1,
+          "name": "Lenovo LOQ Intel Core i7 13th Gen 13620H - (16 GB/512 G...",
+          "rating": 4.4,
+          "category": "electronics",
+          "rating_reviews": "693 Ratings & 190 Reviews",
+          "price": "10,190",
+          "original_price": "13,790",
+          "discount": "25% off",
+          "delivery_time": "Free delivery"
+        }
+      ]
     },
     {
       "id": "eled4",
@@ -8468,7 +8581,200 @@
       "title": "Top Deals on Powerbanks",
       "price": "From 459",
       "brands": "Ambrane, Mi & more",
-      "electriInnerData": []
+      "electriInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/i/k/x/booster-10000mah-power-bank-lithium-polymer-battery-fast-original-imagxrk3gqfmaezf.jpeg?q=70",
+          "name": "TEMPT 10000 mAh 12 W Power Bank",
+          "rating": 3.7,
+          "price": "799",
+          "original_price": "1,999",
+          "discount": "60% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,963 Ratings & 14 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/r/r/p/magna-i-5000-magna-5000mah-22-5w-tmb-original-imahf4h5dr2fdfqz.jpeg?q=70",
+          "name": "TMB 5000 mAh 22.5 W Wired & Wireless With MagSafe Compa...",
+          "rating": 4.3,
+          "price": "2,099",
+          "original_price": "3,999",
+          "discount": "47% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,903 Ratings & 153 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/t/u/8/-original-imagw4pwqzmen5x9.jpeg?q=70",
+          "name": "boAt 20000 mAh 22.5 W Power Bank",
+          "rating": 4.1,
+          "price": "1,699",
+          "original_price": "4,499",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "2,109 Ratings & 1,691 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/m/c/r/-original-imagw4pwuvtzhcvr.jpeg?q=70",
+          "name": "boAt 10000 mAh 22.5 W Power Bank",
+          "rating": 4.1,
+          "price": "1,199",
+          "original_price": "2,999",
+          "discount": "60% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,997 Ratings & 583 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/4/b/n/-original-imagrnfxqemb9hen.jpeg?q=70",
+          "name": "boAt 10000 mAh 22.5 W Power Bank",
+          "rating": 4.1,
+          "price": "1,199",
+          "original_price": "2,999",
+          "discount": "60% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,309 Ratings & 205 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/m/j/w/-original-imagxyv3d4h2mu4x.jpeg?q=70",
+          "name": "URBN 10000 mAh 12 W Ultra Compact Pocket Size Power Ban...",
+          "rating": 4,
+          "price": "999",
+          "original_price": "2,499",
+          "discount": "60% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,304 Ratings & 402 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/r/d/k/-original-imagxyv3ervzp8hy.jpeg?q=70",
+          "name": "URBN 20000 mAh 22.5 W Nano Pocket Size Power Bank",
+          "rating": 4.4,
+          "price": "2,118",
+          "original_price": "4,999",
+          "discount": "57% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "6,079 Ratings & 1.639 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kd7pevk0/power-bank/e/g/p/power-bank-20000-pb200lzm-redmi-original-imafu5enzgwmgwxf.jpeg?q=70",
+          "name": "REDMI 20000 mAh 18 W Power Bank",
+          "rating": 4.3,
+          "price": "2,049",
+          "original_price": "2,999",
+          "discount": "31% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,091 Ratings & 517 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/4/w/s/zencharge-10000-llpbva10-lifelong-original-imagy5yf9pchdvwk.jpeg?q=70",
+          "name": "Lifelong 10000 mAh 22.5 W Compact Pocket Size Power Ban...",
+          "rating": 4.2,
+          "price": "1,299",
+          "original_price": "2,999",
+          "discount": "56% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "5,302 Ratings & 1,002 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/l5fnhjk0/power-bank/d/h/v/-original-imagg3utehnksuqz.jpeg?q=70",
+          "name": "ORAIMO 20000 mAh 12 w Power Bank",
+          "rating": 4.1,
+          "price": "1,199",
+          "original_price": "2,499",
+          "discount": "52% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "360 Ratings & 91 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kfcv6vk0/power-bank/q/z/q/power-bank-10000-plm13zm-mi-original-imafvtreeefx5thb.jpeg?q=70",
+          "name": "Mi 10000 mAh 18 w Power Bank",
+          "quantity": 1,
+          "rating": 4.1,
+          "rating_reviews": "1,951 Ratings & 753 Reviews",
+          "price": "1,299",
+          "original_price": "2,199",
+          "discount": "40% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/v/h/s/-original-imagrzjfgq8yards.jpeg?q=70",
+          "name": "boAt 20000 mAh 22.5 W Power Bank",
+          "quantity": 1,
+          "rating": 4.1,
+          "rating_reviews": "1,601 Ratings & 681 Reviews",
+          "price": "1,699",
+          "original_price": "4,499",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/8/b/i/-original-imagrnfx7ejk92dg.jpeg?q=70",
+          "name": "boAt 10000 mAh 22.5 W Power Bank",
+          "quantity": 1,
+          "rating": 4.1,
+          "rating_reviews": "3,204 Ratings & 926 Reviews",
+          "price": "1,185",
+          "original_price": "2,999",
+          "discount": "60% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/o/y/z/-original-imagvge4pvjm2hhg.jpeg?q=70",
+          "name": "Flipkart SmartBuy 10000 mAh 22.5 W Power Bank",
+          "quantity": 1,
+          "rating": 3.8,
+          "rating_reviews": "1,110 Ratings & 442 Reviews",
+          "price": "799",
+          "original_price": "1,599",
+          "discount": "50% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/e/b/z/-original-imagyfgx85mrz2wx.jpeg?q=70",
+          "name": "URBN 20000 mAh 22.5 W Pocket Size Power Bank",
+          "quantity": 1,
+          "rating": 4.3,
+          "rating_reviews": "1,660 Ratings & 490 Reviews",
+          "price": "1,999",
+          "original_price": "3,999",
+          "discount": "50% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/m/r/t/-original-imagxyv4yhzwzmac.jpeg?q=70",
+          "name": "URBN 10000 mAh 12 W Ultra Compact Pocket Size Power Ban...",
+          "quantity": 1,
+          "rating": 4,
+          "rating_reviews": "11,604 Ratings & 5,239 Reviews",
+          "price": "999",
+          "original_price": "2,499",
+          "discount": "60% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics"
+        }
+      ]
     },
     {
       "id": "eled5",
@@ -8476,7 +8782,188 @@
       "title": "Mobile Chargers are here",
       "price": "From 99",
       "brands": "Grab Now",
-      "electriInnerData": []
+      "electriInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/t/e/l/mi-fast-charger-pack-of-2-goodcell-original-imagqygq8xyghpsn.jpeg?q=70",
+          "name": "GOODCELL 65 W Quick Charge 6 A Mobile Charger with Deta...",
+          "price": "1,467",
+          "original_price": "2,999",
+          "discount": "51% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating": 4.3,
+          "category": "electronics",
+          "rating_reviews": "1,937 Ratings & 621 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/k/i/v/mgedge-f25-pro-type-c-fast-charger-justhere-shopies-original-imahf5z5mx4han5g.jpeg?q=70",
+          "name": "SHOPIES 33 W SuperVOOC 3.1 A Mobile Charger with Detach...",
+          "price": "599",
+          "original_price": "1,599",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating": 4,
+          "category": "electronics",
+          "rating_reviews": "3,690 Ratings & 1,250 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/q/s/c/35w-mgedge-6a-single-usb-port-fast-power-adapter-bis-certified-original-imagxuvgptwu9gbe.jpeg?q=70",
+          "name": "SHOPIES 15 W Quick Charge 3 A Multiport Mobile Charger ...",
+          "price": "499",
+          "original_price": "2,599",
+          "discount": "80% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating": 4.8,
+          "category": "electronics",
+          "rating_reviews": "1,226 Ratings & 852 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/g/q/n/mgedge-have1-reno-7pro-5g-type-c-fast-charger-justhere-shopies-original-imahf5uyugbthxgk.jpeg?q=70",
+          "name": "SHOPIES 33 W SuperVOOC 3.1 A Mobile Charger with Detach...",
+          "price": "599",
+          "original_price": "1,599",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating": 4.9,
+          "category": "electronics",
+          "rating_reviews": "4,509 Ratings & 2,360 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/j/7/t/33w-dash-dart-wrap-sn-05-fast-charging-adapter-travel-fast-cable-original-imagqjfyaggufyx4.jpeg?q=70",
+          "name": "SB 33 W SuperVOOC 4 A Mobile Charger",
+          "price": "359",
+          "original_price": "1,999",
+          "discount": "82% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating": 3.5,
+          "category": "electronics",
+          "rating_reviews": "3,047 Ratings & 1,560 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/s/l/c/33w-4a-dash-vooc-superdart-charger-made-in-india-adaptor-with-original-imagj76nyargmy5d.jpeg?q=70",
+          "name": "SB 33 W 4 A Mobile Charger with Detachable Cable",
+          "price": "424",
+          "original_price": "1,999",
+          "discount": "78% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating": 4.3,
+          "category": "electronics",
+          "rating_reviews": "2,630 Ratings & 1,005 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/e/d/k/mgedge-narzo-60x-5g-type-c-fast-charger-justhere-shopies-original-imahf5pmcykj3zrn.jpeg?q=70",
+          "name": "SHOPIES 33 W SuperVOOC 3.1 A Mobile Charger with Detach...",
+          "price": "599",
+          "original_price": "1,599",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating": 4.6,
+          "category": "electronics",
+          "rating_reviews": "1,930 Ratings & 753 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/1/l/2/mgedge-galaxy-f54-type-c-fast-charger-justhere-shopies-original-imahf5z89u59ufus.jpeg?q=70",
+          "name": "SHOPIES 33 W SuperVOOC 3.1 A Mobile Charger with Detach...",
+          "price": "599",
+          "original_price": "1,599",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating": 4.1,
+          "category": "electronics",
+          "rating_reviews": "1,550 Ratings & 102 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/k/i/v/mgedge-f25-pro-type-c-fast-charger-justhere-shopies-original-imahf5z5mx4han5g.jpeg?q=70",
+          "name": "SHOPIES 33 W SuperVOOC 3.1 A Mobile Charger with Detach...",
+          "price": "599",
+          "original_price": "1,599",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating": 4.7,
+          "category": "electronics",
+          "rating_reviews": "3,604 Ratings & 687 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/o/5/b/mgedge-have1-reno-10-5g-type-c-fast-charger-justhere-shopies-original-imahf5vyth2rer6y.jpeg?q=70",
+          "name": "SHOPIES 33 W SuperVOOC 3.1 A Mobile Charger with Detach...",
+          "price": "599",
+          "original_price": "1,900",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "5,506 Ratings & 3,089 Reviews",
+          "rating": 4.3
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/t/v/b/powerpack-3-0-timbresonic-original-imagtbjnrczmhhkn.jpeg?q=70",
+          "name": "TIMBRESONIC 80 W SuperVOOC 7 A Mobile Charger with Deta...",
+          "price": "559",
+          "original_price": "1,899",
+          "discount": "70% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "3,360 Ratings & 1,260 Reviews",
+          "rating": 4.2
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/d/a/8/20w-adapter-with-pd-technology-usb-type-c-fast-charging-3-0-bis-original-imahf6yxksyh8ywq.jpeg?q=70",
+          "name": "DR VAKU 20 W PD Mobile Charger",
+          "price": "599",
+          "original_price": "1,799",
+          "discount": "66% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "4,205 Ratings & 1,052 Reviews",
+          "rating": 3.7
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/l/o/7/mgedge-iqoo-z6-lite-type-c-fast-charger-justhere-shopies-original-imahf5zuyrfhwntg.jpeg?q=70",
+          "name": "SHOPIES 33 W SuperVOOC 3.1 A Mobile Charger with Detach...",
+          "price": "599",
+          "original_price": "1,599",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,950 Ratings & 440 Reviews",
+          "rating": 4.4
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/1/w/x/20-watt-type-c-pd-charger-for-iphone-14-13-12-11-pro-plus-pro-original-imahy5fdsfyyxh7n.jpeg?q=70",
+          "name": "SHOPIES 20 W Quick Charge 3.1 A Mobile Charger with Det...",
+          "price": "569",
+          "original_price": "2,999",
+          "discount": "81% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,362 Ratings & 852 Reviews",
+          "rating": 3.8
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/5/j/a/mgedge-have1-oppo-a38-5g-type-c-fast-charger-justhere-shopies-original-imahf5tjv34vd9zj.jpeg?q=70",
+          "name": "SHOPIES 33 W SuperVOOC 3.1 A Mobile Charger with Detach...",
+          "price": "599",
+          "original_price": "1,599",
+          "discount": "62% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "2,362 Ratings & 912 Reviews",
+          "rating": 4.1
+        }
+      ]
     },
     {
       "id": "eled6",
@@ -8484,7 +8971,104 @@
       "title": "Smart Lighting Solutions",
       "price": "From 399",
       "brands": "TP-Link, Philips & more",
-      "electriInnerData": []
+      "electriInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/ktx9si80/smart-lighting/c/e/2/12-smart-rgb-led-bluetooth-music-light-bulb-gold-bgmsat01-led-original-imag75uhmjtz3ukc.jpeg?q=70",
+          "name": "wahh Smart LED Music Light Bulb Speaker Bluetooth Remot...",
+          "rating": 3.8,
+          "price": "230",
+          "original_price": "1,499",
+          "discount": "84% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,950 Ratings & 560 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/smart-lighting/t/c/v/1-em-il-led-elecmechanix-original-imagz7rbed2xkgkb.jpeg?q=70",
+          "name": "Elecmechanix USB Charging Smart Body Sensor Night Light...",
+          "rating": 3.7,
+          "price": 949,
+          "original_price": "1,999",
+          "discount": "52% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,890 Ratings & 260 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/smart-lighting/k/0/r/12-smart-bulb-led-daybetter-original-imagyachuhcyrhef.jpeg?q=70",
+          "name": "DAYBETTER Bluetooth Speaker Music Light with Remote Con...",
+          "rating": 3.9,
+          "price": 389,
+          "original_price": 999,
+          "discount": "61% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,112 Ratings & 219 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/bulb/k/s/l/tricolor-6-6-watt-3-color-mode-warm-white-cool-white-natural-original-imagzhgxgryz7q62.jpeg?q=70",
+          "name": "Trust Ware 12 W Standard E27 LED Bulb",
+          "rating": 3.5,
+          "price": 227,
+          "original_price": 999,
+          "discount": "77% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,678 Ratings & 951 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/ku4ezrk0/data-cable/lightning-cable/b/b/q/fast-charging-premium-double-nylon-braided-usb-to-lighting-cable-original-imag7bkfq6kqgt49.jpeg?q=70",
+          "name": "ZINUX Lightning Cable 2 A 1.2 m copper briding Fast Cha...",
+          "rating": 4,
+          "price": 295,
+          "original_price": 599,
+          "discount": "50% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "2,950 Ratings & 1,205 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/jqv8ia80/bulb/n/j/8/ss18-saish-solutions-original-imafcrszn4tzap9j.jpeg?q=70",
+          "name": "Saish Solutions 5 W Round SmartGlo LED Bulb",
+          "rating": 4,
+          "price": "249",
+          "original_price": "349",
+          "discount": "28% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,996 Ratings & 106 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/ku4ezrk0/data-cable/lightning-cable/p/v/r/fast-charging-quality-premium-double-nylon-braided-usb-to-original-imag7bknnrckgvdw.jpeg?q=70",
+          "name": "ZINUX Lightning Cable 3 A 1.2 m copper briding Fast Cha...",
+          "rating": 5,
+          "price": "299",
+          "original_price": "599",
+          "discount": "50% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "3,602 Ratings & 1,250 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/camera-rig/e/r/k/cl227-proaim-original-imagvsfk4pqruycv.jpeg?q=70",
+          "name": "Proaim SnapRig O-Clamp with 5/8? Baby Pin CL227 Camera ...",
+          "rating": 3.8,
+          "price": "990",
+          "original_price": "6,500",
+          "discount": "84% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,950 Ratings & 113 Reviews"
+        }
+      ]
     },
     {
       "id": "eled7",
@@ -8492,7 +9076,128 @@
       "title": "Mobile Cables",
       "price": "From 49",
       "brands": "Buy Now",
-      "electriInnerData": []
+      "electriInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/l02r1jk0/data-cable/usb-type-c-cable/4/x/f/multi-charging-cable-4ft-3-in-1-nylon-braided-multiple-usb-fast-original-imagby3hkzgvvpny.jpeg?q=70",
+          "name": "Bestor USB Type C Cable 2 A 1.2 m Multi Charging Cable ...",
+          "rating": 3.9,
+          "price": 297,
+          "original_price": 699,
+          "discount": "57% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "Daily Saver",
+          "rating_reviews": "1,362 Ratings & 912 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/data-cable/usb-type-c-cable/k/e/a/65w-10w-6-5a-vooc-warp-dash-dash-supervooc-superdart-charger-original-imagzzgxhjqzyxhn.jpeg?q=70",
+          "name": "ULTRADART USB Type C Cable 6.5 A 1 m OEM 65W-10W/WARP/D...",
+          "rating": 4.2,
+          "price": 229,
+          "original_price": 999,
+          "discount": "77% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,950 Ratings & 222 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/data-cable/usb-type-c-cable/q/h/v/por-656-konnect-core-portronics-original-imagtg7mcjdatzvc.jpeg?q=70",
+          "name": "Portronics USB Type C Cable 3 A 1 m POR-656 Konnect Cor...",
+          "rating": 4.1,
+          "price": 139,
+          "original_price": 299,
+          "discount": "53% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,360 Ratings & 541 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kyag87k0/data-cable/usb-type-c-cable/2/m/w/konnect-l-60w-pd-type-c-to-type-c-fast-charging-portronics-original-imagak2kbyzuzggg.jpeg?q=70",
+          "name": "Portronics USB Type C Cable 3 A 1.2 m Konnect L 60W PD ...",
+          "rating": 4.1,
+          "price": 149,
+          "original_price": 499,
+          "discount": "70% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,369 Ratings & 489 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/data-cable/lightning-cable/h/9/h/20-w-pd-fast-charging-usb-c-to-lightning-cable-compatible-with-original-imagj6y2ma3gjwkx.jpeg?q=70",
+          "name": "MAK Lightning Cable 2 A 1 m 20 W PD Fast Charging USB C...",
+          "rating": 3.8,
+          "price": 249,
+          "original_price": 1999,
+          "discount": "87% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "11,506 Ratings & 5,108 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/data-cable/lightning-cable/h/r/0/usb-to-lightning-cable-3-2-feet-for-fast-charging-homemo-original-imahy79phxt8azzz.jpeg?q=70",
+          "name": "HOMEMO Lightning Cable 6 A 1 m USB to Lightning Cable 3...",
+          "rating": 4.1,
+          "price": 279,
+          "original_price": 1999,
+          "discount": "86% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,960 Ratings & 597 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/data-cable/v/0/q/-original-imagqs9h9nfgmvm4.jpeg?q=70",
+          "name": "Mi USB Type C Cable 3 A 1 m 28356,USBC100T",
+          "rating": 4.3,
+          "price": 249,
+          "original_price": 299,
+          "discount": "16% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,847 Ratings & 190 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/l1zc6fk0/data-cable/4/r/q/-original-imagdffgy4q4uysv.jpeg?q=70",
+          "name": "boAt AUX Cable 1.5 m AUX 500",
+          "rating": 4.4,
+          "price": 149,
+          "original_price": 599,
+          "discount": "75% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,920 Ratings & 450 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/data-cable/lightning-cable/7/o/s/por-1080-konnect-l-portronics-original-imagtez8vnczekgp.jpeg?q=70",
+          "name": "Portronics Lightning Cable 3 A 1.2 m Original Smart Wat...",
+          "rating": 4.2,
+          "price": 139,
+          "original_price": 499,
+          "discount": "72% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "2,050 Ratings & 1,010 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/data-cable/type-c/7/x/b/apple-mfi-certified-i-phone-fast-charger-cable-usb-c-power-cord-original-imahye5czqjh5vfr.jpeg?q=70",
+          "name": "QIBOX Type C 6 A 1 m [Apple MFi Certified] i_Phone Fast...",
+          "rating": 4,
+          "price": 297,
+          "original_price": 1999,
+          "discount": "85% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,110 Ratings & 502 Reviews"
+        }
+      ]
     },
     {
       "id": "eled8",
@@ -8500,7 +9205,128 @@
       "title": "Designer Covers",
       "price": "Just 199",
       "brands": "Trendy,Glitters & more",
-      "electriInnerData": []
+      "electriInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/i/f/r/sams20fe-p211-tweakymod-original-imagxf6zf5thunjx.jpeg?q=70",
+          "name": "Tweakymod Back Cover for SAMSUNG S20 FE(FAN EDITION)",
+          "price": 249,
+          "original_price": 899,
+          "discount": "72% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,889 Ratings & 689 Reviews",
+          "rating": 3.5
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/5/0/j/1814-micky-mouse-smile-face-cartoon-pichku-original-imagwv5vt882zwjb.jpeg?q=70",
+          "name": "PICHKU Back Cover for Vivo Y93,Micky, Mouse, Smile, Fac...",
+          "price": 279,
+          "original_price": 999,
+          "discount": "72% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "2,050 Ratings & 1,110 Reviews",
+          "rating": 4.7
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/k9oj8280/cases-covers/back-cover/u/y/f/printastic-vivy93-498-original-imafrf6qzmechhhg.jpeg?q=70",
+          "name": "Printabulous Back Cover for Vivo Y95",
+          "price": 299,
+          "original_price": 999,
+          "discount": "70% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,982 Ratings & 749 Reviews",
+          "rating": 4.2
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/k9oj8280/cases-covers/back-cover/c/p/v/printastic-vivy93-497-original-imafrf6rxexutsqv.jpeg?q=70",
+          "name": "Printabulous Back Cover for Vivo Y91",
+          "price": 299,
+          "original_price": 999,
+          "discount": "70% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,758 Ratings & 336 Reviews",
+          "rating": 4.6
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/jxz0brk0/cases-covers/back-cover/h/b/u/loffar-p10-board-hnr-20i-original-imafgapzubahwtng.jpeg?q=70",
+          "name": "Loffar Back Cover for Honor 20i",
+          "price": 289,
+          "original_price": "1,199",
+          "discount": "75% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "5,302 Ratings & 1,250 Reviews",
+          "rating": 3.8
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kxm5qq80/cases-covers/back-cover/r/n/j/sak-case-back-cover-for-rlme-c25y-card-of-spades-the-hukum-ka-original-imagaf5zqxswkmhg.jpeg?q=70",
+          "name": "COBIERTAS Back Cover for REALME C25Y",
+          "price": 249,
+          "original_price": 799,
+          "discount": "68% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "3,620 Ratings & 456 Reviews",
+          "rating": 4.2
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/c/p/0/g11-20jan-motg345gd0005-fashionury-original-imagxcdvmfyjdfqv.jpeg?q=70",
+          "name": "Fashionury Back Cover for MOTOROLA G34 5G, MOTOROLA MOT...",
+          "price": 149,
+          "original_price": 699,
+          "discount": "78% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "2,360 Ratings & 782 Reviews",
+          "rating": 4.9
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/v/3/p/prv-20motg345g-jand2009-loudcase-original-imagxcdxp35ecpns.jpeg?q=70",
+          "name": "Flipkart SmartBuy Back Cover for MOTOROLA G34 5G, MOTOR...",
+          "price": 199,
+          "original_price": 699,
+          "discount": "71% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,895 Ratings & 753 Reviews",
+          "rating": 4.1
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/2/h/n/-original-imagt548hgmrhzhf.jpeg?q=70",
+          "name": "Fashionury Back Cover for Infinix HOT 30i",
+          "price": 149,
+          "original_price": 699,
+          "discount": "78% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,853 Ratings & 159 Reviews",
+          "rating": 4
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/k/y/d/vivo-v30-5g-vivo-v30-pro-5g-aibex-original-imahysh9r7mdcgfa.jpeg?q=70",
+          "name": "AIBEX Back Cover for Vivo V30 5G / Vivo V30 Pro 5G",
+          "price": 301,
+          "original_price": "1,199",
+          "discount": "74% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "3,025 Ratings & 853 Reviews",
+          "rating": 4.5
+        }
+      ]
     },
     {
       "id": "eled9",
@@ -8508,7 +9334,248 @@
       "title": "boAt Headphones & Speakers",
       "price": "From 349",
       "brands": "Valantine's day Offer!",
-      "electriInnerData": []
+      "electriInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/y/c/asp-fast-charge-upto-30-hours-playback-wireless-bluetooth-original-imagweyfvxemddgb.jpeg?q=70",
+          "name": "ROKAVO ASP fast Charge upto 30 Hours Playback Wireless",
+          "price": "₹455",
+          "original_price": "₹2,999",
+          "discount": "84% off",
+          "delivery_time": "Free delivery",
+          "rating": "4.3",
+          "category": "electronics",
+          "rating_reviews": "2,690 Ratings & 604 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/k/3/m/wireless-bluetooth-headset-with-up-to-30-hrs-long-battery-backup-original-imagwdyxy9k7teqr.jpeg?q=70",
+          "name": "ROKAVO Wireless Bluetooth Headset With Up To 30 Hrs Lon",
+          "price": "₹455",
+          "original_price": "₹2,999",
+          "discount": "84% off",
+          "delivery_time": "Free delivery",
+          "rating": "4.8",
+          "category": "electronics",
+          "rating_reviews": "1,630 Ratings & 690 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/u/r/1/nb190-power-50-hours-playtime-dual-pairing-true-wireless-earbuds-original-imagxn8ykjdxqwhn.jpeg?q=70",
+          "name": "snowbudy NB190 Power 50 Hours* Playtime, Dual Pairing T",
+          "price": "₹664",
+          "original_price": "₹3,850",
+          "discount": "82% off",
+          "delivery_time": "Free delivery",
+          "rating": "3.4",
+          "category": "electronics",
+          "rating_reviews": "2,621 Ratings & 630 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/d/d/s/travel-headphones-neckband-30hr-headset-earphone-earbud-original-imagwffrf5wtsvtc.jpeg?q=70",
+          "name": "ROKAVO Travel headphones Neckband 30hr headset earphone",
+          "price": "₹499",
+          "original_price": "₹1,799",
+          "discount": "72% off",
+          "delivery_time": "Free delivery",
+          "rating": "4.1",
+          "category": "electronics",
+          "rating_reviews": "1,963 Ratings & 426 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/u/f/z/g-3-badshah-20-hours-playing-time-fast-charging-bluetooth-original-imaghjnuxshuhfnf.jpeg?q=70",
+          "name": "RZG G-3 Badshah 20 Hours Playing Time Fast Charging Blu",
+          "price": "₹1,189",
+          "original_price": "₹5,999",
+          "discount": "80% off",
+          "delivery_time": "Free delivery",
+          "rating": "4.6",
+          "category": "electronics",
+          "rating_reviews": "1,115 Ratings & 227 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/o/e/hot-new-neckaband-noise-cancelling-microphone-earphone-38-hr-original-imaggzvjvwbjwzng.jpeg?q=70",
+          "name": "ROKAVO Hot New Neckaband Noise Cancelling,Microphone ea",
+          "price": "₹731",
+          "original_price": "₹2,999",
+          "discount": "75% off",
+          "delivery_time": "Free delivery",
+          "rating": "3.7",
+          "category": "electronics",
+          "rating_reviews": "11,205 Ratings & 5,950 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/b/u/h/new-design-tws-high-end-neckband-wireless-noise-cancelling-in-original-imagvfvag99gvmjj.jpeg?q=70",
+          "name": "ZWOLLEX High-Quality HiFi Speaker Magnetic Wireless Blu",
+          "price": "₹499",
+          "original_price": "₹3,850",
+          "discount": "87% off",
+          "delivery_time": "Free delivery",
+          "rating": "4",
+          "category": "electronics",
+          "rating_reviews": "5,201 Ratings & 782 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/m/i/25-hours-playing-time-deep-bass-made-in-india-quillquarry-original-imagtwgdtvy9uufx.jpeg?q=70",
+          "name": "QuillQuarry 25 Hours Playing Time | Deep Bass| Made In",
+          "price": "₹1,199",
+          "original_price": "₹4,999",
+          "discount": "76% off",
+          "delivery_time": "Free delivery",
+          "rating": "4.5",
+          "category": "electronics",
+          "rating_reviews": "3,602 Ratings & 950 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/8/e/4/24-hours-music-time-high-bass-wireless-rzg-original-imaghvwgbnstndev.jpeg?q=70",
+          "name": "RZG 24 hours music time high bass wireless Bluetooth He",
+          "price": "₹1,104",
+          "original_price": "₹5,999",
+          "discount": "81% off",
+          "delivery_time": "Free delivery",
+          "rating": "3.9",
+          "category": "electronics",
+          "rating_reviews": "1,601 Ratings & 690 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/n/i/ch-125-dilbar-48-hour-playtime-bluetooth-headphone-neckband-original-imagn2e63qefvjtc.jpeg?q=70",
+          "name": "CARRON CH-125 Dilbar - 48 Hour Playtime Bluetooth Headp",
+          "price": "₹403",
+          "original_price": "₹1,999",
+          "discount": "79% off",
+          "delivery_time": "Free delivery",
+          "rating": "4.2",
+          "category": "electronics",
+          "rating_reviews": "2,600 Ratings & 118 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/y/c/asp-fast-charge-upto-30-hours-playback-wireless-bluetooth-original-imagweyfvxemddgb.jpeg?q=70",
+          "name": "ROKAVO ASP fast Charge upto 30 Hours Playback Wireless",
+          "price": "₹455",
+          "original_price": "₹2,999",
+          "discount": "84% off",
+          "delivery_time": "Free delivery",
+          "rating": "4.3",
+          "category": "electronics",
+          "rating_reviews": "1,025 Ratings & 563 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/k/3/m/wireless-bluetooth-headset-with-up-to-30-hrs-long-battery-backup-original-imagwdyxy9k7teqr.jpeg?q=70",
+          "product_name": "ROKAVO Wireless Bluetooth Headset With Up To 30 Hrs Lon",
+          "price": "₹455",
+          "original_price": "₹2,999",
+          "discount": "84% off",
+          "delivery": "Free delivery",
+          "rating": "4.8",
+          "category": "electronics",
+          "ratings_count": "1,362 Ratings & 912 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/u/r/1/nb190-power-50-hours-playtime-dual-pairing-true-wireless-earbuds-original-imagxn8ykjdxqwhn.jpeg?q=70",
+          "product_name": "snowbudy NB190 Power 50 Hours* Playtime, Dual Pairing T",
+          "price": "₹664",
+          "original_price": "₹3,850",
+          "discount": "82% off",
+          "delivery": "Free delivery",
+          "rating": "3.4",
+          "category": "electronics",
+          "ratings_count": "1,362 Ratings & 912 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/d/d/s/travel-headphones-neckband-30hr-headset-earphone-earbud-original-imagwffrf5wtsvtc.jpeg?q=70",
+          "product_name": "ROKAVO Travel headphones Neckband 30hr headset earphone",
+          "price": "₹499",
+          "original_price": "₹1,799",
+          "discount": "72% off",
+          "delivery": "Free delivery",
+          "rating": "4.1",
+          "category": "electronics",
+          "ratings_count": "1,362 Ratings & 912 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/u/f/z/g-3-badshah-20-hours-playing-time-fast-charging-bluetooth-original-imaghjnuxshuhfnf.jpeg?q=70",
+          "product_name": "RZG G-3 Badshah 20 Hours Playing Time Fast Charging Blu",
+          "price": "₹1,189",
+          "original_price": "₹5,999",
+          "discount": "80% off",
+          "delivery": "Free delivery",
+          "rating": "4.6",
+          "category": "electronics",
+          "ratings_count": "1,362 Ratings & 912 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/z/o/e/hot-new-neckaband-noise-cancelling-microphone-earphone-38-hr-original-imaggzvjvwbjwzng.jpeg?q=70",
+          "product_name": "ROKAVO Hot New Neckaband Noise Cancelling,Microphone ea",
+          "price": "₹731",
+          "original_price": "₹2,999",
+          "discount": "75% off",
+          "delivery": "Free delivery",
+          "rating": "3.7",
+          "category": "electronics",
+          "ratings_count": "1,362 Ratings & 912 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/b/u/h/new-design-tws-high-end-neckband-wireless-noise-cancelling-in-original-imagvfvag99gvmjj.jpeg?q=70",
+          "product_name": "ZWOLLEX High-Quality HiFi Speaker Magnetic Wireless Blu",
+          "price": "₹499",
+          "original_price": "₹3,850",
+          "discount": "87% off",
+          "delivery": "Free delivery",
+          "rating": "4",
+          "category": "electronics",
+          "ratings_count": "1,362 Ratings & 912 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/m/i/25-hours-playing-time-deep-bass-made-in-india-quillquarry-original-imagtwgdtvy9uufx.jpeg?q=70",
+          "product_name": "QuillQuarry 25 Hours Playing Time | Deep Bass| Made In",
+          "price": "₹1,199",
+          "original_price": "₹4,999",
+          "discount": "76% off",
+          "delivery": "Free delivery",
+          "rating": "4.5",
+          "category": "electronics",
+          "ratings_count": "1,362 Ratings & 912 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/8/e/4/24-hours-music-time-high-bass-wireless-rzg-original-imaghvwgbnstndev.jpeg?q=70",
+          "product_name": "RZG 24 hours music time high bass wireless Bluetooth He",
+          "price": "₹1,104",
+          "original_price": "₹5,999",
+          "discount": "81% off",
+          "delivery": "Free delivery",
+          "rating": "3.9",
+          "category": "electronics",
+          "ratings_count": "1,362 Ratings & 912 Reviews",
+          "quantity": "1"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/n/i/ch-125-dilbar-48-hour-playtime-bluetooth-headphone-neckband-original-imagn2e63qefvjtc.jpeg?q=70",
+          "product_name": "CARRON CH-125 Dilbar - 48 Hour Playtime Bluetooth Headp",
+          "price": "₹403",
+          "original_price": "₹1,999",
+          "discount": "79% off",
+          "delivery": "Free delivery",
+          "rating": "4.2",
+          "category": "electronics",
+          "ratings_count": "1,362 Ratings & 912 Reviews",
+          "quantity": "1"
+        }
+      ]
     },
     {
       "id": "eled10",
@@ -8516,7 +9583,128 @@
       "title": "Best Selling Mobile Speakers",
       "price": "From 499*",
       "brands": "Sony, boAt & more",
-      "electriInnerData": []
+      "electriInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kxdl3m80/speaker/mobile-tablet-speaker/a/w/w/top-sell-mini-home-theatre-speaker-portable-wireless-bluetooth-original-imag9uduwyj7pdss.jpeg?q=70",
+          "name": "ATSolutions ™Top Sell Mini Home Theatre Speaker Portabl...",
+          "rating": 3.6,
+          "price": 506,
+          "original_price": "1,499",
+          "discount": "66% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating_reviews": "12,604 Ratings & 4,014 Reviews",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kfh5ifk0-0/speaker/mobile-tablet-speaker/c/r/z/brand-new-3d-sound-with-rock-beat-blast-stereo-deep-bass-original-imafvxczvzhcxcpp.jpeg?q=70",
+          "name": "F FERONS Wireless rechargeable portable Premium Dj bass...",
+          "rating": 3.9,
+          "price": 369,
+          "original_price": "1,500",
+          "discount": "75% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating_reviews": "1,583 Ratings & 429 Reviews",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kufuikw0/speaker/mobile-tablet-speaker/z/f/r/party-flip-splashproof-10-w-portable-bluetooth-speaker-army-original-imag7k4gykqawdrj.jpeg?q=70",
+          "name": "ATARC 2021 Top Selling Ultra Premium Bluetooth Speaker ...",
+          "rating": 3.9,
+          "price": 492,
+          "original_price": "1,499",
+          "discount": "67% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating_reviews": "1,957 Ratings & 753 Reviews",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/ktbu6q80/speaker/mobile-tablet-speaker/e/z/t/top-brand-super-ultra-mini-boost-wireless-portable-bluetooth-3d-original-imag6pag5pfcbnym.jpeg?q=70",
+          "name": "Borneo Top Selling bkhq-6 10 W Bluetooth Speaker",
+          "rating": 4,
+          "price": 497,
+          "original_price": "1,899",
+          "discount": "73% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating_reviews": "2,360 Ratings & 951 Reviews",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/mobile-tablet-speaker/6/o/3/top-selling-super-bass-portable-wireless-3d-sound-box-subwoofer-original-imaggd8efzxyzm8v.jpeg?q=70",
+          "name": "G2L TOP SELLING Super Bass Portable Wireless 3D Sound B...",
+          "rating": 4.3,
+          "price": 434,
+          "original_price": "1,000",
+          "discount": "56% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating_reviews": "1,156 Ratings & 105 Reviews",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kufuikw0/speaker/mobile-tablet-speaker/p/u/k/bluetooth-speaker-with-in-build-phone-holder-portable-speaker-original-imag7khpy8nhywwy.jpeg?q=70",
+          "name": "ATARC 2021 Best Selling Bluetooth Speaker with In Build...",
+          "rating": 3.9,
+          "price": 503,
+          "original_price": "1,399",
+          "discount": "64% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating_reviews": "1,450 Ratings & 360 Reviews",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/mobile-tablet-speaker/t/2/n/best-buy-mini-boost-ultra-premium-bluetooth-speaker-hd-surround-original-imaghjy52xakvgdh.jpeg?q=70",
+          "name": "CIHLEX Dj Mini Speakers Bass New Arrival Wireless Bluet...",
+          "rating": 3.8,
+          "price": 432,
+          "original_price": "1,999",
+          "discount": "78% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating_reviews": "2,604 Ratings & 982 Reviews",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/krme93k0/speaker/mobile-tablet-speaker/d/n/e/best-selling-tg-113-bluetooth-wireless-splashproof-speaker-with-original-imag5cnzzgh3db6x.jpeg?q=70",
+          "name": "Treadmill TG 113 SPEAKER Latest Bluetooth Speaker 15 W ...",
+          "rating": 4.5,
+          "price": 439,
+          "original_price": "1,200",
+          "discount": "63% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating_reviews": "3,058 Ratings & 1,503 Reviews",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/ktbu6q80/speaker/mobile-tablet-speaker/g/n/5/top-selling-3d-ultra-sound-splashproof-water-resistant-extra-original-imag6zwfuexphbwg.jpeg?q=70",
+          "name": "Borneo Best Popularity High Bass Bluetooth speaker reqh...",
+          "rating": 4.1,
+          "price": 762,
+          "original_price": "2,999",
+          "discount": "74% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating_reviews": "1,157 Ratings & 873 Reviews",
+          "category": "electronics"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kj36ky80-0/speaker/mobile-tablet-speaker/2/n/1/high-quality-dual-horn-extra-bass-portable-wireless-bluetooth-original-imafyqhmzpmzynmm.jpeg?q=70",
+          "name": "Treadmill tg-162 bluetooth speaker (blue) 5 W Bluetooth...",
+          "rating": 3.6,
+          "price": 455,
+          "original_price": "1,100",
+          "discount": "58% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "rating_reviews": "1,362 Ratings & 950 Reviews",
+          "category": "electronics"
+        }
+      ]
     },
     {
       "id": "eled11",
@@ -8524,15 +9712,245 @@
       "title": "Smart Watch Straps",
       "price": "From 189",
       "brands": "Must Have Deal",
-      "electriInnerData": []
+      "electriInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/smart-watch-band-strap/a/2/x/alpine-loop-nylon-bands-straps-compatible-with-watch-49mm-45mm-original-imagtfyuyhkzhfgt.jpeg?q=70",
+          "name": "Geo SPORTS Alpine Loop Nylon Bands/Straps Compatible wi...",
+          "rating": 4,
+          "price": 351,
+          "original_price": "3,999",
+          "discount": "91% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,260 Ratings & 957 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kiqbma80-0/smart-watch-band-strap/2/r/t/soft-silicon-replacement-brand-strap-for-mi-band-5-pack-of-3-original-imafygm6tzfynrdk.jpeg?q=70",
+          "name": "Like Star Soft Silicon Replacement Brand For Mi Band 5 ...",
+          "rating": 4.1,
+          "price": 189,
+          "original_price": "1,299",
+          "discount": "85% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "5,690 Ratings & 3,289 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/smart-watch-band-strap/s/i/m/silicone-smart-band-strap-for-mi-band-3-mi-band-4-with-plain-original-imaghxp9gm8hjq46.jpeg?q=70",
+          "name": "Microcart Silicone Strap for models Xiaomi Mi Band 4 an...",
+          "rating": 4.2,
+          "price": 149,
+          "original_price": 999,
+          "discount": "85% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,750 Ratings & 106 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/smart-watch-band-strap/r/q/e/19mm-vintage-strap-for-boat-storm-1-3-noise-colorfit-pro-2-pulse-original-imaghzyw5venyzpf.jpeg?q=70",
+          "name": "TECHWIND 19MM Vintage Silicon Belt for BOAT STORM, NOIS...",
+          "rating": 4,
+          "price": 250,
+          "original_price": 809,
+          "discount": "69% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "3,058 Ratings & 1,059 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kl5hh8w0/smart-watch-band-strap/g/5/j/nylon-sport-loop-replacment-band-strap-for-apple-watch-42mm-44mm-original-imagycguhhr5gpvd.jpeg?q=70",
+          "name": "MIFKRT Nylon Sport Loop Replacment Band Strap for Apple...",
+          "rating": 4,
+          "price": 265,
+          "original_price": "1,399",
+          "discount": "81% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "6,304 Ratings & 2,390 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/smart-watch-band-strap/i/y/l/soft-silicone-smartwatch-strap-compatible-only-for-redmi-watch-2-original-imagjvmsbfu94gzp.jpeg?q=70",
+          "name": "YDOXTON Soft Silicone Compatible only for Redmi Watch 2...",
+          "rating": 3.9,
+          "price": 200,
+          "original_price": 699,
+          "discount": "71% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,950 Ratings & 753 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/smart-watch-band-strap/n/q/3/watch-ultra-bands-49mm-45mm-44mm-42mm-sports-loop-smart-band-original-imagxa2g9qkvy5ef.jpeg?q=70",
+          "name": "DZIRE Watch Ultra Bands 49mm 45mm 44mm 42mm Sports loop...",
+          "rating": 3.7,
+          "price": 313,
+          "original_price": 999,
+          "discount": "68% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,690 Ratings & 593 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/smart-watch-band-strap/8/d/n/alpine-loop-nylon-band-compatible-with-apple-watch-band-49mm-original-imagsyhn8fpycvuc.jpeg?q=70",
+          "name": "Cheetah Alpine Loop Nylon Band Compatible with Apple Wa...",
+          "rating": 3.5,
+          "price": 257,
+          "original_price": "1,999",
+          "discount": "87% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "1,993 Ratings & 739 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/smart-watch-band-strap/2/v/s/alpine-loop-nylon-bands-straps-compatible-with-watch-49mm-45mm-original-imagzkrwnu63z3ff.jpeg?q=70",
+          "name": "DARKFIT Alpine Loop Nylon Bands/ Compatible with 49mm 4...",
+          "rating": 4.1,
+          "price": 313,
+          "original_price": "1,799",
+          "discount": "82% off",
+          "delivery_time": "Free delivery",
+          "quantity": 1,
+          "category": "electronics",
+          "rating_reviews": "3,105 Ratings & 905 Reviews"
+        }
+      ]
     },
     {
       "id": "eled12",
       "image": "https://rukminim2.flixcart.com/image/200/200/kbtp0280/speaker/soundbar/6/e/h/hw-t42e-xl-samsung-original-imaft2x2auj69ah6.jpeg?q=70",
-      "title": "Best Of  Soundbars",
+      "title": "Best Of Soundbars",
       "price": "Shop Now",
       "brands": "Samsung, boAt & more",
-      "electriInnerData": []
+      "electriInnerData": [
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/h/t/q/-original-imahyauhvfaa45en.jpeg?q=70",
+          "name": "Boult Bassbox X120 with Subwoofer, 120W Power, 2.1 Channel",
+          "rating": "4.3",
+          "price": "₹5,999",
+          "original_price": "₹11,999",
+          "discount": "50% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics",
+          "quantity": "1",
+          "rating_reviews": "2,360 Ratings & 759 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/r/z/s/-original-imagz9cn93exxyrj.jpeg?q=70",
+          "name": "boAt Aavante Bar 590 with 25W RMS, Dual Passive Radiators",
+          "rating": "4.1",
+          "price": "₹1,999",
+          "original_price": "₹5,990",
+          "discount": "66% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics",
+          "quantity": "1",
+          "rating_reviews": "2,369 Ratings & 850 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/w/x/v/-original-imagtajvnpfwczkp.jpeg?q=70",
+          "name": "Mivi Fort S180 Soundbar With Sub woofer, 180W, Surround",
+          "rating": "4.2",
+          "price": "₹8,999",
+          "original_price": "₹32,499",
+          "discount": "72% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics",
+          "quantity": "1",
+          "rating_reviews": "1,153 Ratings & 412 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/s/4/6/-original-imagz6kn77uzz9t3.jpeg?q=70",
+          "name": "SONY HT-S20R 5.1ch Home Theatre with Dolby Digital, Subwoofer",
+          "rating": "4.4",
+          "price": "₹17,990",
+          "original_price": "₹19,990",
+          "discount": "10% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics",
+          "quantity": "1",
+          "rating_reviews": "2,362 Ratings & 816 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/soundbar/m/h/y/a285-m1-portable-bluetooth-speaker-dynamic-thunder-sound-with-original-imagzfjbayxpbc2g.jpeg?q=70",
+          "name": "3BAAN A285 M1 (PORTABLE BLUETOOTH SPEAKER) Dynamic Thunder",
+          "rating": "3.5",
+          "price": "₹699",
+          "original_price": "₹1,999",
+          "discount": "65% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics",
+          "quantity": "1",
+          "rating_reviews": "1,951 Ratings & 912 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/soundbar/r/g/p/gosurround-945-govo-original-imagwvazjzhfcyhq.jpeg?q=70",
+          "name": "GOVO GOSURROUND 945 | DSP Surround | 5.1 Channel with 6",
+          "rating": "3.7",
+          "price": "₹5,999",
+          "original_price": "₹16,999",
+          "discount": "64% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics",
+          "quantity": "1",
+          "rating_reviews": "3,620 Ratings & 1,058 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/0/w/f/-original-imagkpd9ernxypd3.jpeg?q=70",
+          "name": "ZEBRONICS ZEB-JUKE BAR 100A, Compact with Dual Drivers 6",
+          "rating": "4.1",
+          "price": "₹3,499",
+          "original_price": "₹8,999",
+          "discount": "61% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics",
+          "quantity": "1",
+          "rating_reviews": "1,489 Ratings & 473 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/i/g/m/-original-imagz6kmpym8enq8.jpeg?q=70",
+          "name": "SONY HT-S40R 5.1ch Dolby Audio Home Theatre with Subwoofer",
+          "rating": "4.4",
+          "price": "₹26,990",
+          "original_price": "₹34,990",
+          "discount": "22% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics",
+          "quantity": "1",
+          "rating_reviews": "1,956 Ratings & 893 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/b/1/d/-original-imagqd2dzewdheez.jpeg?q=70",
+          "name": "GOVO GOSURROUND 900 | 200W Bluetooth Soundbar | 2.1 Channel",
+          "rating": "4.4",
+          "price": "₹6,599",
+          "original_price": "₹17,999",
+          "discount": "63% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics",
+          "quantity": "1",
+          "rating_reviews": "5,266 Ratings & 2,212 Reviews"
+        },
+        {
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/soundbar/l/i/z/gosurround-970-govo-original-imagwvazmbhrhrh6.jpeg?q=70",
+          "name": "GOVO GOSURROUND 970 Dolby | 5.1 Channel with 6.5'' Wireless Subwoofer",
+          "rating": "4.2",
+          "price": "₹12,999",
+          "original_price": "₹29,999",
+          "discount": "56% off",
+          "delivery_time": "Free delivery",
+          "category": "electronics",
+          "quantity": "1",
+          "rating_reviews": "6,024 Ratings & 2,369 Reviews"
+        }
+      ]
     }
   ],
   "add-To-Cart-data": [
