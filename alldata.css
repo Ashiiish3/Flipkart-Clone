@@ -125,18 +125,18 @@ figure .filter{
 }
 /* for top deal data */
 .topDeal-box, .tvDeal-box{
-    padding: 11px 0px;
-    margin: 13px;
+    padding: 10px;
+    margin: 8px;
     &:hover{
         box-shadow: 0px 0px 8px 1px rgba(206, 206, 206, 0.521);
     }
 }
-.topDeal-box #topDeal, .tvDeal-box #tvDeal{
+.topDeal-box #topDeal, .tvDeal-box #tvDeal, .furnitData-box #furnitData, .electroData-box #electroData{
     text-decoration: none;
     color: black;
 }
 #topDeal #image-part{
-    width: 290px;
+    width: 280px;
     height: 335px;
     display: flex;
     align-items: center;
@@ -181,15 +181,15 @@ figure .filter{
 }
 /* for tv data */
 .tvDeal-box #tvDeal #image-part{
-    width: 290px;
+    width: 280px;
     height: 335px;
+    padding: 5px 0px;
     display: flex;
     justify-content: center;
     overflow: hidden;
 }
-.tvDeal-box #tvDeal #descInfo{
-    padding: 6px 15px;
-    margin-top: 10px;
+.tvDeal-box #tvDeal #descInfo, .furnitData-box #furnitData #descInfo, .electroData-box #electroData #descInfo{
+    padding: 2px 4px;
     & #name{
         width: 260px;
         white-space: nowrap;
@@ -222,6 +222,37 @@ figure .filter{
         font-size: 13px;
     }
 }
-.tvDeal-box:hover h6{
+.tvDeal-box:hover h6, .furnitData-box:hover h6{
     color: rgba(22, 22, 255, 0.842);
+}
+/* for Furniture data */
+.furnitData-box, .electroData-box{
+    margin: 13px;
+    padding-bottom: 10px;
+    &:hover{
+        box-shadow: 0px 0px 8px 1px rgba(206, 206, 206, 0.521);
+    }
+}
+.furnitData-box #furnitData #image-part{
+    width: 290px;
+    height: 290px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+.furnitData-box #furnitData #image-part img{
+    width: 100%;
+}
+.furnitData-box #furnitData #descInfo, .electroData-box #electroData #descInfo{
+    padding: 2px 15px;
+}
+/* for electronics data */
+.electroData-box #electroData #image-part{
+    width: 290px;
+    height: 290px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
 }

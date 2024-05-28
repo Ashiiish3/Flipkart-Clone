@@ -26,11 +26,17 @@
 .description-container .row .image-box{
     padding: 15px;
     width: 480px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
 }
 .description-container .row .image-box img{
-    height: 450px;
     overflow: hidden;
+}
+.description-container .row .image-box #addCart-image{
+    height: 100%;
 }
 .description-container .row .info-box #brand{
     color: #868686;

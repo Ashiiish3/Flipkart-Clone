@@ -220,18 +220,20 @@ function getFurnitureData(){
     fetch("http://localhost:3000/furniture-data").then((res)=>res.json()).then((furnData)=>multipleFurnCards(furnData)).catch((err)=>console.log(err))
 }
 getFurnitureData()
-function singleFurnCard(image, title, price){
+function singleFurnCard(image, title, price, furniInnerData){
     let div =`
-        <div id="furnitureCard" class="border">
-            <div id="image"><a href=""><img src=${image} alt=""></a></div>
-            <p class="title mb-1 mt-3">${title}</p>
-            <p class="price mb-1">${price}</p>
-        </div>
+        <a href="alldata.html?furniInnerData=${encodeURIComponent(JSON.stringify(furniInnerData))}" class="text-dark text-decoration-none">
+            <div id="furnitureCard" class="border">
+                <div id="image"><img src=${image} alt=""></div>
+                <p class="title mb-1 mt-3">${title}</p>
+                <p class="price mb-1">${price}</p>
+            </div>
+        </a>
     `
     return div
 }
 function multipleFurnCards(furnData){
-    let storeFurnData = furnData.map((el)=>singleFurnCard(el.image, el.title, el.price))
+    let storeFurnData = furnData.map((el)=>singleFurnCard(el.image, el.title, el.price, el.furniInnerData))
     furnitureDataContainer.innerHTML = storeFurnData.join("")
 }
 // furniture data slider
@@ -265,18 +267,20 @@ function getEleData(){
     fetch("http://localhost:3000/electronic-data").then((res)=>res.json()).then((electroData)=>multipleEleCards(electroData)).catch((err)=>console.log(err))
 }
 getEleData()
-function singleElectroCard(image, title, price){
+function singleElectroCard(image, title, price, electriInnerData){
     let div =`
-        <div id="eletronicsCard" class="border">
-            <div id="image"><a href=""><img src=${image} alt=""></a></div>
-            <p class="title mb-1 mt-3">${title}</p>
-            <p class="price mb-1">${price}</p>
-        </div>
+        <a href="alldata.html?electriInnerData=${encodeURIComponent(JSON.stringify(electriInnerData))}" class="text-dark text-decoration-none">
+            <div id="eletronicsCard" class="border">
+                <div id="image"><img src=${image} alt=""></div>
+                <p class="title mb-1 mt-3">${title}</p>
+                <p class="price mb-1">${price}</p>
+            </div>
+        </a>
     `
     return div
 }
 function multipleEleCards(eletroData){
-    let storeEletroData = eletroData.map((el)=>singleElectroCard(el.image, el.title, el.price))
+    let storeEletroData = eletroData.map((el)=>singleElectroCard(el.image, el.title, el.price, el.electriInnerData))
     electronicsDataContainer.innerHTML = storeEletroData.join("")
 }
 // electronics data slider

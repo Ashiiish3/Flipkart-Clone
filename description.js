@@ -1,5 +1,4 @@
 const params = new URLSearchParams(window.location.search)
-console.log(params)
 window.addEventListener("load",()=>{
     let descriptionContainer = document.querySelector(".description-container")
     if(params.has("battery")){
@@ -23,7 +22,7 @@ window.addEventListener("load",()=>{
         card.innerHTML =`
             <div class="col-lg-5 text-center">
                 <div class="image-box border">
-                    <img src=${image_url} alt="" id="image_url">
+                    <img src=${image_url} alt="" id="addCart-image">
                 </div>
                 <button id="addButton" class="addCardButton">Add To Cart</button>
             </div>
@@ -99,7 +98,7 @@ window.addEventListener("load",()=>{
         `
         descriptionContainer.append(card)
     }
-    if(params.get("category") == "tv & refrigerator"){
+    if(params.get("category") == "tv & refrigerator" || params.get("category") == "furniture & mattresses" || params.get("category") == "electronics"){
         const image_url = params.get("image_url")
         const name = params.get("name")
         const rating = params.get("rating")
@@ -115,7 +114,7 @@ window.addEventListener("load",()=>{
         card.innerHTML =`
             <div class="col-lg-5 text-center">
                 <div class="image-box border">
-                    <img src=${image_url} alt="" id="image_url">
+                    <img src=${image_url} alt="" id="addCart-image">
                 </div>
                 <button id="addButton" class="addCardButton">Add To Cart</button>
             </div>
