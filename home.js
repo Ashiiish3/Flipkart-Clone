@@ -54,7 +54,13 @@ function slidePoint(){
 // phone data fetch
 let phoneSlider = document.querySelector("#phone-slider-container")
 function getPhoneData(){
+    const sliderLink = document.querySelector("#slider-link")
     fetch("http://localhost:3000/phones").then((res)=>res.json()).then((phoneData)=>{
+        document.addEventListener("click", (e)=>{
+            if(e.target.classList.contains("slider-link")){
+                let store = localStorage.setItem("phoneData", JSON.stringify(phoneData))
+            }
+        })
         multiplePhoneCards(phoneData)
     }).catch((err)=>console.log(err))
 }
@@ -103,7 +109,14 @@ phonePrevButton.addEventListener("click", ()=>{
 // top deal data fetch
 let topDealData = document.querySelector("#topDeal-slider-container")
 function getTdData(){
-    fetch("http://localhost:3000/top-deals").then((res)=>res.json()).then((tdData)=>multipleTdCards(tdData)).catch((err)=>console.log(err))
+    fetch("http://localhost:3000/top-deals").then((res)=>res.json()).then((tdData)=>{
+        document.addEventListener("click", (e)=>{
+            if(e.target.classList.contains("slider-links")){
+                let store = localStorage.setItem("phoneData", JSON.stringify(tdData))
+            }
+        })
+        multipleTdCards(tdData)
+    }).catch((err)=>console.log(err))
 }
 getTdData()
 function singletdCard(image, brand, discount, dealInnerData){
@@ -150,15 +163,22 @@ topDealPrevButton.addEventListener("click", ()=>{
 // fashion data / tv data fetch
 let fashionContainer = document.querySelector("#fashionSeller-slider-container")
 function getFashionData(){
-    fetch("http://localhost:3000/fashion-data").then((res)=>res.json()).then((fashionData)=>multipleFashionCards(fashionData)).catch((err)=>console.log(err))
+    fetch("http://localhost:3000/fashion-data").then((res)=>res.json()).then((fashionData)=>{
+        document.addEventListener("click", (e)=>{
+            if(e.target.classList.contains("tv-slider-links")){
+                let store = localStorage.setItem("phoneData", JSON.stringify(fashionData))
+            }
+        })
+        multipleFashionCards(fashionData)
+    }).catch((err)=>console.log(err))
 }
 getFashionData()
-function singleFashionCard(image, name, discount, tvInnderData){
+function singleFashionCard(image, title, discount, tvInnderData){
     let div = `
         <a href="alldata.html?tvInnderData=${encodeURIComponent(JSON.stringify(tvInnderData))}" class="text-dark text-decoration-none">
             <div id="fashionCard" class="border">
                 <div id="image"><img src=${image} alt=""></div>
-                <p class="brand mb-1 mt-3">${name}</p>
+                <p class="brand mb-1 mt-3">${title}</p>
                 <p class="discount mb-1">${discount}</p>
             </div>
         </a>
@@ -166,7 +186,7 @@ function singleFashionCard(image, name, discount, tvInnderData){
     return div;
 }
 function multipleFashionCards(fashionData){
-    let storeFashionData = fashionData.map((el)=>singleFashionCard(el.image, el.name, el.discount, el.tvInnderData))
+    let storeFashionData = fashionData.map((el)=>singleFashionCard(el.image, el.title, el.discount, el.tvInnderData))
     fashionContainer.innerHTML = storeFashionData.join("")
 }
 // fashion data / tv data slider
@@ -217,7 +237,14 @@ function multipleCricketCards(cricketData){
 // fetch furniture data
 let furnitureDataContainer = document.querySelector("#furniture-slider-container")
 function getFurnitureData(){
-    fetch("http://localhost:3000/furniture-data").then((res)=>res.json()).then((furnData)=>multipleFurnCards(furnData)).catch((err)=>console.log(err))
+    fetch("http://localhost:3000/furniture-data").then((res)=>res.json()).then((furnData)=>{
+        document.addEventListener("click", (e)=>{
+            if(e.target.classList.contains("furni-slider-links")){
+                let store = localStorage.setItem("phoneData", JSON.stringify(furnData))
+            }
+        })
+        multipleFurnCards(furnData)
+    }).catch((err)=>console.log(err))
 }
 getFurnitureData()
 function singleFurnCard(image, title, price, furniInnerData){

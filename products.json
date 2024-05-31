@@ -4151,7 +4151,7 @@
     {
       "id": "tv1",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/refrigerator-new/h/y/t/-original-imagwnjnez3fhghk.jpeg?q=70",
-      "name": "Samsung Refrigerator",
+      "title": "Samsung Refrigerator",
       "price": "12,690",
       "discount": "60-70% Off",
       "tvInnderData": [
@@ -4280,7 +4280,7 @@
     {
       "id": "tv3",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/refrigerator-new/j/w/o/-original-imagzvf2zhucgrwz.jpeg?q=70",
-      "name": "Marq Refrigerator",
+      "title": "Marq Refrigerator",
       "price": "8,999",
       "discount": "50-60% Off",
       "tvInnderData": [
@@ -4397,7 +4397,7 @@
     {
       "id": "tv4",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/washing-machine-new/0/q/e/-original-imags7pzrywzxc2z.jpeg?q=70",
-      "name": "Semi Automatic Washing Machines",
+      "title": "Semi Automatic Washing Machines",
       "price": "9,636",
       "discount": "55-65% Off",
       "tvInnderData": [
@@ -4638,7 +4638,7 @@
     {
       "id": "tv5",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/washing-machine-new/l/u/m/-original-imagtfytsnggwzzm.jpeg?q=70",
-      "name": "Front Load Washing Machines",
+      "title": "Front Load Washing Machines",
       "price": "17,169",
       "discount": "60-70% Off",
       "tvInnderData": [
@@ -4863,7 +4863,7 @@
     {
       "id": "tv6",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/refrigerator-new/q/q/v/-original-imagwnkf8hamvbhu.jpeg?q=70",
-      "name": "Single Door Refrigerator",
+      "title": "Single Door Refrigerator",
       "price": "9,990",
       "discount": "40-50% Off",
       "tvInnderData": [
@@ -5076,7 +5076,7 @@
     {
       "id": "tv7",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/refrigerator-new/f/9/d/-original-imahy2ztqf2evbgr.jpeg?q=70",
-      "name": "Double Door Refrigerator",
+      "title": "Double Door Refrigerator",
       "price": "16,129",
       "discount": "35-45% Off",
       "tvInnderData": [
@@ -5229,7 +5229,7 @@
     {
       "id": "tv8",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/refrigerator-new/v/i/v/272jf3mtbg-1485-3-2022-56-motorola-680-600-original-imaggvvsy3shhjya.jpeg?q=70",
-      "name": "MOTOROLA 271 L Frost Free Double Door 3 Star Refrigerator",
+      "title": "MOTOROLA 271 L Frost Free Double Door 3 Star Refrigerator",
       "price": "23,990",
       "discount": "50-70% Off",
       "tvInnderData": [
@@ -5310,7 +5310,7 @@
     {
       "id": "tv9",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/refrigerator-new/q/u/y/-original-imahyg9hftgrgcyb.jpeg?q=70",
-      "name": "Haier Refrigerator",
+      "title": "Haier Refrigerator",
       "price": "11,250",
       "discount": "40-50% Off",
       "tvInnderData": [
@@ -5403,7 +5403,7 @@
     {
       "id": "tv10",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/refrigerator-new/8/x/t/-original-imagwnjz3dnknunt.jpeg?q=70",
-      "name": "Energy Efficient Refrigerator",
+      "title": "Energy Efficient Refrigerator",
       "price": "14,590",
       "discount": "47-57% Off",
       "tvInnderData": [
@@ -5508,7 +5508,7 @@
     {
       "id": "tv11",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/washing-machine-new/t/b/r/-original-imahyg4586se4brr.jpeg?q=70",
-      "name": "Top Load Washing Machines",
+      "title": "Top Load Washing Machines",
       "price": "13,650",
       "discount": "25-30% Off",
       "tvInnderData": [
@@ -9943,17 +9943,6 @@
   ],
   "add-To-Cart-data": [
     {
-      "id": "e0e7",
-      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/data-cable/usb-type-c-cable/k/e/a/65w-10w-6-5a-vooc-warp-dash-dash-supervooc-superdart-charger-original-imagzzgxhjqzyxhn.jpeg?q=70",
-      "name": "ULTRADART USB Type C Cable 6.5 A 1 m OEM 65W-10W/WARP/D...",
-      "ratings_reviews": "1,950 Ratings & 222 Reviews",
-      "original_price": "999",
-      "price": "229",
-      "discount": "77% off",
-      "delivery_time": "Free delivery",
-      "quantity": "1"
-    },
-    {
       "id": "0d9d",
       "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/data-cable/type-c/7/x/b/apple-mfi-certified-i-phone-fast-charger-cable-usb-c-power-cord-original-imahye5czqjh5vfr.jpeg?q=70",
       "name": "QIBOX Type C 6 A 1 m [Apple MFi Certified] i_Phone Fast...",
@@ -10005,6 +9994,28 @@
       "original_price": "6,999",
       "price": "6,649",
       "discount": "5% off",
+      "delivery_time": "Free delivery",
+      "quantity": "1"
+    },
+    {
+      "id": "168e",
+      "image_url": "https://rukminim2.flixcart.com/image/312/312/j9u8lu80/mobile/q/v/h/motorola-moto-x4-pa8t0002in-original-imaezk6g4pazpe4r.jpeg?q=70",
+      "name": "MOTOROLA Moto X4 (Super Black, 32 GB)",
+      "ratings_reviews": "4,452 Ratings & 651 Reviews",
+      "original_price": "21,999",
+      "price": "13,999",
+      "discount": "21% off",
+      "delivery_time": "Free delivery",
+      "quantity": "1"
+    },
+    {
+      "id": "cccc",
+      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/p/4/2/-original-imagzh27h5csg5ss.jpeg?q=70",
+      "name": "TCL 7.5 kg 5 Star with Extra Powerful Motor Lint Filter, Fast Dry Semi Automatic Top Load Washing Mach...",
+      "ratings_reviews": "6 Ratings & 0 Reviews",
+      "original_price": "17,990",
+      "price": "10,499",
+      "discount": "41% off",
       "delivery_time": "Free delivery",
       "quantity": "1"
     }
