@@ -11,12 +11,11 @@ body{
     width: 83%;
     background-color: white;
     margin: 8px auto;
-    padding: 10px 0px;
 }
 #category .item{
     width: 70%;
     margin: auto;
-    padding: 0%;
+    padding: 10px 0px;
     & a{
         text-decoration: none;
         color: black;
@@ -127,6 +126,14 @@ body{
 .furniture-container #furniture-slider-container #furnitureCard,
 .electro-container #electro-slider-container #eletronicsCard{
     padding: 5px;
+    height: 300px;
+    & p{
+        white-space: nowrap;
+        width: 180px;
+        margin: auto;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
 }
 .slider-container #phone-slider-container #phoneCard #image,
 .deal-slider #topDeal-slider-container #tdCard #image,
@@ -205,4 +212,39 @@ body{
 }
 .cricket-container picture img{
     width: 125%;
+}
+/* media query for mobile phone */
+@media(min-width: 300px) and (max-width: 480px){
+    #category, .slider, .slider-container, .live-deal, .live-deal-2, .deal-slider, .fashion-slider, .cricket-container, .furniture-container, .electro-container{
+        width: 100%;
+    }
+    #category .item{
+        width: 100%;
+        overflow: auto;
+        padding: 10px 5px 10px 0px;
+        & li{
+            margin: 0px 5px;
+            & h6{
+                font-size: 10px;
+            }
+        }
+    }
+    .live-deal, .live-deal-2{
+        grid-template-columns: repeat(1, 1fr);
+        & .offer-card{
+            width: 100%;
+            & img{
+                width: 100%;
+            }
+        }
+    }
+    footer .footer{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media(min-width: 481px) and (max-width: 768px){
+
+}
+@media(min-width: 769px) and (max-width: 1024px){
+
 }

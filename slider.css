@@ -2,6 +2,7 @@
     background-color: white;
     width: 70%;
     margin: 13px auto;
+    padding-bottom: 10px;
 }
 .product-container .all-products{
     display: grid;
@@ -10,8 +11,18 @@
     row-gap: 40px;
     column-gap: 60px;
 }
+.product-container .product-header{
+    text-align: center;
+    padding: 20px;
+    & h1{
+        font-size: 25px;
+    }
+}
 .product-container .product-box{
     & .title{
         font-weight: 600;
+    }
+    & #image{
+        height: 200px;
     }
 }

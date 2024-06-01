@@ -5683,6 +5683,12 @@
       "image": "https://rukminim2.flixcart.com/image/200/200/kfh5ifk0-0/speaker/mobile-tablet-speaker/c/r/z/brand-new-3d-sound-with-rock-beat-blast-stereo-deep-bass-original-imafvxczvzhcxcpp.jpeg?q=70",
       "category": "Speakers",
       "discount": "Min. 50% Off"
+    },
+    {
+      "id": "crid13",
+      "image": "https://rukminim2.flixcart.com/image/200/200/acoustic-guitar/e/y/y/dd-380c-blk-jixing-original-imaeff94e9tczafp.jpeg?q=70",
+      "category": "String Instruments",
+      "discount": "Up to 70% Off"
     }
   ],
   "furniture-data": [
@@ -9943,28 +9949,6 @@
   ],
   "add-To-Cart-data": [
     {
-      "id": "0d9d",
-      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/data-cable/type-c/7/x/b/apple-mfi-certified-i-phone-fast-charger-cable-usb-c-power-cord-original-imahye5czqjh5vfr.jpeg?q=70",
-      "name": "QIBOX Type C 6 A 1 m [Apple MFi Certified] i_Phone Fast...",
-      "ratings_reviews": "1,110 Ratings & 502 Reviews",
-      "original_price": "1999",
-      "price": "297",
-      "discount": "85% off",
-      "delivery_time": "Free delivery",
-      "quantity": "1"
-    },
-    {
-      "id": "d92a",
-      "image_url": "https://rukminim2.flixcart.com/image/612/612/ktx9si80/smart-lighting/c/e/2/12-smart-rgb-led-bluetooth-music-light-bulb-gold-bgmsat01-led-original-imag75uhmjtz3ukc.jpeg?q=70",
-      "name": "wahh Smart LED Music Light Bulb Speaker Bluetooth Remot...",
-      "ratings_reviews": "1,950 Ratings & 560 Reviews",
-      "original_price": "1,499",
-      "price": "230",
-      "discount": "84% off",
-      "delivery_time": "Free delivery",
-      "quantity": "1"
-    },
-    {
       "id": "34e7",
       "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/a/h/v/xl-dnm00009013-street-9-original-imagt3hmg6nu2vkm.jpeg?q=70",
       "name": "Women Regular Mid Rise Blue Jeans",
@@ -10005,17 +9989,6 @@
       "original_price": "21,999",
       "price": "13,999",
       "discount": "21% off",
-      "delivery_time": "Free delivery",
-      "quantity": "1"
-    },
-    {
-      "id": "cccc",
-      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/p/4/2/-original-imagzh27h5csg5ss.jpeg?q=70",
-      "name": "TCL 7.5 kg 5 Star with Extra Powerful Motor Lint Filter, Fast Dry Semi Automatic Top Load Washing Mach...",
-      "ratings_reviews": "6 Ratings & 0 Reviews",
-      "original_price": "17,990",
-      "price": "10,499",
-      "discount": "41% off",
       "delivery_time": "Free delivery",
       "quantity": "1"
     }

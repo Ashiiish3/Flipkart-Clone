@@ -220,6 +220,16 @@ function getCricketData(){
     fetch("http://localhost:3000/cricket-data?_limit=4").then((res)=>res.json()).then((cricketData)=>multipleCricketCards(cricketData)).catch((err)=>console.log(err))
 }
 getCricketData()
+function getAllCricketData(){
+    fetch("http://localhost:3000/cricket-data").then((res)=>res.json()).then((allcrickData)=>{
+        document.addEventListener("click", (e)=>{
+            if(e.target.classList.contains("cri-slider-links")){
+                let store = localStorage.setItem("phoneData", JSON.stringify(allcrickData))
+            }
+        })
+    })
+}
+getAllCricketData()
 function singleCricketCard(image, category, discount){
     let div = `
         <div id="cricketCard" class="border">
@@ -291,7 +301,14 @@ furniturePrevButton.addEventListener("click", ()=>{
 // fetch electronics data
 let electronicsDataContainer = document.querySelector("#electro-slider-container")
 function getEleData(){
-    fetch("http://localhost:3000/electronic-data").then((res)=>res.json()).then((electroData)=>multipleEleCards(electroData)).catch((err)=>console.log(err))
+    fetch("http://localhost:3000/electronic-data").then((res)=>res.json()).then((electroData)=>{
+        document.addEventListener("click", (e)=>{
+            if(e.target.classList.contains("ele-slider-links")){
+                let store = localStorage.setItem("phoneData", JSON.stringify(electroData))
+            }
+        })
+        multipleEleCards(electroData)
+    }).catch((err)=>console.log(err))
 }
 getEleData()
 function singleElectroCard(image, title, price, electriInnerData){

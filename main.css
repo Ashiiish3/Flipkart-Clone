@@ -13,6 +13,8 @@ body{
 .header, .header .container{
     height: 65px;
     z-index: 100;
+    display: flex;
+    justify-content: space-between;
 }
 .header .flipkart-logo{
     width: 100px;
@@ -105,4 +107,36 @@ footer .footer ul li{
 footer .footer .contact-info p{
     color: white;
     font-size: 14px;
+}
+/* media query for mobile phone */
+@media(min-width: 300px) and (max-width: 480px){
+    .header{
+        height: 95px;
+    }
+    .header .container{
+        height: 50px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        & .flipkart-logo{
+            grid-column: 1 / span 2;
+        }
+        & .cart-button{
+            grid-column: none;
+        }
+    }
+    .header .seller-button, .header .cart-name{
+        display: none;
+    }
+    .header .flipkart-search{
+        width: 93%;
+        display: none;
+        position: absolute;
+        top: 45px;
+    }
+    footer .footer{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    footer .footer ul{
+        padding-left: 0%;
+    }
 }
