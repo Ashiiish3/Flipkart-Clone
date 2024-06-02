@@ -20,7 +20,7 @@ function singleCard(image_url, name, ratings_reviews, original_price, price, dis
                 <div id="addCartTitleSection">
                     <div id="titleInfo">
                         <h5 id="name" class="mb-1">${name}</h5>
-                        <p id="ram" class="mb-2">${ratings_reviews}</p>
+                        <p id="ram" class="mb-lg-2 mb-0">${ratings_reviews}</p>
                         <span id="original_price" class="me-2">₹${original_price}</span>
                         <span id="price" class="me-2">₹${price}</span>
                         <span id="discount">${discount}</span>

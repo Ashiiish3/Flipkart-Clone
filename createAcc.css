@@ -1,0 +1,75 @@
+section{
+    width: 45%;
+    margin: 15px auto;
+    display: flex;
+    background-color: white;
+}
+section .signup-image{
+    width: 40%;
+    background-image: url("Public/images/login\ bg\ image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 30px;
+}
+section .signup-image h2{
+    color: white;
+    font-size: 29px;
+}
+section .signup-image p{
+    margin-top: 20px;
+    color: rgb(211, 211, 211);
+    font-weight: 400;
+    font-size: 18px;
+}
+section .signup-content{
+    padding: 50px 30px;
+    width: 60%;
+    height: 600px;
+    & input{
+        display: block;
+        width: 100%;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid rgb(189, 189, 189);
+    }
+    & .button-content{
+        margin-top: 40px;
+        & button{
+            display: block;
+            border: none;
+            width: 100%;
+            padding: 12px 0px;
+            font-weight: 500;
+        }
+        & .continue-btn{
+            background-color: #fb641b;
+            color: white;
+            text-transform: uppercase;
+            box-shadow: 0px 2px 5px 0px gainsboro;
+        }
+        & .login-btn{
+            margin-top: 15px;
+            color: rgba(0, 0, 255, 0.842);
+            background-color: white;
+            box-shadow: 0px 2px 5px 0px rgb(202, 202, 202);
+        }
+    }
+}
+section .signup-content .otp-section{
+    margin-top: 30px;
+    display: none;
+    & .otp-header{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 15px;
+    }
+}
+section .signup-content .otp-section .otp-header .otp-email{
+    font-size: 15px;
+}
+section .signup-content .otp-section .otp-header .resend-btn{
+    color: rgba(0, 0, 255, 0.842);
+    font-weight: 500;
+    font-size: 15px;
+}

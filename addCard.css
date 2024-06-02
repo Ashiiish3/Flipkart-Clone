@@ -104,11 +104,53 @@
     }
     .addCart-container #addCartTitleSection{
         grid-template-columns: repeat(1, 1fr);
+        & #name{
+            font-weight: 500;
+            font-size: 13px;
+            white-space: nowrap;
+            width: 150px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        & #ram{
+            font-size: 11px;
+        }
+        & #original_price{
+            font-size: 13px;
+        }
+        & #price{
+            font-size: 15px;
+        }
+        & #discount{
+            font-weight: 500;
+            display: block;
+        }
     }
     .addCart-container .addCart-box #addCart-image{
         width: 100%;
     }
     .addCart-container .addCart-box #addCart-image img{
         width: 60%;
+    }
+    .addCart-container .addCart-total{
+        margin-top: 8px;
+        padding: 10px 15px;
+        & h5{
+            font-size: 17px;
+        }
+        & #totalAmount{
+            font-size: 17px;
+        }
+    }
+    .addCart-container .price-delete button{
+        font-size: 15px;
+    }
+    .addCart-container .price-input .decreaseQuantity,
+    .addCart-container .price-input .increaseQuantity{
+        height: 25px;
+        width: 25px;
+    }
+    .addCart-container .price-input #quntValue{
+        width: 38px;
     }
 }
