@@ -9949,39 +9949,6 @@
   ],
   "add-To-Cart-data": [
     {
-      "id": "34e7",
-      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/a/h/v/xl-dnm00009013-street-9-original-imagt3hmg6nu2vkm.jpeg?q=70",
-      "name": "Women Regular Mid Rise Blue Jeans",
-      "ratings_reviews": "43,710 Ratings & 5,140 Reviews",
-      "original_price": "2,199",
-      "price": "550",
-      "discount": "74% off",
-      "delivery_time": "Free delivery",
-      "quantity": "1"
-    },
-    {
-      "id": "356e",
-      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/q/6/-original-imags487ftf3g2s7.jpeg?q=70",
-      "name": "realme C53 (Champion Black, 128 GB)",
-      "ratings_reviews": "1,21,750 Ratings & 5,636 Reviews",
-      "original_price": "13,999",
-      "price": "9,999",
-      "discount": "28% off",
-      "delivery_time": "Free delivery by 22nd May",
-      "quantity": "1"
-    },
-    {
-      "id": "6427",
-      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/5/s/10-210434-bbk-us-11-11-skechers-black-original-imagrmgycenmdazd.jpeg?q=70",
-      "name": "480 Running Shoes For Men",
-      "ratings_reviews": "43,710 Ratings & 5,140 Reviews",
-      "original_price": "6,999",
-      "price": "6,649",
-      "discount": "5% off",
-      "delivery_time": "Free delivery",
-      "quantity": "1"
-    },
-    {
       "id": "168e",
       "image_url": "https://rukminim2.flixcart.com/image/312/312/j9u8lu80/mobile/q/v/h/motorola-moto-x4-pa8t0002in-original-imaezk6g4pazpe4r.jpeg?q=70",
       "name": "MOTOROLA Moto X4 (Super Black, 32 GB)",
@@ -9989,6 +9956,50 @@
       "original_price": "21,999",
       "price": "13,999",
       "discount": "21% off",
+      "delivery_time": "Free delivery",
+      "quantity": "1"
+    },
+    {
+      "id": "6baa",
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/portable-laptop-table/9/g/f/28-pu-mdf-medium-density-fiber-sh-ldc-1-savya-home-40-brown-original-imagwyrzjs99kgzf.jpeg?q=70",
+      "name": "SAVYA HOME Wooden Foldable Laptop Table (Brown) Wood Po...",
+      "ratings_reviews": "4,095 Ratings & 1,615 Reviews",
+      "original_price": "1,499",
+      "price": "689",
+      "discount": "54% off",
+      "delivery_time": "Free delivery",
+      "quantity": "1"
+    },
+    {
+      "id": "b3e0",
+      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/h/n/z/-original-imahyvxff6hwxz98.jpeg?q=70",
+      "name": "Whirlpool 11 kg Dynamix Detergent Dispenser Semi Automatic Top Load Washing Machine Black, Grey",
+      "ratings_reviews": "13,232 Ratings & 1,057 Reviews",
+      "original_price": "21,950",
+      "price": "17,840",
+      "discount": "18% off",
+      "delivery_time": "Free delivery",
+      "quantity": "1"
+    },
+    {
+      "id": "ee8c",
+      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/h/n/z/-original-imahyvxff6hwxz98.jpeg?q=70",
+      "name": "Whirlpool 11 kg Dynamix Detergent Dispenser Semi Automatic Top Load Washing Machine Black, Grey",
+      "ratings_reviews": "13,232 Ratings & 1,057 Reviews",
+      "original_price": "21,950",
+      "price": "17,840",
+      "discount": "18% off",
+      "delivery_time": "Free delivery",
+      "quantity": "1"
+    },
+    {
+      "id": "0640",
+      "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/h/n/z/-original-imahyvxff6hwxz98.jpeg?q=70",
+      "name": "Whirlpool 11 kg Dynamix Detergent Dispenser Semi Automatic Top Load Washing Machine Black, Grey",
+      "ratings_reviews": "13,232 Ratings & 1,057 Reviews",
+      "original_price": "21,950",
+      "price": "17,840",
+      "discount": "18% off",
       "delivery_time": "Free delivery",
       "quantity": "1"
     }

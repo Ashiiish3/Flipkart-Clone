@@ -124,6 +124,9 @@ footer .footer .contact-info p{
             grid-column: none;
         }
     }
+    .header .cart-button .badge{
+        left: 11px;
+    }
     .header .seller-button, .header .cart-name{
         display: none;
     }
@@ -132,6 +135,12 @@ footer .footer .contact-info p{
         display: none;
         position: absolute;
         top: 45px;
+        & input{
+            margin-bottom: 3px;
+        }
+        & input::placeholder{
+            font-size: 13px;
+        }
     }
     footer .footer{
         grid-template-columns: repeat(1, 1fr);

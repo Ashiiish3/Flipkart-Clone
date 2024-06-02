@@ -93,3 +93,22 @@
         font-weight: 600;
     }
 }
+/* media query for mobile phone */
+@media(min-width: 300px) and (max-width: 480px){
+    .addCart-container{
+        width: 100%;
+        margin: 8px auto;
+    }
+    .addCart-container .addCart-header{
+        margin-bottom: 8px;
+    }
+    .addCart-container #addCartTitleSection{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .addCart-container .addCart-box #addCart-image{
+        width: 100%;
+    }
+    .addCart-container .addCart-box #addCart-image img{
+        width: 60%;
+    }
+}

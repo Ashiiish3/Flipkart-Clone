@@ -26,3 +26,36 @@
         height: 200px;
     }
 }
+/* media query for mobile phone */
+@media(min-width: 300px) and (max-width: 480px){
+    .product-container{
+        width: 100%;
+    }
+    .product-container .product-header{
+        padding: 20px 0px 0px 0px;
+        & h1{
+            font-size: 18px;
+            margin-bottom: 0%;
+        }
+        & p{
+            font-size: 14px;
+        }
+    }
+    .product-container .all-products{
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 20px;
+        column-gap: 10px;
+    }
+    .product-container .product-box{
+        & .title{
+            font-size: 14px;
+        }
+        & #image{
+            height: 120px;
+            overflow: hidden;
+            & img{
+                height: 100%;
+            }
+        }
+    }
+}

@@ -256,3 +256,58 @@ figure .filter{
     justify-content: center;
     overflow: hidden;
 }
+/* media query for mobile phone */
+@media(min-width: 300px) and (max-width: 480px){
+    main{
+        width: 100%;
+    }
+    main aside{
+        display: none;
+    }
+    main figure{
+        padding: 8px;
+    }
+    /* for phone item data */
+    main figure #allDataBox #phoneItem{
+        flex-wrap: wrap;
+        & #descriptionInfo{
+            flex-wrap: wrap;
+            & ul{
+                display: none;
+            }
+            & #name{
+                margin-top: 10px;
+                font-size: 15px;
+            }
+        }
+    }
+    main figure #allDataBox #phoneItem #descriptionInfo #priceInfo #price{
+        margin-top: 10px;
+        margin-bottom: 0%;
+    }
+    main figure #allDataBox #phoneItem #descriptionInfo #priceInfo #delivery_time{
+        margin-bottom: 0%;
+    }
+    main figure #allDataBox #phoneItem #descriptionInfo #productInfo,
+    main figure #allDataBox #phoneItem #descriptionInfo #priceInfo{
+        width: 100%;
+    }
+    /* for top deal data */
+    .topDeal-box, .tvDeal-box, .furnitData-box, .electroData-box{
+        padding: 0%;
+        margin: 0%;
+    }
+    .tvDeal-box #descInfo{
+        margin-bottom: 10px;
+    }
+    /* for furniture data */
+    .furnitData-box #furnitData #image-part,
+    .electroData-box #electroData #image-part{
+        padding: 5px 8px 5px 5px;
+    }
+    .furnitData-box #furnitData #descInfo,
+    .electroData-box #electroData #descInfo{
+        padding: 0px 7px;
+        margin-bottom: 10px;
+    }
+}

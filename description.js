@@ -26,7 +26,7 @@ window.addEventListener("load",()=>{
                 </div>
                 <button id="addButton" class="addCardButton">Add To Cart</button>
             </div>
-            <div class="col-lg-7 px-4 ms-2 info-box">
+            <div class="col-lg-7 px-lg-4 ms-lg-2 info-box">
                 <h5 id="name" class="mb-1">${name}</h5>
                 <span id="rating">${rating} ★</span>
                 <span id="ratings_reviews">${ratings_reviews}</span>
@@ -75,7 +75,7 @@ window.addEventListener("load",()=>{
                 </div>
                 <button id="addButton" class="addCardButton">Add To Cart</button>
             </div>
-            <div class="col-lg-7 px-4 ms-2 info-box">
+            <div class="col-lg-7 px-lg-4 ms-lg-2 info-box">
                 <h6 id="brand" class="mb-0">${brand}</h6>
                 <h5 id="name" class="mb-1">${name}</h5>
                 <span id="rating">${rating} ★</span>
@@ -118,7 +118,7 @@ window.addEventListener("load",()=>{
                 </div>
                 <button id="addButton" class="addCardButton">Add To Cart</button>
             </div>
-            <div class="col-lg-7 px-4 ms-2 info-box">
+            <div class="col-lg-7 px-lg-4 ms-lg-2 info-box">
                 <h5 id="name" class="mb-1">${name}</h5>
                 <span id="rating">${rating} ★</span>
                 <span id="ratings_reviews">${ratings_reviews}</span>

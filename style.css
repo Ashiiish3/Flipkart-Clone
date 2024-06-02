@@ -238,8 +238,53 @@ body{
             }
         }
     }
-    footer .footer{
-        grid-template-columns: repeat(1, 1fr);
+    .slider{
+        margin: 0px;
+    }
+    .slider .image-slider button{
+        padding: 0px 8px;
+        height: 30px;
+        & i{
+            font-size: 11px;
+            margin-bottom: 7px;
+        }
+    }
+    .slider .image-slider .dots-container{
+        bottom: -3px;
+        & .dots{
+            height: 5px;
+            width: 5px;
+            margin: 0px;
+        }
+    }
+    .slider-container{
+        flex-wrap: wrap;
+        & picture{
+            width: 100%;
+            text-align: center;
+        }
+    }
+    .slider-container h5, .deal-slider h5, .fashion-slider h5, .cricket-container h5, .furniture-container h5, .electro-container h5{
+        font-size: 15px;
+    }
+    .slider-container .phone-title i, .deal-slider .topDeal-title i, .fashion-slider .fashion-title i, .cricket-container .cricket-title i, .furniture-container .furniture-title i, .electro-container .electro-title i{
+        font-size: 10px;
+        padding: 4px 6px 5px;
+    }
+    .slider-container .phone-slider button,
+    .deal-slider .topDeal-slider button,
+    .fashion-slider .fashionSeller-slider button,
+    .furniture-container .furniture-slider button,
+    .electro-container .electro-slider button{
+        padding: 0px 10px;
+        height: 60px;
+    }
+    .cricket-container{
+        flex-wrap: wrap;
+    }
+    .cricket-container #cricket-data-container{
+        flex-wrap: nowrap;
+        overflow: auto;
     }
 }
 @media(min-width: 481px) and (max-width: 768px){

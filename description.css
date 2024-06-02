@@ -89,3 +89,44 @@
         font-weight: 600;
     }
 }
+/* media query for mobile phone */
+@media(min-width: 300px) and (max-width: 480px){
+    .description-container{
+        width: 100%;
+        margin: 7px auto;
+    }
+    .description-container .row .col-lg-5{
+        height: 320px;
+    }
+    .description-container .row .image-box{
+        width: 100%;
+        height: 250px;
+    }
+    .description-container .row .col-lg-7{
+        margin: 0%;
+        & #brand{
+            font-size: 13px;
+        }
+        & #name{
+            font-size: 16px;
+        }
+    }
+    .description-container .row #ratings_reviews{
+        font-size: 13px;
+    }
+    .description-container .row #rating{
+        font-size: 12px;
+        border-radius: 25px;
+    }
+    .description-container .row #priceInfo{
+        & #price{
+            font-size: 20px;
+        }
+        & #original_price{
+            font-size: 14px;
+        }
+    }
+    .description-container .row ul li{
+        font-size: 14px;
+    }
+}
