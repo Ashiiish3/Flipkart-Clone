@@ -352,3 +352,19 @@ electroPrevButton.addEventListener("click", ()=>{
     electronicsDataContainer.style.scrollBehavior = "smooth"
     electronicsDataContainer.scrollLeft -= scrollDistance
 })
+// fetch grocery data
+function getGroceryData(){
+    const groceryLink = document.querySelector("#grocery-link")
+        fetch("http://localhost:3000/grocery-data").then((res)=>res.json()).then((groceryData)=>{
+            groceryLink.href = `alldata.html?groceryData=${encodeURIComponent(JSON.stringify(groceryData))}`
+            console.log(groceryData)
+        }).catch((err)=>console.log(err))
+}
+getGroceryData()
+// for grocery Data
+// document.addEventListener("click", (event)=>{
+//     if(event.target.classList.contains("grocery-content")){
+//         console.log("ashi")
+        
+//     }
+// })

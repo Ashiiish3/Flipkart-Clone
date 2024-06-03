@@ -98,7 +98,7 @@ window.addEventListener("load",()=>{
         `
         descriptionContainer.append(card)
     }
-    if(params.get("category") == "tv & refrigerator" || params.get("category") == "furniture & mattresses" || params.get("category") == "electronics"){
+    if(params.get("category") == "tv & refrigerator" || params.get("category") == "furniture & mattresses" || params.get("category") == "electronics" || params.get("category") == "grocery"){
         const image_url = params.get("image_url")
         const name = params.get("name")
         const rating = params.get("rating")

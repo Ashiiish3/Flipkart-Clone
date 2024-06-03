@@ -42,7 +42,7 @@ section .signup-content{
             padding: 12px 0px;
             font-weight: 500;
         }
-        & .continue-btn{
+        & #continue-btn{
             background-color: #fb641b;
             color: white;
             text-transform: uppercase;
@@ -68,7 +68,7 @@ section .signup-content .otp-section{
 section .signup-content .otp-section .otp-header .otp-email{
     font-size: 15px;
 }
-section .signup-content .otp-section .otp-header .resend-btn{
+section .signup-content .otp-section .otp-header #resend-btn{
     color: rgba(0, 0, 255, 0.842);
     font-weight: 500;
     font-size: 15px;
