@@ -140,7 +140,7 @@ window.addEventListener("load",()=>{
         `
         descriptionContainer.append(card)
     }
-    if(params.get("category") == "Fashion"){
+    if(params.get("category") == "Fashion" || params.get("category") == "Wheeler"){
         const image_url = params.get("image_url")
         const name = params.get("name")
         const rating = params.get("rating")

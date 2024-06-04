@@ -169,6 +169,14 @@ function getFashionData(){
 
 }
 getFashionData()
+// fetch wheeler data
+function getWheelerData(){
+    fetch("http://localhost:3000/wheeler-data").then((res)=>res.json()).then((wheelerData)=>{
+        let wheelerLink = document.querySelector("#wheeler-link")
+        wheelerLink.href = `alldata.html?wheelerData=${encodeURIComponent(JSON.stringify(wheelerData))}`
+    }).catch((err)=>console.log(err))
+}
+getWheelerData()
 // alliances data / tv data fetch
 let fashionContainer = document.querySelector("#fashionSeller-slider-container")
 function getalliancesData(){
@@ -366,14 +374,6 @@ function getGroceryData(){
     const groceryLink = document.querySelector("#grocery-link")
         fetch("http://localhost:3000/grocery-data").then((res)=>res.json()).then((groceryData)=>{
             groceryLink.href = `alldata.html?groceryData=${encodeURIComponent(JSON.stringify(groceryData))}`
-            console.log(groceryData)
         }).catch((err)=>console.log(err))
 }
 getGroceryData()
-// for grocery Data
-// document.addEventListener("click", (event)=>{
-//     if(event.target.classList.contains("grocery-content")){
-//         console.log("ashi")
-        
-//     }
-// })

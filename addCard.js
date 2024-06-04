@@ -69,23 +69,3 @@ function totalAmount(data){
         totalPrice.innerHTML = `₹${sum}`
     })
 }
-// for increase and decrease product quantity
-// let countQunt = 0;
-// document.addEventListener("click", (eve)=>{
-//     if(eve.target.classList.contains("increaseQuantity")){
-//         increaseQunt(eve.target.dataset.id)
-//     }
-// })
-// function increaseQunt(id){
-//     console.log(id)
-//     // let obj ={
-//     //     "quantity": `${1+1}`
-//     // }
-//     fetch(`http://localhost:3000/add-To-Cart-data/${id}`).then((res)=>res.json()).then((data)=>{
-//         quantity = Number(data.quantity) + 1
-//         console.log(quantity)
-//         // countQunt += Number(data.quantity)
-//         // console.log(countQunt)
-//         // console.log(data.quantity)
-//     }).catch((err)=>console.log(err))
-// }

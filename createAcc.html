@@ -45,23 +45,30 @@
             <p>Sign up with your mobile number to get started</p>
         </div>
         <div class="signup-content">
-            <input type="text" placeholder="Enter Email" id="userEmail">
-            <div class="otp-section">
-                <div class="otp-header">
-                    <span class="otp-email">OTP sent to your Email</span>
-                    <span id="resend-btn">verify</span>
-                </div>
-                <div class="otp-input">
-                    <input type="text" placeholder="Enter OTP" id="otpInput">
-                </div>
-            </div>
-            <div class="button-content">
-                <button id="continue-btn">Continue</button>
-                <button class="login-btn"><a href="#" class="text-decoration-none">Existing User? Log in</a></button>
+            <div id="signup-form">
+                <form class="text-center">
+                    <div class="mb-3">
+                        <input type="text" placeholder="First Name" id="first-name" required>
+                    </div>
+                    <div class="mb-3">
+                        <input type="text" placeholder="Last Name" id="last-name" required>
+                    </div>
+                    <div class="email-input">
+                        <input type="email" placeholder="Email" id="email">
+                        <p id="EmailError" class="error text-start"></p>
+                    </div>
+                    <div class="password-input">
+                        <input type="password" placeholder="Password" id="password">
+                        <p id="PasswordError" class="error text-start"></p>
+                    </div>
+                    <div class="button-content">
+                        <button id="continue-btn">Continue</button>
+                        <h6 class="login-btn"><a href="#" class="text-decoration-none">Existing User? Log in</a></h6>
+                    </div>
+                </form>
             </div>
         </div>
     </section>
-
     <!-- footer section -->
     <footer class="bg-dark">
         <div class="footer d-grid">

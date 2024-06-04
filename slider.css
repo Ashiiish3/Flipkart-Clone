@@ -30,6 +30,7 @@
 @media(min-width: 300px) and (max-width: 480px){
     .product-container{
         width: 100%;
+        margin-top: 8px;
     }
     .product-container .product-header{
         padding: 20px 0px 0px 0px;

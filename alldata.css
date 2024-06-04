@@ -291,11 +291,13 @@ figure .filter{
 @media(min-width: 300px) and (max-width: 480px){
     main{
         width: 100%;
+        margin-top: 8px;
     }
     main aside{
         display: none;
     }
     main figure{
+        width: 100%;
         padding: 8px;
     }
     /* for phone item data */
@@ -324,21 +326,41 @@ figure .filter{
         width: 100%;
     }
     /* for top deal data */
-    .topDeal-box, .tvDeal-box, .furnitData-box, .electroData-box{
+    .topDeal-box, .tvDeal-box, .furnitData-box, .electroData-box, .fashionData-box{
         padding: 0%;
         margin: 0%;
     }
-    .tvDeal-box #descInfo{
+    .tvDeal-box #descInfo, .fashionData-box #fashionData #descInfo{
         margin-bottom: 10px;
+    }
+    .tvDeal-box{
+        width: 100%;
+    }
+    .tvDeal-box #tvDeal #image-part{
+        width: 100%;
+    }
+    .topDeal-box #topDeal #image-part{
+        width: 100%;
     }
     /* for furniture data */
     .furnitData-box #furnitData #image-part,
     .electroData-box #electroData #image-part{
+        width: 100%;
         padding: 5px 8px 5px 5px;
+        & img{
+            width: 100%;
+        }
     }
     .furnitData-box #furnitData #descInfo,
     .electroData-box #electroData #descInfo{
         padding: 0px 7px;
         margin-bottom: 10px;
+    }
+    /* for fashion data */
+    .fashionData-box{
+        width: 100%;
+    }
+    .fashionData-box #fashionData #image-part{
+        width: 100%;
     }
 }
