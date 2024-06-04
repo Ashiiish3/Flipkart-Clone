@@ -160,10 +160,19 @@ topDealPrevButton.addEventListener("click", ()=>{
     topDealData.style.scrollBehavior = "smooth"
     topDealData.scrollLeft -= scrollDistance
 })
-// fashion data / tv data fetch
-let fashionContainer = document.querySelector("#fashionSeller-slider-container")
+// fetch fashion data
 function getFashionData(){
     fetch("http://localhost:3000/fashion-data").then((res)=>res.json()).then((fashionData)=>{
+        let fashionLink = document.querySelector("#fashion-link")
+        fashionLink.href = `alldata.html?fashionData=${encodeURIComponent(JSON.stringify(fashionData))}`
+    }).catch((err)=>console.log(err))
+
+}
+getFashionData()
+// alliances data / tv data fetch
+let fashionContainer = document.querySelector("#fashionSeller-slider-container")
+function getalliancesData(){
+    fetch("http://localhost:3000/appliance-data").then((res)=>res.json()).then((fashionData)=>{
         document.addEventListener("click", (e)=>{
             if(e.target.classList.contains("tv-slider-links")){
                 let store = localStorage.setItem("phoneData", JSON.stringify(fashionData))
@@ -172,7 +181,7 @@ function getFashionData(){
         multipleFashionCards(fashionData)
     }).catch((err)=>console.log(err))
 }
-getFashionData()
+getalliancesData()
 function singleFashionCard(image, title, discount, tvInnderData){
     let div = `
         <a href="alldata.html?tvInnderData=${encodeURIComponent(JSON.stringify(tvInnderData))}" class="text-dark text-decoration-none">
@@ -189,7 +198,7 @@ function multipleFashionCards(fashionData){
     let storeFashionData = fashionData.map((el)=>singleFashionCard(el.image, el.title, el.discount, el.tvInnderData))
     fashionContainer.innerHTML = storeFashionData.join("")
 }
-// fashion data / tv data slider
+// alliances data / tv data slider
 let fashionNextButton = document.querySelector("#FashionNext")
 let fashionPrevButton = document.querySelector("#FashionPrev")
 function calculateScrollDistance() {

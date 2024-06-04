@@ -4147,7 +4147,7 @@
       ]
     }
   ],
-  "fashion-data": [
+  "appliance-data": [
     {
       "id": "tv1",
       "image": "https://rukminim2.flixcart.com/image/200/200/xif0q/refrigerator-new/h/y/t/-original-imagwnjnez3fhghk.jpeg?q=70",
@@ -10183,18 +10183,523 @@
       "id": "d8ca"
     }
   ],
-  "add-To-Cart-data": [
+  "fashion-data": [
     {
-      "id": "168e",
-      "image_url": "https://rukminim2.flixcart.com/image/312/312/j9u8lu80/mobile/q/v/h/motorola-moto-x4-pa8t0002in-original-imaezk6g4pazpe4r.jpeg?q=70",
-      "name": "MOTOROLA Moto X4 (Super Black, 32 GB)",
-      "ratings_reviews": "4,452 Ratings & 651 Reviews",
-      "original_price": "21,999",
-      "price": "13,999",
-      "discount": "21% off",
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/y/3/r/xl-gucci-teal-color-sti-original-imahyyzrfertshuc.jpeg?q=70",
+      "category": "Fashion",
+      "name": "Men Printed Round Neck Polyester Multicolor T-Shirt",
+      "quantity": "1",
       "delivery_time": "Free delivery",
-      "quantity": "1"
+      "rating": 4.2,
+      "ratings_reviews": "1,025 Ratings & 889 Reviews",
+      "price": 199,
+      "original_price": 999,
+      "discount": "80% off"
     },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/9/c/h/s-bel-w-005-spoyl-belliskey-original-imahf2h6khc8jyqu.jpeg?q=70",
+      "category": "Fashion",
+      "name": "Men Printed Round Neck Polyester Multicolor T-Shirt",
+      "quantity": "1",
+      "delivery_time": "Free delivery",
+      "rating": 3.6,
+      "ratings_reviews": "2,036 Ratings & 1,050 Reviews",
+      "price": 399,
+      "original_price": 999,
+      "discount": "60% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/g/t/o/xl-ts23-vebnor-original-imagwhgbjnrg8hjc.jpeg?q=70",
+      "category": "Fashion",
+      "name": "Men Printed Polo Neck Polyester Grey T-Shirt",
+      "quantity": "1",
+      "delivery_time": "Free delivery",
+      "rating": 4.5,
+      "ratings_reviews": "1,060 Ratings & 159 Reviews",
+      "price": 279,
+      "original_price": 999,
+      "discount": "72% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/k/7/a/l-classic-formal-eviqe-original-imahy9kjrgrtturh.jpeg?q=70",
+      "category": "Fashion",
+      "name": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "quantity": "1",
+      "delivery_time": "Free delivery",
+      "rating": 4,
+      "ratings_reviews": "1,052 Ratings & 850 Reviews",
+      "price": 319,
+      "original_price": "1,899",
+      "discount": "83% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/3/v/r/m-tag-greenflair-original-imahykqdyfy6ybgz.jpeg?q=70",
+      "category": "Fashion",
+      "name": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "quantity": "1",
+      "delivery_time": "Free delivery",
+      "rating": 4.3,
+      "ratings_reviews": "3,692 Ratings & 1,900 Reviews",
+      "price": 369,
+      "original_price": "1,499",
+      "discount": "75% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/c/p/m-db1024-15-3bros-original-imagz8zjfxthf7kn.jpeg?q=70",
+      "category": "Fashion",
+      "name": "Men Self Design Polo Neck Cotton Blend (220 gsm) Green ...",
+      "quantity": "1",
+      "delivery_time": "Free delivery",
+      "rating": 4.8,
+      "ratings_reviews": "2,590 Ratings & 1,360 Reviews",
+      "price": 299,
+      "original_price": 999,
+      "discount": "70% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/y/m/l-xjc23-rn-3-4th-blk-prpl-spoiled-jump-cuts-original-imahf85g4d5yxm8y.jpeg?q=70",
+      "category": "Fashion",
+      "name": "Men Printed Round Neck Cotton Blend Black T-Shirt",
+      "quantity": "1",
+      "delivery_time": "Free delivery",
+      "rating": 3.7,
+      "ratings_reviews": "10,260 Ratings & 5,369 Reviews",
+      "price": 269,
+      "original_price": "1,399",
+      "discount": "80% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/6/f/v/xl-ktmnrsc-white-voroxy-original-imahyjkxhfszhbtm.jpeg?q=70",
+      "category": "Fashion",
+      "name": "Men Regular Fit Solid Spread Collar Formal Shirt",
+      "quantity": "1",
+      "delivery_time": "Free delivery",
+      "rating": 4.2,
+      "ratings_reviews": "889 Ratings & 360 Reviews",
+      "price": 299,
+      "original_price": "2,199",
+      "discount": "86% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/l2p23rk0/sari/n/u/t/free-vi-work-laddu-creation-unstitched-original-imagdzg3ddprhjaz.jpeg?q=70",
+      "quantity": 1,
+      "delivery_time": "Free delivery",
+      "name": "Embroidered Banarasi Pure Silk, Art Silk Saree",
+      "category": "Fashion",
+      "rating": 4.2,
+      "ratings_reviews": "958 Ratings & 442 Reviews",
+      "price": 499,
+      "original_price": "1,999",
+      "discount": "75% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/shapewear/p/k/t/xxl-sw-black-elliti-original-imaghbjxgm5wmvyr.jpeg?q=70",
+      "quantity": 1,
+      "delivery_time": "Free delivery",
+      "name": "ALYNE 1 Lycra Blend Petticoat",
+      "category": "Fashion",
+      "rating": 4.9,
+      "ratings_reviews": "2,630 Ratings & 996 Reviews",
+      "price": 260,
+      "original_price": "1,499",
+      "discount": "82% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/v/4/q/xxl-1006-aradhna-original-imagufjrd76a9zw9.jpeg?q=70",
+      "quantity": 1,
+      "delivery_time": "Free delivery",
+      "name": "ALYNE FISHTAIL Nylon Blend Petticoat",
+      "category": "Fashion",
+      "rating": 3.5,
+      "ratings_reviews": "1,520 Ratings & 960 Reviews",
+      "price": 464,
+      "original_price": "1,299",
+      "discount": "64% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/g/t/o/l-khk3000050-ketch-original-imaggsdwtujbwxeq.jpeg?q=70",
+      "quantity": 1,
+      "delivery_time": "Free delivery",
+      "name": "Women Cotton Blend Kurta Palazzo Set",
+      "category": "Fashion",
+      "rating": 4.1,
+      "ratings_reviews": "3,080 Ratings & 1,025 Reviews",
+      "price": 450,
+      "original_price": "2,249",
+      "discount": "79% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/i/u/i/free-banarasi-s-4096-green-paithani-saree-yellow-paithani-saree-original-imahybp6xqvyhucm.jpeg?q=70",
+      "quantity": 1,
+      "delivery_time": "Free delivery",
+      "name": "Woven Kanjivaram Art Silk, Jacquard Saree",
+      "category": "Fashion",
+      "rating": 4.7,
+      "ratings_reviews": "5,015 Ratings & 1,980 Reviews",
+      "price": 459,
+      "original_price": "1,999",
+      "discount": "77% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/k37mg7k0/sari/f/m/v/free-grey-lycra-ebiz-original-imafmdbsbxkngd64.jpeg?q=70",
+      "quantity": 1,
+      "delivery_time": "Free delivery",
+      "name": "Embroidered Bollywood Silk Blend, Satin Saree",
+      "category": "Fashion",
+      "rating": 3.7,
+      "ratings_reviews": "4,260 Ratings & 3,600 Reviews",
+      "price": 548,
+      "original_price": "2,599",
+      "discount": "78% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/h/v/b/s-purple-emb-sequined-bunai-dhaga-original-imagu32w5kygrnzm.jpeg?q=70",
+      "quantity": 1,
+      "delivery_time": "Free delivery",
+      "name": "Women Viscose Rayon Kurta Palazzo Dupatta Set",
+      "category": "Fashion",
+      "rating": 4.4,
+      "ratings_reviews": "2,360 Ratings & 1,952 Reviews",
+      "price": 739,
+      "original_price": "3,999",
+      "discount": "81% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/q/s/a/xl-sk-4-big-carry-multicolor-st-kurta-kjfab-original-imahyybd2hy9vrm6.jpeg?q=70",
+      "quantity": 1,
+      "delivery_time": "Free delivery",
+      "name": "Women Printed Pure Cotton Straight Kurta",
+      "category": "Fashion",
+      "rating": 4.5,
+      "ratings_reviews": "1,620 Ratings & 826 Reviews",
+      "price": 419,
+      "original_price": 999,
+      "discount": "58% off"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/rucksack/h/0/s/-original-imahy88szmtceufz.jpeg?q=70",
+      "quantity": 1,
+      "name": "SBCOLLECTION 60L Premium Quality Rucksack With Water Re...",
+      "rating": 4,
+      "ratings_reviews": "951 Ratings & 630 Reviews",
+      "category": "Fashion",
+      "price": 389,
+      "original_price": "2,999",
+      "discount": "87% off",
+      "delivery_time": "Free delivery"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/l/s/m/-original-imagt756kyxppjh2.jpeg?q=70",
+      "quantity": 1,
+      "name": "ARISTOCRAT Photon Strolly 65 360 Tbl Check-in Suitcase ...",
+      "rating": 4.4,
+      "ratings_reviews": "2,360 Ratings & 1,952 Reviews",
+      "category": "Fashion",
+      "price": "1,599",
+      "original_price": "7,000",
+      "discount": "77% off",
+      "delivery_time": "Free delivery"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/rucksack/n/y/t/-original-imagh3w9vcyusz5x.jpeg?q=70",
+      "quantity": 1,
+      "name": "Fast look Expandable Travel Outdoor Sport Camping Hikin...",
+      "rating": 4.1,
+      "ratings_reviews": "963 Ratings & 145 Reviews",
+      "category": "Fashion",
+      "price": 355,
+      "original_price": "2,999",
+      "discount": "88% off",
+      "delivery_time": "Free delivery"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/d/1/i/-original-imagt2zuaqaccgmg.jpeg?q=70",
+      "quantity": 1,
+      "name": "SAFARI ECLIPSE 75 Check-in Suitcase 4 Wheels - 30 inch",
+      "rating": 4.3,
+      "ratings_reviews": "758 Ratings & 153 Reviews",
+      "category": "Fashion",
+      "price": "2,299",
+      "original_price": "12,670",
+      "discount": "81% off",
+      "delivery_time": "Free delivery"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/w/v/m/-original-imagypsrxgaztmgu.jpeg?q=70",
+      "quantity": 1,
+      "name": "Safari Magnum Fury 66 Check-in Suitcase 4 Wheels - 26 I...",
+      "rating": 4.2,
+      "ratings_reviews": "753 Ratings & 159 Reviews",
+      "category": "Fashion",
+      "price": "1,749",
+      "original_price": "9,370",
+      "discount": "81% off",
+      "delivery_time": "Free delivery"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/rucksack/m/8/z/-original-imaghanu6qprshze.jpeg?q=70",
+      "quantity": 1,
+      "name": "Fast look Travel Rucksack Backpack for Sport Camping Hi...",
+      "rating": 4.1,
+      "ratings_reviews": "4,360 Ratings & 2,426 Reviews",
+      "category": "Fashion",
+      "price": 355,
+      "original_price": "2,699",
+      "discount": "86% off",
+      "delivery_time": "Free delivery"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/4/b/d/-original-imagy96d9gqzgvmq.jpeg?q=70",
+      "quantity": 1,
+      "name": "ARISTOCRAT Airstop Cabin Luggage- 63Cm, Periscope, Hard...",
+      "rating": 4.3,
+      "ratings_reviews": "2,351 Ratings & 1,426 Reviews",
+      "category": "Fashion",
+      "price": "1,599",
+      "original_price": "7,999",
+      "discount": "80% off",
+      "delivery_time": "Free delivery"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/sling-bag/d/c/e/women-s-the-metallic-sling-bag-bronze-1-8-aw24-hshb2575-sling-original-imahyz4bhybesxvv.jpeg?q=70",
+      "quantity": 1,
+      "name": "Haute Sauce Brown Sling Bag Women's The Metallic Sling...",
+      "rating": 4.3,
+      "ratings_reviews": "9,651 Ratings & 4,226 Reviews",
+      "category": "Fashion",
+      "price": "1,149",
+      "original_price": "2,298",
+      "discount": "50% off",
+      "delivery_time": "Free delivery"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/m/j/5/-original-imagy96dar5vx9s5.jpeg?q=70",
+      "quantity": 1,
+      "name": "Kamiliant by American Tourister Kam Triprism Sp Aqua Ca...",
+      "rating": 4.3,
+      "ratings_reviews": "1,256 Ratings & 926 Reviews",
+      "category": "Fashion",
+      "price": "1,249",
+      "original_price": "7,700",
+      "discount": "83% off",
+      "delivery_time": "Free delivery"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/garment-cover/e/b/3/storage-organizer-blanket-storage-bag-for-wardrobe-organizer-original-imagmhudvgggtdbg.jpeg?q=70",
+      "quantity": 1,
+      "name": "Craft Bazar Combo Of 3 Underbed Storage Bag With Side H...",
+      "rating": 3.9,
+      "ratings_reviews": "951 Ratings & 426 Reviews",
+      "category": "Fashion",
+      "price": 221,
+      "original_price": 899,
+      "discount": "75% off",
+      "delivery_time": "Free delivery"
+    }
+  ],
+  "wheeler-data": [
+    {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/scooter-moped/p/n/a/-original-imagmgcgpechuh2y.jpeg?q=70",
+      "quantity": 1,
+      "name": "Hero XOOM (LX) Booking for Ex-Showroom Price",
+      "rating": 4.4,
+      "delivery_time": "Free delivery",
+      "category": "Wheeler",
+      "price": "74,286",
+      "original_price": "1,00,260"
+  },
+  {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/motorcycle/j/0/j/-original-imagtpvpaywvj8zh.jpeg?q=70",
+      "quantity": 1,
+      "name": "Hero XPulse 200T 4V Booking for Ex-Showroom Price",
+      "rating": 4.7,
+      "delivery_time": "Free delivery",
+      "category": "Wheeler",
+      "price": "1,30,246",
+      "original_price": "1,50,301"
+  },
+  {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/motorcycle/t/h/l/i3s-with-self-start-self-kick-hf-deluxe-i3s-with-self-start-drum-original-imahfy586yhh83gc.jpeg?q=70",
+      "quantity": 1,
+      "name": "Hero HF Deluxe (Non i3S with Kick Start) Booking for Ex...",
+      "rating": 4.4,
+      "delivery_time": "Free delivery",
+      "category": "Wheeler",
+      "price": "54,129",
+      "original_price": "70,150"
+  },
+  {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/motorcycle/m/p/0/-original-imagsyyh5jmr4pzq.jpeg?q=70",
+      "quantity": 1,
+      "name": "Hero Splendor+ (Non i3S) Booking for Ex-Showroom Price",
+      "rating": 4.5,
+      "delivery_time": "Free delivery",
+      "category": "Wheeler",
+      "price": "74,951",
+      "original_price": "90,789"
+  },
+  {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/motorcycle/k/k/a/i3s-self-kick-splendor-i3s-drum-97-2-booking-for-ex-showroom-original-imahfy58hyqgcbsm.jpeg?q=70",
+      "quantity": 1,
+      "name": "Hero Splendor+ (i3S) Booking for Ex-Showroom Price",
+      "rating": 4.5,
+      "delivery_time": "Free delivery",
+      "category": "Wheeler",
+      "price": "76,616",
+      "original_price": "90,250"
+  },
+  {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/motorcycle/4/k/p/stealth-self-kick-xtreme-160r-stealth-disc-163-booking-for-ex-original-imahfy585czrz367.jpeg?q=70",
+      "quantity": 1,
+      "name": "Hero Xtreme 160R (Stealth) Booking for Ex-Showroom Pric...",
+      "rating": 4.6,
+      "delivery_time": "Free delivery",
+      "category": "Wheeler",
+      "price": "28,154",
+      "original_price": "60,256"
+  },
+  {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/motorcycle/t/h/l/i3s-with-self-start-self-kick-hf-deluxe-i3s-with-self-start-drum-original-imahfy586yhh83gc.jpeg?q=70",
+      "quantity": 1,
+      "name": "Hero HF Deluxe (i3S with Self Start) Booking for Ex-Sho...",
+      "rating": 4.4,
+      "delivery_time": "Free delivery",
+      "category": "Wheeler",
+      "price": "68,718",
+      "original_price": "80,526"
+  },
+  {
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/motorcycle/n/5/2/latest-self-spl-i3s-drsc-fi-mat-drum-97-booking-for-ex-showroom-original-imagx49sqzphqcdt.jpeg?q=70",
+      "quantity": 1,
+      "name": "Hero SPL+ I3S DRSC FI MAT Booking for Ex-Showroom Price",
+      "rating": 4.5,
+      "delivery_time": "Free delivery",
+      "category": "Wheeler",
+      "price": "77,756",
+      "original_price": "85,360"
+  },
+  {
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/c/q/x/-original-imagz8xnkeykwmpc.jpeg?q=70",
+    "quantity": 1,
+    "name": "VIDA Powered by Hero V1 Plus Booking for Ex-Showroom Price (with Portable Charger, Cyan)",
+    "rating": 4.4,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "2,510 Ratings & 365 Reviews",
+    "price": "1,19,900",
+    "original_price": "1,30,400"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/j/j/i/-original-imagturrdnzjuqh8.jpeg?q=70",
+    "quantity": 1,
+    "name": "BGauss BG C12i Ex Booking for Ex-Showroom Price (With CAN Enabled Charger, Matte Blue)",
+    "rating": 3.7,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "19 Ratings & 6 Reviews",
+    "price": "1,12,734",
+    "original_price": "1,20,620"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/y/y/a/-original-imagkfyw4uram2g3.jpeg?q=70",
+    "quantity": 1,
+    "name": "OKAYA Faast F2B Booking for Ex-Showroom Price (with Portable Charger, Metallic Silver)",
+    "rating": 4.3,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "73 Ratings & 13 Reviews",
+    "price": "99,950",
+    "original_price": "1,10,500"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/m/q/u/-original-imagkfytwf5wgejq.jpeg?q=70",
+    "quantity": 1,
+    "name": "OKAYA FAAST F4 Booking for Ex-Showroom Price (with Portable Charger, Metallic Black)",
+    "rating": 4.2,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "73 Ratings & 10 Reviews",
+    "price": "1,32,500",
+    "original_price": "1,50,256"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/s/f/l/2023-portable-charger-e1-disc-booking-for-ex-showroom-price-pan-original-imagv3zmujg2jgcg.jpeg?q=70",
+    "quantity": 1,
+    "name": "Bounce Infinity E1+ Booking for Ex-Showroom Price (With Charger, Pearl White)",
+    "rating": 4.1,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "52 Ratings & 13 Reviews",
+    "price": "1,09,605",
+    "original_price": "1,40,500"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/t/j/m/-original-imagkfyvz7hh82m8.jpeg?q=70",
+    "quantity": 1,
+    "name": "OKAYA ClassIQ Booking for Ex-Showroom Price (with Portable Charger, Metallic Grey)",
+    "rating": 3.7,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "43 Ratings & 7 Reviews",
+    "price": "74,499",
+    "original_price": "90,250"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/0/k/j/2024-with-charger-gen-next-nanu-disc-booking-for-ex-showroom-original-imagxvwf9rgknns4.jpeg?q=70",
+    "quantity": 1,
+    "name": "Joy e-bike Gen Next Nanu + Booking for Ex-Showroom Price (With Charger, Midnight Black)",
+    "rating": 3.5,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "50 Ratings & 10 Reviews",
+    "price": "88,000",
+    "original_price": "95,200"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/c/h/y/-original-imagkfywvavgj3xg.jpeg?q=70",
+    "quantity": 1,
+    "name": "OKAYA Freedum LI-2 Booking for Ex-Showroom Price (with Portable Charger, Matte Green)",
+    "rating": 3.9,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "550 Ratings & 69 Reviews",
+    "price": "74,899",
+    "original_price": "90,560"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/l/e/o/-original-imagqup7zfkqen2t.jpeg?q=70",
+    "quantity": 1,
+    "name": "Joy e-bike Gen Next Nanu Eco Booking for Ex-Showroom Price (with Portable Charger, White)",
+    "rating": 4,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "10 Ratings & 1 Reviews",
+    "price": "79,000",
+    "original_price": "85,250"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/q/q/q/2023-portable-charger-e1-disc-booking-for-ex-showroom-price-pan-original-imaguxhuccgmnfpk.jpeg?q=70",
+    "quantity": 1,
+    "name": "Bounce Infinity E1+ Booking for Ex-Showroom Price (With Charger, Bounce Yellow)",
+    "rating": 4.1,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "52 Ratings & 13 Reviews",
+    "price": "1,09,605",
+    "original_price": "1,30,500"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/t/t/u/2019-with-charger-glob-disc-booking-for-ex-showroom-price-pan-original-imagw5w4v5em2zz6.jpeg?q=70",
+    "quantity": 1,
+    "name": "Joy e-bike Glob Booking for Ex-Showroom Price (With Charger, Black)",
+    "rating": 4,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "4 Ratings & 0 Reviews",
+    "price": "70,000",
+    "original_price": "80,100"
+},
+{
+    "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/z/s/h/-original-imagkn9bdamevfph.jpeg?q=70",
+    "quantity": 1,
+    "name": "Ampere Magnus EX Booking for Ex-Showroom Price (With Charger, Galactic Grey)",
+    "rating": 4.2,
+    "delivery_time": "Free delivery",
+    "ratings_reviews": "232 Ratings & 38 Reviews",
+    "price": "1,04,900",
+    "original_price": "1,06,600"
+}
+  ],
+  "add-To-Cart-data": [
     {
       "id": "6baa",
       "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/portable-laptop-table/9/g/f/28-pu-mdf-medium-density-fiber-sh-ldc-1-savya-home-40-brown-original-imagwyrzjs99kgzf.jpeg?q=70",
@@ -10236,6 +10741,28 @@
       "original_price": "230",
       "price": "181",
       "discount": "21% off",
+      "delivery_time": "Free delivery",
+      "quantity": "1"
+    },
+    {
+      "id": "f285",
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/3/v/r/m-tag-greenflair-original-imahykqdyfy6ybgz.jpeg?q=70",
+      "name": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "ratings_reviews": null,
+      "original_price": "1,499",
+      "price": "369",
+      "discount": "75% off",
+      "delivery_time": "Free delivery",
+      "quantity": "1"
+    },
+    {
+      "id": "3855",
+      "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/c/p/m-db1024-15-3bros-original-imagz8zjfxthf7kn.jpeg?q=70",
+      "name": "Men Self Design Polo Neck Cotton Blend (220 gsm) Green ...",
+      "ratings_reviews": "2,590 Ratings & 1,360 Reviews",
+      "original_price": "999",
+      "price": "299",
+      "discount": "70% off",
       "delivery_time": "Free delivery",
       "quantity": "1"
     }

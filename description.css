@@ -35,9 +35,6 @@
 .description-container .row .image-box img{
     overflow: hidden;
 }
-.description-container .row .image-box #addCart-image{
-    height: 100%;
-}
 .description-container .row .info-box #brand{
     color: #868686;
 }
