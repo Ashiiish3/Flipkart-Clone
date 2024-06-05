@@ -35,14 +35,14 @@ section .signup-content{
     }
     & .button-content{
         margin-top: 40px;
-        & button, .login-btn{
+        & button, .signup-btn{
             display: block;
             border: none;
             width: 100%;
             padding: 12px 0px;
             font-weight: 500;
         }
-        & .login-btn{
+        & .signup-btn{
             padding-bottom: 14px;
         }
         & #continue-btn{
@@ -51,11 +51,30 @@ section .signup-content{
             text-transform: uppercase;
             box-shadow: 0px 2px 5px 0px gainsboro;
         }
-        & .login-btn{
+        & .signup-btn{
             margin-top: 15px;
             color: rgba(0, 0, 255, 0.842);
             background-color: white;
             box-shadow: 0px 2px 5px 0px rgb(202, 202, 202);
+        }
+    }
+}
+/* media query for mobile phone */
+@media(min-width: 300px) and (max-width: 480px){
+    section{
+        width: 100%;
+        margin: 8px auto;
+    }
+    section .signup-image{
+        display: none;
+    }
+    section .signup-content{
+        width: 100%;
+        & #continue-btn{
+            font-size: 15px;
+        }
+        & .signup-btn{
+            font-size: 14px;
         }
     }
 }

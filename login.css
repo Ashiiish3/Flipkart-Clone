@@ -1,0 +1,80 @@
+section{
+    width: 45%;
+    margin: 15px auto;
+    display: flex;
+    background-color: white;
+}
+section .login-image{
+    width: 40%;
+    background-image: url("Public/images/login\ bg\ image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 30px;
+}
+section .login-image h2{
+    color: white;
+    font-size: 29px;
+}
+section .login-image p{
+    margin-top: 20px;
+    color: rgb(211, 211, 211);
+    font-weight: 400;
+    font-size: 18px;
+}
+section .login-content{
+    padding: 50px 30px;
+    width: 60%;
+    height: 600px;
+    & input{
+        display: block;
+        width: 100%;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid rgb(189, 189, 189);
+    }
+    & .button-content{
+        margin-top: 40px;
+        & button, .login-btn{
+            display: block;
+            border: none;
+            width: 100%;
+            padding: 12px 0px;
+            font-weight: 500;
+        }
+        & .login-btn{
+            padding-bottom: 14px;
+        }
+        & #continue-btn{
+            background-color: #fb641b;
+            color: white;
+            text-transform: uppercase;
+            box-shadow: 0px 2px 5px 0px gainsboro;
+        }
+        & .login-btn{
+            margin-top: 15px;
+            color: rgba(0, 0, 255, 0.842);
+            background-color: white;
+            box-shadow: 0px 2px 5px 0px rgb(202, 202, 202);
+        }
+    }
+}
+/* media query for mobile phone */
+@media(min-width: 300px) and (max-width: 480px){
+    section{
+        width: 100%;
+        margin: 8px auto;
+    }
+    section .login-image{
+        display: none;
+    }
+    section .login-content{
+        width: 100%;
+        & #continue-btn{
+            font-size: 15px;
+        }
+        & .login-btn{
+            font-size: 12px;
+        }
+    }
+}

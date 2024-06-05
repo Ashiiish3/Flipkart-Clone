@@ -10,7 +10,7 @@
     <!-- font awesome and remix icon CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.css" integrity="sha512-OQDNdI5rpnZ0BRhhJc+btbbtnxaj+LdQFeh0V9/igiEPDiWE2fG+ZsXl0JEH+bjXKPJ3zcXqNyP4/F/NegVdZg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- css file -->
-    <link rel="stylesheet" href="createAcc.css">
+    <link rel="stylesheet" href="login.css">
     <link rel="stylesheet" href="main.css">
     <!-- for OTP generate -->
     <script src="https://smtpjs.com/v3/smtp.js"></script>
@@ -28,7 +28,7 @@
                 <input type="text" placeholder="Search for Products, Brands and More">
             </div>
             <div class="login-button">
-                <button type="button" class="btn btn-outline-primary"><i class="fa-regular fa-user me-2 user"></i><a href="" class="text-decoration-none">Login</a></button>
+                <button type="button" class="btn btn-outline-primary"><i class="fa-regular fa-user me-2 user"></i><a href="login.html" class="text-decoration-none">Login</a></button>
             </div>
             <div class="cart-button">
                 <button class="px-2"><a href="addCart.html"><i class="ri-shopping-cart-2-line me-1" style="font-size: 19px;"></i> <span class="cart-name">Cart</span> <span class="badge" id="cart-count">0</span></a></button>
@@ -40,30 +40,22 @@
     </div>
     <!-- Login section -->
     <section>
-        <div class="signup-image">
+        <div class="login-image">
             <h2>Login</h2>
             <p>Get access to your Orders, Wishlist and Recommendations</p>
         </div>
-        <div class="signup-content">
-            <div id="signup-form">
+        <div class="login-content">
+            <div id="login-form">
                 <form class="text-center">
-                    <div class="mb-3">
-                        <input type="text" placeholder="First Name" id="first-name" required>
-                    </div>
-                    <div class="mb-3">
-                        <input type="text" placeholder="Last Name" id="last-name" required>
-                    </div>
-                    <div class="email-input">
-                        <input type="email" placeholder="Email" id="email">
-                        <p id="EmailError" class="error text-start"></p>
+                    <div class="email-input mb-3">
+                        <input type="email" placeholder="Email" id="LoginEmail">
                     </div>
                     <div class="password-input">
-                        <input type="password" placeholder="Password" id="password">
-                        <p id="PasswordError" class="error text-start"></p>
+                        <input type="password" placeholder="Password" id="LoginPassword">
                     </div>
                     <div class="button-content">
-                        <button id="continue-btn">Continue</button>
-                        <button class="login-btn"><a href="createAcc.html" class="text-decoration-none">New to Flipkart? Create an Account</a></button>
+                        <button id="continue-btn">Login</button>
+                        <h6 class="login-btn"><a href="createAcc.html" class="text-decoration-none">New to Flipkart? Create an Account</a></h6>
                     </div>
                 </form>
             </div>
