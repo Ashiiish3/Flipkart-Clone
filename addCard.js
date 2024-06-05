@@ -3,7 +3,7 @@ const addCartInfoContainer = document.querySelector("#addCart-info")
 const counts = document.querySelector("#cart-counts")
 let dataArray = []
 function getAddCartData(){
-    fetch("http://localhost:3000/add-To-Cart-data").then((res)=>res.json()).then((data)=>{
+    fetch("https://shark-tank-json-server-xakg.onrender.com/add-To-Cart-data").then((res)=>res.json()).then((data)=>{
         counts.innerHTML = data.length
         totalAmount(data)
         multipleCards(data)
@@ -56,7 +56,7 @@ document.addEventListener("click", (eve)=>{
     }
 })
 function deleteProduct(id){
-    fetch(`http://localhost:3000/add-To-Cart-data/${id}`,{
+    fetch(`https://shark-tank-json-server-xakg.onrender.com/add-To-Cart-data/${id}`,{
         method: 'DELETE',
     })
 }

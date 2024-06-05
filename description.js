@@ -200,7 +200,7 @@ function addCardData(clss){
         "delivery_time": params.get("delivery_time"),
         "quantity": params.get("quantity")
     }
-    fetch("http://localhost:3000/add-To-Cart-data",{
+    fetch("https://shark-tank-json-server-xakg.onrender.com/add-To-Cart-data",{
         method: "POST",
         headers: {
             "Content-Type": "application/json",
