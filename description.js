@@ -206,5 +206,7 @@ function addCardData(clss){
             "Content-Type": "application/json",
         },
         body: JSON.stringify(phoneObj),
-    })
+    }).then((res)=>res.json()).then((postData)=>{
+        location.reload();
+    }).catch((err)=>console.log(err))
 }

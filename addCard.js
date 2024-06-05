@@ -47,6 +47,15 @@ function multipleCards(data){
     let storeAddCartData = data.map((ele)=>singleCard(ele.image_url, ele.name, ele.ratings_reviews, ele.original_price, ele.price, ele.discount, ele.delivery_time, ele.id, ele.quantity))
     addCartInfoContainer.innerHTML = storeAddCartData.join("")
 }
+// for total amount
+const totalPrice = document.querySelector("#totalAmount")
+let sum = 0;
+function totalAmount(data){
+    data.forEach((element)=>{
+        sum += Number(element.price.replace(/,/g, ''))
+        totalPrice.innerHTML = `₹${sum}`
+    })
+}
 // for delete add cart product
 document.addEventListener("click", (eve)=>{
     if(eve.target.classList.contains("deleteButton")){
@@ -58,14 +67,5 @@ document.addEventListener("click", (eve)=>{
 function deleteProduct(id){
     fetch(`https://shark-tank-json-server-xakg.onrender.com/add-To-Cart-data/${id}`,{
         method: 'DELETE',
-    })
-}
-// for total amount
-const totalPrice = document.querySelector("#totalAmount")
-let sum = 0;
-function totalAmount(data){
-    data.forEach((element)=>{
-        sum += Number(element.price.replace(/,/g, ''))
-        totalPrice.innerHTML = `₹${sum}`
-    })
+    }).then((res)=>res.json()).then((deleteData)=>location.reload()).catch((err)=>console.log(err))
 }
