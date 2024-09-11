@@ -10,7 +10,7 @@ Hello Everyone! This documentation provides an overview of Flipkart Website. Thi
 ### Features
 
 1. User Registration and Authentication:
-   - Users can create accounts and securely log in to Death Wish Coffee website.
+   - Users can create accounts and securely log in to Flipkart Website.
 2. Cart Functionality:
    - Users can add products to their shopping cart for a convenient shopping experience.
    - The cart displays a summary of the selected items, including the total price.
@@ -20,7 +20,7 @@ Hello Everyone! This documentation provides an overview of Flipkart Website. Thi
 
 ### Screenshots
 
-Here are some screenshots of the Death Wish Coffee website for you to preview.
+Here are some screenshots of the Flipkart Website for you to preview.
 
 ![Home Page](https://github.com/Ashu7891/Flipkart-Clone/assets/143114291/72360673-abe3-4d7b-94b2-93a09be94824)
 
