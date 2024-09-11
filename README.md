@@ -1,7 +1,8 @@
 ## Flipkart Website Clone
 
 ### Introduction
-Hello Everyone! This documentation provides an overview of Flipkart Website. This project is clone of Flipkart website India's biggest online store for Mobiles, Fashion (Clothes/Shoes), Electronics, Home Appliances, Books, Home, Furniture, Grocery, Jewelry, Sporting goods etc. This project was complete with 20 days and it showcases the usage of various technologies, including JavaScript, HTML, CSS, and bootstrap framework. 
+Hello Everyone! This documentation provides an overview of Flipkart Website. This project is clone of Flipkart website India's biggest online store for Mobiles, Fashion (Clothes/Shoes), Electronics, Home Appliances, Books, Home, Furniture, Grocery, Jewelry, Sporting goods etc. This project was complete with 13 days and it showcases the usage of various technologies, including JavaScript, HTML, CSS, and bootstrap framework. The platform features a responsive and user-friendly interface where Users can create accounts and securely log into Flipkart Website and Users can also add products to their shopping cart for a convenient shopping experience.
+
 ### Project Details
 - Project Name: Flipkart Website Clone (https://flipkart-clone-pi-vert.vercel.app/)
 - Real website: flipkart.com (https://www.flipkart.com/)
