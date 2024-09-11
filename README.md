@@ -5,7 +5,7 @@ Hello Everyone! This documentation provides an overview of Flipkart Website. Thi
 ### Project Details
 - Project Name: Flipkart Website Clone (https://flipkart-clone-pi-vert.vercel.app/)
 - Real website: flipkart.com (https://www.flipkart.com/)
-- Project Duration: 20 Days
+- Project Duration: 13 Days
 - Usage Tools: HTML5, CSS3, Javascript, Bootstrap, JSON-Server
 ### Features
 
